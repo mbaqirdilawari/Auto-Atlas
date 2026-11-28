@@ -1,0 +1,2066 @@
+make,epa_model,year,nhtsa_model,match_status,candidate_count,candidate_models
+Audi,A3,2020,A3,exact_name_candidate,1,A3
+Audi,A3,2022,,review_required,1,AUDI A3
+Audi,A3,2023,,review_required,1,AUDI A3
+Audi,A3,2024,A3,exact_name_candidate,1,A3
+Audi,A3 Cabriolet quattro,2020,,review_required,3,A3 | A3 CABRIOLET | A3 ETRON
+Audi,A3 quattro,2020,,review_required,3,A3 | A3 CABRIOLET | A3 ETRON
+Audi,A3 quattro,2022,,review_required,1,AUDI A3
+Audi,A3 quattro,2023,,review_required,1,AUDI A3
+Audi,A3 quattro,2024,,review_required,1,A3
+Audi,A3 quattro,2025,,review_required,1,A3
+Audi,A4,2020,A4,exact_name_candidate,1,A4
+Audi,A4 S line quattro,2021,,not_yet_mapped,0,""
+Audi,A4 S line quattro,2022,,not_yet_mapped,0,""
+Audi,A4 S line quattro,2024,,not_yet_mapped,0,""
+Audi,A4 S line quattro,2025,,not_yet_mapped,0,""
+Audi,A4 S-Line quattro,2023,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2020,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2021,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2022,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2023,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2024,,not_yet_mapped,0,""
+Audi,A4 allroad quattro,2025,,not_yet_mapped,0,""
+Audi,A4 quattro,2020,,not_yet_mapped,0,""
+Audi,A4 quattro,2021,,not_yet_mapped,0,""
+Audi,A4 quattro,2022,,not_yet_mapped,0,""
+Audi,A4 quattro,2023,,not_yet_mapped,0,""
+Audi,A4 quattro,2024,,not_yet_mapped,0,""
+Audi,A4 quattro,2025,,not_yet_mapped,0,""
+Audi,A5 Cabriolet quattro,2020,,not_yet_mapped,0,""
+Audi,A5 Cabriolet quattro,2021,,not_yet_mapped,0,""
+Audi,A5 Cabriolet quattro,2022,,not_yet_mapped,0,""
+Audi,A5 Cabriolet quattro,2023,,not_yet_mapped,0,""
+Audi,A5 Cabriolet quattro,2024,,not_yet_mapped,0,""
+Audi,A5 Coupe quattro,2022,,not_yet_mapped,0,""
+Audi,A5 Coupe quattro,2023,,not_yet_mapped,0,""
+Audi,A5 Coupe quattro,2024,,not_yet_mapped,0,""
+Audi,A5 Sportback S line quattro,2021,,not_yet_mapped,0,""
+Audi,A5 Sportback S line quattro,2022,,not_yet_mapped,0,""
+Audi,A5 Sportback S line quattro,2024,,not_yet_mapped,0,""
+Audi,A5 Sportback S line quattro,2025,,not_yet_mapped,0,""
+Audi,A5 Sportback S-Line quattro,2023,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2020,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2021,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2022,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2023,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2024,,not_yet_mapped,0,""
+Audi,A5 Sportback quattro,2025,,not_yet_mapped,0,""
+Audi,A5 quattro,2020,,not_yet_mapped,0,""
+Audi,A5 quattro,2021,,not_yet_mapped,0,""
+Audi,A5 quattro,2025,,not_yet_mapped,0,""
+Audi,A6 Allroad,2020,A6 ALLROAD,exact_name_candidate,1,A6 ALLROAD
+Audi,A6 Allroad,2021,A6 ALLROAD,exact_name_candidate,1,A6 ALLROAD
+Audi,A6 Allroad,2023,,not_yet_mapped,0,""
+Audi,A6 Allroad quattro,2022,,not_yet_mapped,0,""
+Audi,A6 Allroad quattro,2024,,not_yet_mapped,0,""
+Audi,A6 Allroad quattro,2025,,not_yet_mapped,0,""
+Audi,A6 quattro,2020,,not_yet_mapped,0,""
+Audi,A6 quattro,2021,,not_yet_mapped,0,""
+Audi,A6 quattro,2022,,not_yet_mapped,0,""
+Audi,A6 quattro,2023,,not_yet_mapped,0,""
+Audi,A6 quattro,2024,,not_yet_mapped,0,""
+Audi,A6 quattro,2025,,not_yet_mapped,0,""
+Audi,A7,2023,,not_yet_mapped,0,""
+Audi,A7 quattro,2020,,not_yet_mapped,0,""
+Audi,A7 quattro,2021,,not_yet_mapped,0,""
+Audi,A7 quattro,2022,,not_yet_mapped,0,""
+Audi,A7 quattro,2024,,not_yet_mapped,0,""
+Audi,A7 quattro,2025,,not_yet_mapped,0,""
+Audi,A8 L,2020,A8L,exact_name_candidate,1,A8L
+Audi,A8 L,2021,A8L,exact_name_candidate,1,A8L
+Audi,A8 L,2023,,not_yet_mapped,0,""
+Audi,A8 L quattro,2022,,not_yet_mapped,0,""
+Audi,A8 quattro,2024,,not_yet_mapped,0,""
+Audi,A8 quattro,2025,,not_yet_mapped,0,""
+Audi,Q3,2023,Q3,exact_name_candidate,1,Q3
+Audi,Q3,2025,Q3,exact_name_candidate,1,Q3
+Audi,Q3 S line quattro,2022,,not_yet_mapped,0,""
+Audi,Q3 S line quattro,2024,,not_yet_mapped,0,""
+Audi,Q3 S-Line,2023,,not_yet_mapped,0,""
+Audi,Q3 S-Line quattro,2025,,not_yet_mapped,0,""
+Audi,Q3 S-line quattro,2021,,not_yet_mapped,0,""
+Audi,Q3 quattro,2020,,not_yet_mapped,0,""
+Audi,Q3 quattro,2021,,not_yet_mapped,0,""
+Audi,Q3 quattro,2022,,not_yet_mapped,0,""
+Audi,Q3 quattro,2024,,not_yet_mapped,0,""
+Audi,Q5,2020,Q5,exact_name_candidate,1,Q5
+Audi,Q5,2021,Q5,exact_name_candidate,1,Q5
+Audi,Q5 S line quattro,2022,,not_yet_mapped,0,""
+Audi,Q5 S line quattro,2024,,not_yet_mapped,0,""
+Audi,Q5 S line quattro,2025,,not_yet_mapped,0,""
+Audi,Q5 S-Line quattro,2023,,not_yet_mapped,0,""
+Audi,Q5 Sportback,2021,Q5 SPORTBACK,exact_name_candidate,1,Q5 SPORTBACK
+Audi,Q5 Sportback S line quattro,2022,,not_yet_mapped,0,""
+Audi,Q5 Sportback S line quattro,2024,,not_yet_mapped,0,""
+Audi,Q5 Sportback S line quattro,2025,,not_yet_mapped,0,""
+Audi,Q5 Sportback S-line quattro,2023,,not_yet_mapped,0,""
+Audi,Q5 Sportback TFSI quattro,2025,,not_yet_mapped,0,""
+Audi,Q5 TFSI quattro,2025,,not_yet_mapped,0,""
+Audi,Q5 quattro,2022,,not_yet_mapped,0,""
+Audi,Q5 quattro,2023,,not_yet_mapped,0,""
+Audi,Q5 quattro,2024,,not_yet_mapped,0,""
+Audi,Q5 quattro,2025,,not_yet_mapped,0,""
+Audi,Q7,2020,Q7,exact_name_candidate,1,Q7
+Audi,Q7,2021,Q7,exact_name_candidate,1,Q7
+Audi,Q7,2023,,not_yet_mapped,0,""
+Audi,Q7,2025,Q7,exact_name_candidate,1,Q7
+Audi,Q7 quattro,2022,,not_yet_mapped,0,""
+Audi,Q7 quattro,2024,,not_yet_mapped,0,""
+Audi,Q8,2020,Q8,exact_name_candidate,1,Q8
+Audi,Q8,2021,Q8,exact_name_candidate,1,Q8
+Audi,Q8,2023,Q8,exact_name_candidate,1,Q8
+Audi,Q8 quattro,2022,,not_yet_mapped,0,""
+Audi,Q8 quattro,2024,,not_yet_mapped,0,""
+Audi,Q8 quattro,2025,,not_yet_mapped,0,""
+Audi,R8,2021,,not_yet_mapped,0,""
+Audi,R8 2WD,2021,,not_yet_mapped,0,""
+Audi,R8 AWD,2020,,not_yet_mapped,0,""
+Audi,R8 Coupe,2022,,not_yet_mapped,0,""
+Audi,R8 Coupe RWD,2022,,not_yet_mapped,0,""
+Audi,R8 Coupe RWD,2023,,not_yet_mapped,0,""
+Audi,R8 Coupe quattro,2023,,not_yet_mapped,0,""
+Audi,R8 GT RWD,2023,,not_yet_mapped,0,""
+Audi,R8 Spyder,2021,,not_yet_mapped,0,""
+Audi,R8 Spyder,2022,,not_yet_mapped,0,""
+Audi,R8 Spyder 2WD,2021,,not_yet_mapped,0,""
+Audi,R8 Spyder AWD,2020,,not_yet_mapped,0,""
+Audi,R8 Spyder RWD,2022,,not_yet_mapped,0,""
+Audi,R8 Spyder RWD,2023,,not_yet_mapped,0,""
+Audi,R8 Spyder quattro,2023,,not_yet_mapped,0,""
+Audi,RS 3,2022,,not_yet_mapped,0,""
+Audi,RS 3,2024,,not_yet_mapped,0,""
+Audi,RS 3,2025,RS 3,exact_name_candidate,1,RS 3
+Audi,RS 5,2021,RS 5,exact_name_candidate,1,RS 5
+Audi,RS 5 Coupe,2022,,not_yet_mapped,0,""
+Audi,RS 5 Coupe,2023,,not_yet_mapped,0,""
+Audi,RS 5 Coupe,2024,,not_yet_mapped,0,""
+Audi,RS 5 Sportback,2021,RS 5 SPORTBACK,exact_name_candidate,1,RS 5 SPORTBACK
+Audi,RS 5 Sportback,2022,,not_yet_mapped,0,""
+Audi,RS 5 Sportback,2023,,not_yet_mapped,0,""
+Audi,RS 5 Sportback,2024,,not_yet_mapped,0,""
+Audi,RS 5 Sportback,2025,,not_yet_mapped,0,""
+Audi,RS 6 Avant,2021,RS 6 AVANT,exact_name_candidate,1,RS 6 AVANT
+Audi,RS 6 Avant,2022,,not_yet_mapped,0,""
+Audi,RS 6 Avant,2023,,not_yet_mapped,0,""
+Audi,RS 6 Avant,2024,RS 6 AVANT,exact_name_candidate,1,RS 6 AVANT
+Audi,RS 6 Avant,2025,,not_yet_mapped,0,""
+Audi,RS 7,2021,RS 7,exact_name_candidate,1,RS 7
+Audi,RS 7,2022,,not_yet_mapped,0,""
+Audi,RS 7,2023,,not_yet_mapped,0,""
+Audi,RS 7,2024,,not_yet_mapped,0,""
+Audi,RS 7,2025,,not_yet_mapped,0,""
+Audi,RS Q8,2020,,not_yet_mapped,0,""
+Audi,RS Q8,2021,RS Q8,exact_name_candidate,1,RS Q8
+Audi,RS Q8,2022,,not_yet_mapped,0,""
+Audi,RS Q8,2023,,not_yet_mapped,0,""
+Audi,RS Q8,2024,,not_yet_mapped,0,""
+Audi,RS Q8 Performance,2025,,not_yet_mapped,0,""
+Audi,RS3,2020,RS 3,exact_name_candidate,1,RS 3
+Audi,RS3,2023,,not_yet_mapped,0,""
+Audi,S3,2020,S3,exact_name_candidate,1,S3
+Audi,S3,2022,,not_yet_mapped,0,""
+Audi,S3,2023,,not_yet_mapped,0,""
+Audi,S3,2024,S3,exact_name_candidate,1,S3
+Audi,S3,2025,,not_yet_mapped,0,""
+Audi,S4,2020,S4,exact_name_candidate,1,S4
+Audi,S4,2021,S4,exact_name_candidate,1,S4
+Audi,S4,2022,,not_yet_mapped,0,""
+Audi,S4,2023,,not_yet_mapped,0,""
+Audi,S4,2024,,not_yet_mapped,0,""
+Audi,S4,2025,,not_yet_mapped,0,""
+Audi,S5,2020,S5,exact_name_candidate,1,S5
+Audi,S5,2021,S5,exact_name_candidate,1,S5
+Audi,S5,2025,,not_yet_mapped,0,""
+Audi,S5 Cabriolet,2020,,not_yet_mapped,0,""
+Audi,S5 Cabriolet,2021,,not_yet_mapped,0,""
+Audi,S5 Cabriolet,2022,,not_yet_mapped,0,""
+Audi,S5 Cabriolet,2023,,not_yet_mapped,0,""
+Audi,S5 Cabriolet,2024,,not_yet_mapped,0,""
+Audi,S5 Coupe,2022,,not_yet_mapped,0,""
+Audi,S5 Coupe,2023,,not_yet_mapped,0,""
+Audi,S5 Coupe,2024,S5 COUPE,exact_name_candidate,1,S5 COUPE
+Audi,S5 Sportback,2020,S5 SPORTBACK,exact_name_candidate,1,S5 SPORTBACK
+Audi,S5 Sportback,2021,S5 SPORTBACK,exact_name_candidate,1,S5 SPORTBACK
+Audi,S5 Sportback,2022,,not_yet_mapped,0,""
+Audi,S5 Sportback,2023,,not_yet_mapped,0,""
+Audi,S5 Sportback,2024,,not_yet_mapped,0,""
+Audi,S5 Sportback,2025,,not_yet_mapped,0,""
+Audi,S6,2020,S6,exact_name_candidate,1,S6
+Audi,S6,2021,,not_yet_mapped,0,""
+Audi,S6,2022,,not_yet_mapped,0,""
+Audi,S6,2023,,not_yet_mapped,0,""
+Audi,S6,2024,,not_yet_mapped,0,""
+Audi,S6,2025,,not_yet_mapped,0,""
+Audi,S7,2020,S7,exact_name_candidate,1,S7
+Audi,S7,2021,S7,exact_name_candidate,1,S7
+Audi,S7,2022,,not_yet_mapped,0,""
+Audi,S7,2023,,not_yet_mapped,0,""
+Audi,S7,2024,,not_yet_mapped,0,""
+Audi,S7,2025,,not_yet_mapped,0,""
+Audi,S8,2020,,not_yet_mapped,0,""
+Audi,S8,2021,S8,exact_name_candidate,1,S8
+Audi,S8,2022,,not_yet_mapped,0,""
+Audi,S8,2023,,not_yet_mapped,0,""
+Audi,S8,2024,,not_yet_mapped,0,""
+Audi,S8,2025,,not_yet_mapped,0,""
+Audi,SQ5,2020,SQ5,exact_name_candidate,1,SQ5
+Audi,SQ5,2021,SQ5,exact_name_candidate,1,SQ5
+Audi,SQ5,2022,,not_yet_mapped,0,""
+Audi,SQ5,2023,,not_yet_mapped,0,""
+Audi,SQ5,2024,SQ5,exact_name_candidate,1,SQ5
+Audi,SQ5,2025,SQ5,exact_name_candidate,1,SQ5
+Audi,SQ5 Sportback,2021,SQ5 SPORTBACK,exact_name_candidate,1,SQ5 SPORTBACK
+Audi,SQ5 Sportback,2022,,not_yet_mapped,0,""
+Audi,SQ5 Sportback,2023,,not_yet_mapped,0,""
+Audi,SQ5 Sportback,2024,,not_yet_mapped,0,""
+Audi,SQ5 Sportback,2025,,not_yet_mapped,0,""
+Audi,SQ7,2020,SQ7,exact_name_candidate,1,SQ7
+Audi,SQ7,2021,SQ7,exact_name_candidate,1,SQ7
+Audi,SQ7,2022,,not_yet_mapped,0,""
+Audi,SQ7,2023,,not_yet_mapped,0,""
+Audi,SQ7,2024,SQ7,exact_name_candidate,1,SQ7
+Audi,SQ7,2025,SQ7,exact_name_candidate,1,SQ7
+Audi,SQ8,2020,SQ8,exact_name_candidate,1,SQ8
+Audi,SQ8,2021,SQ8,exact_name_candidate,1,SQ8
+Audi,SQ8,2022,,not_yet_mapped,0,""
+Audi,SQ8,2023,,not_yet_mapped,0,""
+Audi,SQ8,2024,SQ8,exact_name_candidate,1,SQ8
+Audi,SQ8,2025,,not_yet_mapped,0,""
+Audi,TT Coupe,2023,,not_yet_mapped,0,""
+Audi,TT Coupe quattro,2020,,not_yet_mapped,0,""
+Audi,TT Coupe quattro,2021,,not_yet_mapped,0,""
+Audi,TT Coupe quattro,2022,,not_yet_mapped,0,""
+Audi,TT RS,2020,,not_yet_mapped,0,""
+Audi,TT RS,2021,,not_yet_mapped,0,""
+Audi,TT RS Coupe,2022,,not_yet_mapped,0,""
+Audi,TT Roadster,2023,,not_yet_mapped,0,""
+Audi,TT Roadster quattro,2020,,not_yet_mapped,0,""
+Audi,TT Roadster quattro,2021,,not_yet_mapped,0,""
+Audi,TT Roadster quattro,2022,,not_yet_mapped,0,""
+Audi,TTS Coupe,2020,,not_yet_mapped,0,""
+Audi,TTS Coupe,2021,,not_yet_mapped,0,""
+Audi,TTS Coupe,2023,,not_yet_mapped,0,""
+Audi,TTS Coupe quattro,2022,,not_yet_mapped,0,""
+BMW,228 xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,228i Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,228i Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,228i Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,228i Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,228i xDrive Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,228i xDrive Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,228i xDrive Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,228i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,228i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,230i Convertible,2020,,not_yet_mapped,0,""
+BMW,230i Convertible,2021,,not_yet_mapped,0,""
+BMW,230i Coupe,2020,,not_yet_mapped,0,""
+BMW,230i Coupe,2021,,not_yet_mapped,0,""
+BMW,230i Coupe,2022,,not_yet_mapped,0,""
+BMW,230i Coupe,2023,,not_yet_mapped,0,""
+BMW,230i Coupe,2024,,not_yet_mapped,0,""
+BMW,230i Coupe,2025,,not_yet_mapped,0,""
+BMW,230i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,230i xDrive Convertible,2021,,not_yet_mapped,0,""
+BMW,230i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,230i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,230i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,230i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,230i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,330i,2020,,not_yet_mapped,0,""
+BMW,330i,2021,,not_yet_mapped,0,""
+BMW,330i Sedan,2022,,not_yet_mapped,0,""
+BMW,330i Sedan,2023,,not_yet_mapped,0,""
+BMW,330i Sedan,2024,,not_yet_mapped,0,""
+BMW,330i Sedan,2025,,not_yet_mapped,0,""
+BMW,330i xDrive,2020,,not_yet_mapped,0,""
+BMW,330i xDrive,2021,,not_yet_mapped,0,""
+BMW,330i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,330i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,330i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,330i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,430i Convertible,2020,,not_yet_mapped,0,""
+BMW,430i Convertible,2021,,not_yet_mapped,0,""
+BMW,430i Convertible,2022,,not_yet_mapped,0,""
+BMW,430i Convertible,2023,,not_yet_mapped,0,""
+BMW,430i Convertible,2024,,not_yet_mapped,0,""
+BMW,430i Convertible,2025,,not_yet_mapped,0,""
+BMW,430i Coupe,2020,,not_yet_mapped,0,""
+BMW,430i Coupe,2021,,not_yet_mapped,0,""
+BMW,430i Coupe,2022,,not_yet_mapped,0,""
+BMW,430i Coupe,2023,,not_yet_mapped,0,""
+BMW,430i Coupe,2024,,not_yet_mapped,0,""
+BMW,430i Coupe,2025,,not_yet_mapped,0,""
+BMW,430i Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,430i Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,430i Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,430i Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,430i Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,430i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,430i xDrive Convertible,2022,,not_yet_mapped,0,""
+BMW,430i xDrive Convertible,2023,,not_yet_mapped,0,""
+BMW,430i xDrive Convertible,2024,,not_yet_mapped,0,""
+BMW,430i xDrive Convertible,2025,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,430i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,430i xDrive Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,430i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,430i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,430i xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,440i Convertible,2020,,not_yet_mapped,0,""
+BMW,440i Coupe,2020,,not_yet_mapped,0,""
+BMW,440i Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,440i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,440i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,440i xDrive Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,530i,2020,,not_yet_mapped,0,""
+BMW,530i,2021,,not_yet_mapped,0,""
+BMW,530i Sedan,2022,,not_yet_mapped,0,""
+BMW,530i Sedan,2023,,not_yet_mapped,0,""
+BMW,530i Sedan,2024,,not_yet_mapped,0,""
+BMW,530i Sedan,2025,,not_yet_mapped,0,""
+BMW,530i xDrive,2020,,not_yet_mapped,0,""
+BMW,530i xDrive,2021,,not_yet_mapped,0,""
+BMW,530i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,530i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,530i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,530i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,540i,2020,,not_yet_mapped,0,""
+BMW,540i,2021,,not_yet_mapped,0,""
+BMW,540i Sedan,2022,,not_yet_mapped,0,""
+BMW,540i Sedan,2023,,not_yet_mapped,0,""
+BMW,540i xDrive,2020,,not_yet_mapped,0,""
+BMW,540i xDrive,2021,,not_yet_mapped,0,""
+BMW,540i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,540i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,540i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,540i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,740i,2020,,not_yet_mapped,0,""
+BMW,740i,2021,,not_yet_mapped,0,""
+BMW,740i Sedan,2022,,not_yet_mapped,0,""
+BMW,740i Sedan,2023,,not_yet_mapped,0,""
+BMW,740i Sedan,2024,,not_yet_mapped,0,""
+BMW,740i Sedan,2025,,not_yet_mapped,0,""
+BMW,740i xDrive,2020,,not_yet_mapped,0,""
+BMW,740i xDrive,2021,,not_yet_mapped,0,""
+BMW,740i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,740i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,740i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,750i xDrive,2020,,not_yet_mapped,0,""
+BMW,750i xDrive,2021,,not_yet_mapped,0,""
+BMW,750i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,760i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,760i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,760i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,840i Convertible,2020,,not_yet_mapped,0,""
+BMW,840i Convertible,2021,,not_yet_mapped,0,""
+BMW,840i Convertible,2022,,not_yet_mapped,0,""
+BMW,840i Convertible,2023,,not_yet_mapped,0,""
+BMW,840i Convertible,2024,,not_yet_mapped,0,""
+BMW,840i Convertible,2025,,not_yet_mapped,0,""
+BMW,840i Coupe,2020,,not_yet_mapped,0,""
+BMW,840i Coupe,2021,,not_yet_mapped,0,""
+BMW,840i Coupe,2022,,not_yet_mapped,0,""
+BMW,840i Coupe,2023,,not_yet_mapped,0,""
+BMW,840i Coupe,2024,,not_yet_mapped,0,""
+BMW,840i Coupe,2025,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,840i Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2021,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2022,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2023,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2024,,not_yet_mapped,0,""
+BMW,840i xDrive Convertible,2025,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,840i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,840i xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,Alpina B7,2020,,not_yet_mapped,0,""
+BMW,Alpina B7,2021,,not_yet_mapped,0,""
+BMW,Alpina B7 xDrive,2022,,not_yet_mapped,0,""
+BMW,Alpina B8 Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,Alpina B8 Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,Alpina B8 Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,Alpina B8 Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,Alpina XB7,2021,,not_yet_mapped,0,""
+BMW,Alpina XB7,2022,,not_yet_mapped,0,""
+BMW,Alpina XB7,2023,,not_yet_mapped,0,""
+BMW,Alpina XB7,2024,,not_yet_mapped,0,""
+BMW,Alpina XB7,2025,,not_yet_mapped,0,""
+BMW,M2 CS Coupe,2020,,not_yet_mapped,0,""
+BMW,M2 Competition Coupe,2020,,not_yet_mapped,0,""
+BMW,M2 Competition Coupe,2021,,not_yet_mapped,0,""
+BMW,M2 Coupe,2023,,not_yet_mapped,0,""
+BMW,M2 Coupe,2024,M2 COUPE,exact_name_candidate,1,M2 COUPE
+BMW,M2 Coupe,2025,,not_yet_mapped,0,""
+BMW,M235 xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,M235i xDrive,2020,,not_yet_mapped,0,""
+BMW,M235i xDrive Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,M235i xDrive Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,M235i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,M235i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,M240i Convertible,2020,,not_yet_mapped,0,""
+BMW,M240i Convertible,2021,,not_yet_mapped,0,""
+BMW,M240i Coupe,2020,,not_yet_mapped,0,""
+BMW,M240i Coupe,2021,,not_yet_mapped,0,""
+BMW,M240i Coupe,2023,,not_yet_mapped,0,""
+BMW,M240i Coupe,2024,,not_yet_mapped,0,""
+BMW,M240i Coupe,2025,,not_yet_mapped,0,""
+BMW,M240i Coupe M Performance,2020,,not_yet_mapped,0,""
+BMW,M240i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,M240i xDrive Convertible,2021,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,M240i xDrive Coupe M Performance,2020,,not_yet_mapped,0,""
+BMW,M3,2021,M3,exact_name_candidate,1,M3
+BMW,M3 CS Sedan,2024,,not_yet_mapped,0,""
+BMW,M3 Competition,2021,,not_yet_mapped,0,""
+BMW,M3 Competition M xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,M3 Competition M xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,M3 Competition M xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,M3 Competition M xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,M3 Competition Sedan,2022,,not_yet_mapped,0,""
+BMW,M3 Competition Sedan,2023,,not_yet_mapped,0,""
+BMW,M3 Competition Sedan,2024,,not_yet_mapped,0,""
+BMW,M3 Competition Sedan,2025,,not_yet_mapped,0,""
+BMW,M3 Sedan,2022,,not_yet_mapped,0,""
+BMW,M3 Sedan,2023,M3 SEDAN,exact_name_candidate,1,M3 SEDAN
+BMW,M3 Sedan,2024,,not_yet_mapped,0,""
+BMW,M3 Sedan,2025,,not_yet_mapped,0,""
+BMW,M340i,2020,M340I,exact_name_candidate,1,M340I
+BMW,M340i,2021,M340I,exact_name_candidate,1,M340I
+BMW,M340i Sedan,2022,,not_yet_mapped,0,""
+BMW,M340i Sedan,2023,,not_yet_mapped,0,""
+BMW,M340i Sedan,2024,,not_yet_mapped,0,""
+BMW,M340i Sedan,2025,,not_yet_mapped,0,""
+BMW,M340i xDrive,2020,,not_yet_mapped,0,""
+BMW,M340i xDrive,2021,,not_yet_mapped,0,""
+BMW,M340i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,M340i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,M340i xDrive Sedan,2024,,not_yet_mapped,0,""
+BMW,M340i xDrive Sedan,2025,,not_yet_mapped,0,""
+BMW,M4 CS,2020,,not_yet_mapped,0,""
+BMW,M4 CS Coupe,2025,,not_yet_mapped,0,""
+BMW,M4 CSL Coupe,2023,,not_yet_mapped,0,""
+BMW,M4 Competition Coupe,2021,,not_yet_mapped,0,""
+BMW,M4 Competition Coupe,2022,,not_yet_mapped,0,""
+BMW,M4 Competition Coupe,2023,,not_yet_mapped,0,""
+BMW,M4 Competition Coupe,2024,,not_yet_mapped,0,""
+BMW,M4 Competition Coupe,2025,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Convertible,2022,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Convertible,2023,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Convertible,2024,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Convertible,2025,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,M4 Competition M xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,M4 Convertible,2020,,not_yet_mapped,0,""
+BMW,M4 Convertible Competition,2020,,not_yet_mapped,0,""
+BMW,M4 Coupe,2020,,not_yet_mapped,0,""
+BMW,M4 Coupe,2021,,not_yet_mapped,0,""
+BMW,M4 Coupe,2022,,not_yet_mapped,0,""
+BMW,M4 Coupe,2023,,not_yet_mapped,0,""
+BMW,M4 Coupe,2024,M4 COUPE,exact_name_candidate,1,M4 COUPE
+BMW,M4 Coupe,2025,,not_yet_mapped,0,""
+BMW,M4 Coupe Competition,2020,,not_yet_mapped,0,""
+BMW,M440i Convertible,2021,,not_yet_mapped,0,""
+BMW,M440i Convertible,2022,,not_yet_mapped,0,""
+BMW,M440i Convertible,2023,,not_yet_mapped,0,""
+BMW,M440i Convertible,2024,,not_yet_mapped,0,""
+BMW,M440i Convertible,2025,,not_yet_mapped,0,""
+BMW,M440i Coupe,2022,,not_yet_mapped,0,""
+BMW,M440i Coupe,2023,,not_yet_mapped,0,""
+BMW,M440i Coupe,2024,,not_yet_mapped,0,""
+BMW,M440i Coupe,2025,,not_yet_mapped,0,""
+BMW,M440i Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,M440i Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,M440i Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,M440i xDrive Convertible,2022,,not_yet_mapped,0,""
+BMW,M440i xDrive Convertible,2023,,not_yet_mapped,0,""
+BMW,M440i xDrive Convertible,2024,,not_yet_mapped,0,""
+BMW,M440i xDrive Convertible,2025,,not_yet_mapped,0,""
+BMW,M440i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,M440i xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,M440i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,M440i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,M440i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,M440i xDrive Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,M440i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,M440i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,M440i xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,M5,2020,M5,exact_name_candidate,1,M5
+BMW,M5,2021,M5,exact_name_candidate,1,M5
+BMW,M5 CS Sedan,2022,,not_yet_mapped,0,""
+BMW,M5 Competition,2020,,not_yet_mapped,0,""
+BMW,M5 Competition,2021,,not_yet_mapped,0,""
+BMW,M5 Competition Sedan,2022,,not_yet_mapped,0,""
+BMW,M5 Competition Sedan,2023,,not_yet_mapped,0,""
+BMW,M5 Sedan,2022,,not_yet_mapped,0,""
+BMW,M5 Sedan,2023,M5 SEDAN,exact_name_candidate,1,M5 SEDAN
+BMW,M550i xDrive,2020,,not_yet_mapped,0,""
+BMW,M550i xDrive,2021,,not_yet_mapped,0,""
+BMW,M550i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,M550i xDrive Sedan,2023,,not_yet_mapped,0,""
+BMW,M760i xDrive,2020,,not_yet_mapped,0,""
+BMW,M760i xDrive,2021,,not_yet_mapped,0,""
+BMW,M760i xDrive Sedan,2022,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2020,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2021,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2022,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2023,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2024,,not_yet_mapped,0,""
+BMW,M8 Competition Convertible,2025,,not_yet_mapped,0,""
+BMW,M8 Competition Coupe,2020,,not_yet_mapped,0,""
+BMW,M8 Competition Coupe,2022,,not_yet_mapped,0,""
+BMW,M8 Competition Coupe,2023,,not_yet_mapped,0,""
+BMW,M8 Competition Coupe,2024,,not_yet_mapped,0,""
+BMW,M8 Competition Coupe,2025,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,M8 Competition Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,M8 Convertible,2020,M8 CONVERTIBLE,exact_name_candidate,1,M8 CONVERTIBLE
+BMW,M8 Convertible,2021,,not_yet_mapped,0,""
+BMW,M8 Coupe,2020,,not_yet_mapped,0,""
+BMW,M8 Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,M8 Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2020,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2021,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2022,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2023,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2024,,not_yet_mapped,0,""
+BMW,M850i xDrive Convertible,2025,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2020,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2021,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2022,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2023,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2024,,not_yet_mapped,0,""
+BMW,M850i xDrive Coupe,2025,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2020,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2021,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2022,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2023,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2024,,not_yet_mapped,0,""
+BMW,M850i xDrive Gran Coupe,2025,,not_yet_mapped,0,""
+BMW,X1 M35i,2024,,not_yet_mapped,0,""
+BMW,X1 M35i,2025,,not_yet_mapped,0,""
+BMW,X1 sDrive28i,2020,,not_yet_mapped,0,""
+BMW,X1 sDrive28i,2021,,not_yet_mapped,0,""
+BMW,X1 sDrive28i,2022,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2020,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2021,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2022,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2023,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2024,,not_yet_mapped,0,""
+BMW,X1 xDrive28i,2025,,not_yet_mapped,0,""
+BMW,X2 M35i,2020,,not_yet_mapped,0,""
+BMW,X2 M35i,2021,,not_yet_mapped,0,""
+BMW,X2 M35i,2022,,not_yet_mapped,0,""
+BMW,X2 M35i,2023,,not_yet_mapped,0,""
+BMW,X2 M35i,2024,,not_yet_mapped,0,""
+BMW,X2 M35i,2025,,not_yet_mapped,0,""
+BMW,X2 sDrive28i,2020,,not_yet_mapped,0,""
+BMW,X2 sDrive28i,2021,,not_yet_mapped,0,""
+BMW,X2 sDrive28i,2022,,not_yet_mapped,0,""
+BMW,X2 sDrive28i,2023,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2020,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2021,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2022,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2023,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2024,,not_yet_mapped,0,""
+BMW,X2 xDrive28i,2025,,not_yet_mapped,0,""
+BMW,X3 M,2020,X3 M,exact_name_candidate,1,X3 M
+BMW,X3 M,2021,X3 M,exact_name_candidate,1,X3 M
+BMW,X3 M,2022,X3 M,exact_name_candidate,1,X3 M
+BMW,X3 M,2023,X3 M,exact_name_candidate,1,X3 M
+BMW,X3 M,2024,X3 M,exact_name_candidate,1,X3 M
+BMW,X3 M Competition,2020,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 M Competition,2021,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 M Competition,2022,,review_required,2,X3 | X3 M
+BMW,X3 M Competition,2023,,review_required,2,X3 | X3 M
+BMW,X3 M Competition,2024,,review_required,2,X3 | X3 M
+BMW,X3 M40i,2020,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 M40i,2021,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 M40i,2022,,review_required,2,X3 | X3 M
+BMW,X3 M40i,2023,,review_required,2,X3 | X3 M
+BMW,X3 M40i,2024,,review_required,2,X3 | X3 M
+BMW,X3 M50i xDrive,2025,,review_required,1,X3
+BMW,X3 sDrive30i,2020,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 sDrive30i,2021,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 sDrive30i,2022,,review_required,2,X3 | X3 M
+BMW,X3 sDrive30i,2023,,review_required,2,X3 | X3 M
+BMW,X3 sDrive30i,2024,,review_required,2,X3 | X3 M
+BMW,X3 xDrive30i,2020,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 xDrive30i,2021,,review_required,3,X3 | X3 30E XDRIVE | X3 M
+BMW,X3 xDrive30i,2022,,review_required,2,X3 | X3 M
+BMW,X3 xDrive30i,2023,,review_required,2,X3 | X3 M
+BMW,X3 xDrive30i,2024,,review_required,2,X3 | X3 M
+BMW,X3 xDrive30i,2025,,review_required,1,X3
+BMW,X4 M,2020,X4 M,exact_name_candidate,1,X4 M
+BMW,X4 M,2021,X4 M,exact_name_candidate,1,X4 M
+BMW,X4 M,2022,X4 M,exact_name_candidate,1,X4 M
+BMW,X4 M,2023,X4 M,exact_name_candidate,1,X4 M
+BMW,X4 M,2024,X4 M,exact_name_candidate,1,X4 M
+BMW,X4 M,2025,,not_yet_mapped,0,""
+BMW,X4 M Competition,2020,,not_yet_mapped,0,""
+BMW,X4 M Competition,2021,,not_yet_mapped,0,""
+BMW,X4 M Competition,2022,,not_yet_mapped,0,""
+BMW,X4 M Competition,2023,,not_yet_mapped,0,""
+BMW,X4 M Competition,2024,,not_yet_mapped,0,""
+BMW,X4 M Competition,2025,,not_yet_mapped,0,""
+BMW,X4 M40i,2020,,not_yet_mapped,0,""
+BMW,X4 M40i,2021,,not_yet_mapped,0,""
+BMW,X4 M40i,2022,,not_yet_mapped,0,""
+BMW,X4 M40i,2023,,not_yet_mapped,0,""
+BMW,X4 M40i,2024,,not_yet_mapped,0,""
+BMW,X4 M40i,2025,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2020,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2021,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2022,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2023,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2024,,not_yet_mapped,0,""
+BMW,X4 xDrive30i,2025,,not_yet_mapped,0,""
+BMW,X5 M,2020,X5 M,exact_name_candidate,1,X5 M
+BMW,X5 M,2021,X5 M,exact_name_candidate,1,X5 M
+BMW,X5 M,2022,X5 M,exact_name_candidate,1,X5 M
+BMW,X5 M,2023,X5 M,exact_name_candidate,1,X5 M
+BMW,X5 M Competition,2020,,not_yet_mapped,0,""
+BMW,X5 M Competition,2021,,not_yet_mapped,0,""
+BMW,X5 M Competition,2022,,not_yet_mapped,0,""
+BMW,X5 M Competition,2023,,not_yet_mapped,0,""
+BMW,X5 M Competition,2024,,not_yet_mapped,0,""
+BMW,X5 M Competition,2025,,not_yet_mapped,0,""
+BMW,X5 M50i,2020,,not_yet_mapped,0,""
+BMW,X5 M50i,2021,,not_yet_mapped,0,""
+BMW,X5 M50i,2022,,not_yet_mapped,0,""
+BMW,X5 M50i,2023,,not_yet_mapped,0,""
+BMW,X5 M60i xDrive,2024,,not_yet_mapped,0,""
+BMW,X5 M60i xDrive,2025,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2020,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2021,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2022,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2023,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2024,,not_yet_mapped,0,""
+BMW,X5 sDrive40i,2025,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2020,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2021,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2022,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2023,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2024,,not_yet_mapped,0,""
+BMW,X5 xDrive40i,2025,,not_yet_mapped,0,""
+BMW,X5 xDrive50i,2020,,not_yet_mapped,0,""
+BMW,X6 M,2020,,not_yet_mapped,0,""
+BMW,X6 M,2021,X6 M,exact_name_candidate,1,X6 M
+BMW,X6 M,2022,X6 M,exact_name_candidate,1,X6 M
+BMW,X6 M,2023,X6 M,exact_name_candidate,1,X6 M
+BMW,X6 M Competition,2020,,not_yet_mapped,0,""
+BMW,X6 M Competition,2021,,not_yet_mapped,0,""
+BMW,X6 M Competition,2022,,not_yet_mapped,0,""
+BMW,X6 M Competition,2023,,not_yet_mapped,0,""
+BMW,X6 M Competition,2024,,not_yet_mapped,0,""
+BMW,X6 M Competition,2025,,not_yet_mapped,0,""
+BMW,X6 M50i,2020,,not_yet_mapped,0,""
+BMW,X6 M50i,2021,,not_yet_mapped,0,""
+BMW,X6 M50i,2022,,not_yet_mapped,0,""
+BMW,X6 M50i,2023,,not_yet_mapped,0,""
+BMW,X6 M60i xDrive,2024,,not_yet_mapped,0,""
+BMW,X6 M60i xDrive,2025,,not_yet_mapped,0,""
+BMW,X6 sDrive40i,2020,,not_yet_mapped,0,""
+BMW,X6 sDrive40i,2021,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2020,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2021,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2022,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2023,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2024,,not_yet_mapped,0,""
+BMW,X6 xDrive40i,2025,,not_yet_mapped,0,""
+BMW,X7 M50i,2020,,not_yet_mapped,0,""
+BMW,X7 M50i,2021,,not_yet_mapped,0,""
+BMW,X7 M50i,2022,,not_yet_mapped,0,""
+BMW,X7 M60i xDrive,2023,,not_yet_mapped,0,""
+BMW,X7 M60i xDrive,2024,,not_yet_mapped,0,""
+BMW,X7 M60i xDrive,2025,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2020,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2021,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2022,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2023,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2024,,not_yet_mapped,0,""
+BMW,X7 xDrive40i,2025,,not_yet_mapped,0,""
+BMW,X7 xDrive50i,2020,,not_yet_mapped,0,""
+BMW,Z4 M40i,2020,,not_yet_mapped,0,""
+BMW,Z4 M40i,2021,,not_yet_mapped,0,""
+BMW,Z4 M40i,2022,,not_yet_mapped,0,""
+BMW,Z4 M40i,2023,,not_yet_mapped,0,""
+BMW,Z4 M40i,2024,,not_yet_mapped,0,""
+BMW,Z4 M40i,2025,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2020,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2021,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2022,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2023,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2024,,not_yet_mapped,0,""
+BMW,Z4 sDrive30i,2025,,not_yet_mapped,0,""
+Honda,Accord,2020,ACCORD,exact_name_candidate,1,ACCORD
+Honda,Accord,2021,ACCORD,exact_name_candidate,1,ACCORD
+Honda,Accord,2022,ACCORD,exact_name_candidate,1,ACCORD
+Honda,Accord,2023,,not_yet_mapped,0,""
+Honda,Accord,2024,,not_yet_mapped,0,""
+Honda,Accord,2025,,not_yet_mapped,0,""
+Honda,Accord 2.0T Sport/Touring,2020,,not_yet_mapped,0,""
+Honda,Accord Hybrid,2020,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid,2021,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid,2022,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid,2023,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid,2024,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid,2025,ACCORD HYBRID,exact_name_candidate,1,ACCORD HYBRID
+Honda,Accord Hybrid Sport/Touring,2021,,not_yet_mapped,0,""
+Honda,Accord Hybrid Sport/Touring,2022,,not_yet_mapped,0,""
+Honda,Accord Hybrid Sport/Touring,2023,,not_yet_mapped,0,""
+Honda,Accord Hybrid Sport/Touring,2024,,not_yet_mapped,0,""
+Honda,Accord Hybrid Sport/Touring,2025,,not_yet_mapped,0,""
+Honda,Accord Sport/Touring,2021,,not_yet_mapped,0,""
+Honda,Accord Sport/Touring,2022,,not_yet_mapped,0,""
+Honda,CR-V AWD,2020,,not_yet_mapped,0,""
+Honda,CR-V AWD,2021,,not_yet_mapped,0,""
+Honda,CR-V AWD,2022,,not_yet_mapped,0,""
+Honda,CR-V AWD,2023,,not_yet_mapped,0,""
+Honda,CR-V AWD,2024,,not_yet_mapped,0,""
+Honda,CR-V AWD,2025,,not_yet_mapped,0,""
+Honda,CR-V FWD,2020,,not_yet_mapped,0,""
+Honda,CR-V FWD,2021,,not_yet_mapped,0,""
+Honda,CR-V FWD,2022,,not_yet_mapped,0,""
+Honda,CR-V FWD,2023,,not_yet_mapped,0,""
+Honda,CR-V FWD,2024,,not_yet_mapped,0,""
+Honda,CR-V FWD,2025,,not_yet_mapped,0,""
+Honda,CR-V Hybrid AWD,2020,,not_yet_mapped,0,""
+Honda,CR-V Hybrid AWD,2021,,not_yet_mapped,0,""
+Honda,CR-V Hybrid AWD,2022,,not_yet_mapped,0,""
+Honda,CR-V Hybrid AWD,2023,,not_yet_mapped,0,""
+Honda,CR-V Hybrid FWD,2023,,not_yet_mapped,0,""
+Honda,Civic 2Dr,2020,,review_required,5,CIVIC | CIVIC HATCH | CIVIC HATCH TYPE-R | CIVIC HATCHBACK | CIVIC SI
+Honda,Civic 4Dr,2020,,review_required,5,CIVIC | CIVIC HATCH | CIVIC HATCH TYPE-R | CIVIC HATCHBACK | CIVIC SI
+Honda,Civic 4Dr,2021,,review_required,3,CIVIC | CIVIC HATCH | CIVIC HATCH TYPE-R
+Honda,Civic 4Dr,2022,,review_required,3,CIVIC | CIVIC HATCHBACK | CIVIC SEDAN SI
+Honda,Civic 4Dr,2023,,review_required,4,CIVIC HATCHBACK | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN SI
+Honda,Civic 4Dr,2024,,review_required,4,CIVIC HATCHBACK | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN SI
+Honda,Civic 4Dr,2025,,review_required,6,CIVIC HATCHBACK | CIVIC HATCHBACK HYBRID | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN HYBRID | CIVIC SEDAN SI
+Honda,Civic 5Dr,2020,,review_required,5,CIVIC | CIVIC HATCH | CIVIC HATCH TYPE-R | CIVIC HATCHBACK | CIVIC SI
+Honda,Civic 5Dr,2021,,review_required,3,CIVIC | CIVIC HATCH | CIVIC HATCH TYPE-R
+Honda,Civic 5Dr,2022,,review_required,3,CIVIC | CIVIC HATCHBACK | CIVIC SEDAN SI
+Honda,Civic 5Dr,2023,,review_required,4,CIVIC HATCHBACK | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN SI
+Honda,Civic 5Dr,2024,,review_required,4,CIVIC HATCHBACK | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN SI
+Honda,Civic 5Dr,2025,,review_required,6,CIVIC HATCHBACK | CIVIC HATCHBACK HYBRID | CIVIC HATCHBACK TYPE R | CIVIC SEDAN | CIVIC SEDAN HYBRID | CIVIC SEDAN SI
+Honda,Fit,2020,FIT,exact_name_candidate,1,FIT
+Honda,HR-V AWD,2020,,not_yet_mapped,0,""
+Honda,HR-V AWD,2021,,not_yet_mapped,0,""
+Honda,HR-V AWD,2022,,not_yet_mapped,0,""
+Honda,HR-V AWD,2023,,not_yet_mapped,0,""
+Honda,HR-V AWD,2024,,not_yet_mapped,0,""
+Honda,HR-V AWD,2025,,not_yet_mapped,0,""
+Honda,HR-V FWD,2020,,not_yet_mapped,0,""
+Honda,HR-V FWD,2021,,not_yet_mapped,0,""
+Honda,HR-V FWD,2022,,not_yet_mapped,0,""
+Honda,HR-V FWD,2023,,not_yet_mapped,0,""
+Honda,HR-V FWD,2024,,not_yet_mapped,0,""
+Honda,HR-V FWD,2025,,not_yet_mapped,0,""
+Honda,Insight,2020,INSIGHT,exact_name_candidate,1,INSIGHT
+Honda,Insight,2021,INSIGHT,exact_name_candidate,1,INSIGHT
+Honda,Insight,2022,INSIGHT,exact_name_candidate,1,INSIGHT
+Honda,Insight Touring,2020,,not_yet_mapped,0,""
+Honda,Insight Touring,2021,,not_yet_mapped,0,""
+Honda,Insight Touring,2022,,not_yet_mapped,0,""
+Honda,Odyssey,2020,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Odyssey,2021,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Odyssey,2022,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Odyssey,2023,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Odyssey,2024,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Odyssey,2025,ODYSSEY,exact_name_candidate,1,ODYSSEY
+Honda,Passport AWD,2020,,not_yet_mapped,0,""
+Honda,Passport AWD,2021,,not_yet_mapped,0,""
+Honda,Passport AWD,2022,,not_yet_mapped,0,""
+Honda,Passport AWD,2023,,not_yet_mapped,0,""
+Honda,Passport AWD,2024,,not_yet_mapped,0,""
+Honda,Passport AWD,2025,,not_yet_mapped,0,""
+Honda,Passport FWD,2020,,not_yet_mapped,0,""
+Honda,Passport FWD,2021,,not_yet_mapped,0,""
+Honda,Passport FWD,2022,,not_yet_mapped,0,""
+Honda,Pilot AWD,2020,,not_yet_mapped,0,""
+Honda,Pilot AWD,2021,,not_yet_mapped,0,""
+Honda,Pilot AWD,2022,,not_yet_mapped,0,""
+Honda,Pilot AWD,2023,,not_yet_mapped,0,""
+Honda,Pilot AWD,2024,,not_yet_mapped,0,""
+Honda,Pilot AWD,2025,,not_yet_mapped,0,""
+Honda,Pilot AWD Touring/Elite/Black,2023,,not_yet_mapped,0,""
+Honda,Pilot AWD Touring/Elite/Black,2024,,not_yet_mapped,0,""
+Honda,Pilot AWD Touring/Elite/Black,2025,,not_yet_mapped,0,""
+Honda,Pilot AWD TrailSport,2022,,not_yet_mapped,0,""
+Honda,Pilot AWD TrailSport,2023,,not_yet_mapped,0,""
+Honda,Pilot AWD TrailSport,2024,,not_yet_mapped,0,""
+Honda,Pilot AWD TrailSport,2025,,not_yet_mapped,0,""
+Honda,Pilot FWD,2020,,not_yet_mapped,0,""
+Honda,Pilot FWD,2021,,not_yet_mapped,0,""
+Honda,Pilot FWD,2022,,not_yet_mapped,0,""
+Honda,Pilot FWD,2023,,not_yet_mapped,0,""
+Honda,Pilot FWD,2024,,not_yet_mapped,0,""
+Honda,Pilot FWD,2025,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2020,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2021,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2022,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2023,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2024,,not_yet_mapped,0,""
+Honda,Ridgeline AWD,2025,,not_yet_mapped,0,""
+Honda,Ridgeline AWD TrailSport,2024,,not_yet_mapped,0,""
+Honda,Ridgeline AWD TrailSport,2025,,not_yet_mapped,0,""
+Honda,Ridgeline FWD,2020,,not_yet_mapped,0,""
+Lexus,ES 250 AWD,2021,,not_yet_mapped,0,""
+Lexus,ES 250 AWD,2022,,not_yet_mapped,0,""
+Lexus,ES 250 AWD,2023,,not_yet_mapped,0,""
+Lexus,ES 250 AWD,2024,,not_yet_mapped,0,""
+Lexus,ES 250 AWD,2025,,not_yet_mapped,0,""
+Lexus,ES 300h,2020,ES 300H,exact_name_candidate,1,ES 300H
+Lexus,ES 300h,2021,ES 300H,exact_name_candidate,1,ES 300H
+Lexus,ES 300h,2022,ES 300H,exact_name_candidate,1,ES 300H
+Lexus,ES 300h,2023,,not_yet_mapped,0,""
+Lexus,ES 300h,2024,,not_yet_mapped,0,""
+Lexus,ES 300h,2025,ES 300H,exact_name_candidate,1,ES 300H
+Lexus,ES 350,2020,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350,2021,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350,2022,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350,2023,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350,2024,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350,2025,ES 350,exact_name_candidate,1,ES 350
+Lexus,ES 350 F Sport,2020,,not_yet_mapped,0,""
+Lexus,ES 350 F Sport,2021,,not_yet_mapped,0,""
+Lexus,ES 350 F Sport,2022,,not_yet_mapped,0,""
+Lexus,ES 350 F Sport,2023,,not_yet_mapped,0,""
+Lexus,ES 350 F Sport,2024,,not_yet_mapped,0,""
+Lexus,ES 350 F Sport,2025,,not_yet_mapped,0,""
+Lexus,GS 350,2020,,not_yet_mapped,0,""
+Lexus,GS 350 AWD,2020,,not_yet_mapped,0,""
+Lexus,GS 350 F Sport,2020,,not_yet_mapped,0,""
+Lexus,GS F,2020,,not_yet_mapped,0,""
+Lexus,GX 460,2020,GX 460,exact_name_candidate,1,GX 460
+Lexus,GX 460,2021,GX 460,exact_name_candidate,1,GX 460
+Lexus,GX 460,2022,GX 460,exact_name_candidate,1,GX 460
+Lexus,GX 460,2023,GX 460,exact_name_candidate,1,GX 460
+Lexus,GX 550,2024,GX 550,exact_name_candidate,1,GX 550
+Lexus,GX 550,2025,GX 550,exact_name_candidate,1,GX 550
+Lexus,IS 300,2020,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300,2021,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300,2022,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300,2023,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300,2024,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300,2025,IS 300,exact_name_candidate,1,IS 300
+Lexus,IS 300 AWD,2020,,not_yet_mapped,0,""
+Lexus,IS 300 AWD,2021,,not_yet_mapped,0,""
+Lexus,IS 300 AWD,2022,,not_yet_mapped,0,""
+Lexus,IS 300 AWD,2023,,not_yet_mapped,0,""
+Lexus,IS 300 AWD,2024,,not_yet_mapped,0,""
+Lexus,IS 300 AWD,2025,,not_yet_mapped,0,""
+Lexus,IS 350,2020,IS 350,exact_name_candidate,1,IS 350
+Lexus,IS 350,2021,,not_yet_mapped,0,""
+Lexus,IS 350,2022,IS 350,exact_name_candidate,1,IS 350
+Lexus,IS 350,2023,IS 350,exact_name_candidate,1,IS 350
+Lexus,IS 350,2024,IS 350,exact_name_candidate,1,IS 350
+Lexus,IS 350,2025,IS 350,exact_name_candidate,1,IS 350
+Lexus,IS 350 AWD,2020,,not_yet_mapped,0,""
+Lexus,IS 350 AWD,2021,,not_yet_mapped,0,""
+Lexus,IS 350 AWD,2022,,not_yet_mapped,0,""
+Lexus,IS 350 AWD,2023,,not_yet_mapped,0,""
+Lexus,IS 350 AWD,2024,,not_yet_mapped,0,""
+Lexus,IS 350 AWD,2025,,not_yet_mapped,0,""
+Lexus,IS 500,2022,IS 500,exact_name_candidate,1,IS 500
+Lexus,IS 500,2023,IS 500,exact_name_candidate,1,IS 500
+Lexus,IS 500,2024,IS 500,exact_name_candidate,1,IS 500
+Lexus,IS 500,2025,IS 500,exact_name_candidate,1,IS 500
+Lexus,LC 500,2020,LC 500,exact_name_candidate,1,LC 500
+Lexus,LC 500,2021,LC 500,exact_name_candidate,1,LC 500
+Lexus,LC 500,2022,,not_yet_mapped,0,""
+Lexus,LC 500,2023,,not_yet_mapped,0,""
+Lexus,LC 500,2024,LC 500,exact_name_candidate,1,LC 500
+Lexus,LC 500,2025,,not_yet_mapped,0,""
+Lexus,LC 500 Convertible,2021,LC 500 CONVERTIBLE,exact_name_candidate,1,LC 500 CONVERTIBLE
+Lexus,LC 500 Convertible,2022,,not_yet_mapped,0,""
+Lexus,LC 500 Convertible,2023,,not_yet_mapped,0,""
+Lexus,LC 500 Convertible,2024,LC 500 CONVERTIBLE,exact_name_candidate,1,LC 500 CONVERTIBLE
+Lexus,LC 500 Convertible,2025,,not_yet_mapped,0,""
+Lexus,LC 500h,2020,,not_yet_mapped,0,""
+Lexus,LC 500h,2021,,not_yet_mapped,0,""
+Lexus,LC 500h,2022,,not_yet_mapped,0,""
+Lexus,LC 500h,2023,,not_yet_mapped,0,""
+Lexus,LC 500h,2024,,not_yet_mapped,0,""
+Lexus,LC 500h,2025,,not_yet_mapped,0,""
+Lexus,LS 500,2020,,not_yet_mapped,0,""
+Lexus,LS 500,2021,LS 500,exact_name_candidate,1,LS 500
+Lexus,LS 500,2022,,not_yet_mapped,0,""
+Lexus,LS 500,2023,LS 500,exact_name_candidate,1,LS 500
+Lexus,LS 500,2024,,not_yet_mapped,0,""
+Lexus,LS 500,2025,LS 500,exact_name_candidate,1,LS 500
+Lexus,LS 500 AWD,2020,,not_yet_mapped,0,""
+Lexus,LS 500 AWD,2021,,not_yet_mapped,0,""
+Lexus,LS 500 AWD,2022,,not_yet_mapped,0,""
+Lexus,LS 500 AWD,2023,,not_yet_mapped,0,""
+Lexus,LS 500 AWD,2024,,not_yet_mapped,0,""
+Lexus,LS 500 AWD,2025,,not_yet_mapped,0,""
+Lexus,LS 500h,2020,,not_yet_mapped,0,""
+Lexus,LS 500h,2021,,not_yet_mapped,0,""
+Lexus,LS 500h,2023,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2020,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2021,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2022,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2023,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2024,,not_yet_mapped,0,""
+Lexus,LS 500h AWD,2025,,not_yet_mapped,0,""
+Lexus,LX 570,2020,LX 570,exact_name_candidate,1,LX 570
+Lexus,LX 570,2021,,not_yet_mapped,0,""
+Lexus,LX 600,2022,LX 600,exact_name_candidate,1,LX 600
+Lexus,LX 600,2023,LX 600,exact_name_candidate,1,LX 600
+Lexus,LX 600,2024,LX 600,exact_name_candidate,1,LX 600
+Lexus,LX 600,2025,LX 600,exact_name_candidate,1,LX 600
+Lexus,LX 700h,2025,,not_yet_mapped,0,""
+Lexus,NX 250,2022,NX 250,exact_name_candidate,1,NX 250
+Lexus,NX 250,2023,NX 250,exact_name_candidate,1,NX 250
+Lexus,NX 250,2024,NX 250,exact_name_candidate,1,NX 250
+Lexus,NX 250,2025,NX 250,exact_name_candidate,1,NX 250
+Lexus,NX 250 AWD,2022,,not_yet_mapped,0,""
+Lexus,NX 250 AWD,2023,,not_yet_mapped,0,""
+Lexus,NX 250 AWD,2024,,not_yet_mapped,0,""
+Lexus,NX 250 AWD,2025,,not_yet_mapped,0,""
+Lexus,NX 300,2020,NX300,exact_name_candidate,1,NX300
+Lexus,NX 300,2021,NX 300,exact_name_candidate,1,NX 300
+Lexus,NX 300 AWD,2020,,not_yet_mapped,0,""
+Lexus,NX 300 AWD,2021,,not_yet_mapped,0,""
+Lexus,NX 300 AWD F Sport,2020,,not_yet_mapped,0,""
+Lexus,NX 300 AWD F Sport,2021,,not_yet_mapped,0,""
+Lexus,NX 300h AWD,2020,,not_yet_mapped,0,""
+Lexus,NX 300h AWD,2021,,not_yet_mapped,0,""
+Lexus,NX 350 AWD,2022,,not_yet_mapped,0,""
+Lexus,NX 350 AWD,2023,,not_yet_mapped,0,""
+Lexus,NX 350 AWD,2024,,not_yet_mapped,0,""
+Lexus,NX 350 AWD,2025,,not_yet_mapped,0,""
+Lexus,NX 350 AWD F Sport,2024,,not_yet_mapped,0,""
+Lexus,NX 350 AWD F Sport,2025,,not_yet_mapped,0,""
+Lexus,NX 350h AWD,2022,,not_yet_mapped,0,""
+Lexus,NX 350h AWD,2023,,not_yet_mapped,0,""
+Lexus,NX 350h AWD,2024,,not_yet_mapped,0,""
+Lexus,NX 350h AWD,2025,,not_yet_mapped,0,""
+Lexus,RC 300,2020,,not_yet_mapped,0,""
+Lexus,RC 300,2021,,not_yet_mapped,0,""
+Lexus,RC 300,2022,RC 300,exact_name_candidate,1,RC 300
+Lexus,RC 300,2023,,not_yet_mapped,0,""
+Lexus,RC 300,2024,,not_yet_mapped,0,""
+Lexus,RC 300,2025,RC 300,exact_name_candidate,1,RC 300
+Lexus,RC 300 AWD,2020,,not_yet_mapped,0,""
+Lexus,RC 300 AWD,2021,,not_yet_mapped,0,""
+Lexus,RC 300 AWD,2022,,not_yet_mapped,0,""
+Lexus,RC 300 AWD,2023,,not_yet_mapped,0,""
+Lexus,RC 300 AWD,2024,,not_yet_mapped,0,""
+Lexus,RC 300 AWD,2025,,not_yet_mapped,0,""
+Lexus,RC 350,2020,RC 350,exact_name_candidate,1,RC 350
+Lexus,RC 350,2021,,not_yet_mapped,0,""
+Lexus,RC 350,2022,RC 350,exact_name_candidate,1,RC 350
+Lexus,RC 350,2023,,not_yet_mapped,0,""
+Lexus,RC 350,2024,,not_yet_mapped,0,""
+Lexus,RC 350,2025,RC 350,exact_name_candidate,1,RC 350
+Lexus,RC 350 AWD,2020,,not_yet_mapped,0,""
+Lexus,RC 350 AWD,2021,,not_yet_mapped,0,""
+Lexus,RC 350 AWD,2022,,not_yet_mapped,0,""
+Lexus,RC 350 AWD,2023,,not_yet_mapped,0,""
+Lexus,RC 350 AWD,2024,,not_yet_mapped,0,""
+Lexus,RC 350 AWD,2025,,not_yet_mapped,0,""
+Lexus,RC F,2020,,not_yet_mapped,0,""
+Lexus,RC F,2021,,not_yet_mapped,0,""
+Lexus,RC F,2022,,not_yet_mapped,0,""
+Lexus,RC F,2023,,not_yet_mapped,0,""
+Lexus,RC F,2024,,not_yet_mapped,0,""
+Lexus,RC F,2025,,not_yet_mapped,0,""
+Lexus,RX 350,2020,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350,2021,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350,2022,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350,2023,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350,2024,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350,2025,RX 350,exact_name_candidate,1,RX 350
+Lexus,RX 350 AWD,2020,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 350 AWD,2021,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 350 AWD,2022,,review_required,2,RX 350 | RX 350L
+Lexus,RX 350 AWD,2023,,review_required,2,RX 350 | RX450H
+Lexus,RX 350 AWD,2024,,review_required,3,RX 350 | RX 350H | RX 500H
+Lexus,RX 350 AWD,2025,,review_required,4,RX 350 | RX 350H | RX 450H+ | RX 500H
+Lexus,RX 350 L,2020,RX 350L,exact_name_candidate,1,RX 350L
+Lexus,RX 350 L,2021,RX 350L,exact_name_candidate,1,RX 350L
+Lexus,RX 350 L,2022,RX 350L,exact_name_candidate,1,RX 350L
+Lexus,RX 350 L AWD,2020,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 350 L AWD,2021,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 350 L AWD,2022,,review_required,2,RX 350 | RX 350L
+Lexus,RX 350h AWD,2023,,review_required,2,RX 350 | RX450H
+Lexus,RX 350h AWD,2024,,review_required,3,RX 350 | RX 350H | RX 500H
+Lexus,RX 350h AWD,2025,,review_required,4,RX 350 | RX 350H | RX 450H+ | RX 500H
+Lexus,RX 450h AWD,2020,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 450h AWD,2021,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 450h AWD,2022,,review_required,2,RX 350 | RX 350L
+Lexus,RX 450h L AWD,2020,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 450h L AWD,2021,,review_required,4,RX 350 | RX 350L | RX 450H | RX 450HL
+Lexus,RX 450h L AWD,2022,,review_required,2,RX 350 | RX 350L
+Lexus,RX 500h AWD,2023,,review_required,2,RX 350 | RX450H
+Lexus,RX 500h AWD,2024,,review_required,3,RX 350 | RX 350H | RX 500H
+Lexus,RX 500h AWD,2025,,review_required,4,RX 350 | RX 350H | RX 450H+ | RX 500H
+Lexus,TX 350,2024,TX 350,exact_name_candidate,1,TX 350
+Lexus,TX 350,2025,TX 350,exact_name_candidate,1,TX 350
+Lexus,TX 350 AWD,2024,,not_yet_mapped,0,""
+Lexus,TX 350 AWD,2025,,not_yet_mapped,0,""
+Lexus,TX 500h AWD,2024,,not_yet_mapped,0,""
+Lexus,TX 500h AWD,2025,,not_yet_mapped,0,""
+Lexus,UX 200,2020,,not_yet_mapped,0,""
+Lexus,UX 200,2021,UX 200,exact_name_candidate,1,UX 200
+Lexus,UX 200,2022,UX 200,exact_name_candidate,1,UX 200
+Lexus,UX 250h,2020,UX 250H,exact_name_candidate,1,UX 250H
+Lexus,UX 250h,2021,UX 250H,exact_name_candidate,1,UX 250H
+Lexus,UX 250h,2022,UX 250H,exact_name_candidate,1,UX 250H
+Lexus,UX 250h,2023,UX 250H,exact_name_candidate,1,UX 250H
+Lexus,UX 250h,2024,UX 250H,exact_name_candidate,1,UX 250H
+Lexus,UX 250h AWD,2020,,not_yet_mapped,0,""
+Lexus,UX 250h AWD,2021,,not_yet_mapped,0,""
+Lexus,UX 250h AWD,2022,,not_yet_mapped,0,""
+Lexus,UX 250h AWD,2023,,not_yet_mapped,0,""
+Lexus,UX 250h AWD,2024,,not_yet_mapped,0,""
+Lexus,UX 300h,2025,UX 300H,exact_name_candidate,1,UX 300H
+Lexus,UX 300h AWD,2025,,not_yet_mapped,0,""
+Mercedes-Benz,A220,2020,,not_yet_mapped,0,""
+Mercedes-Benz,A220,2021,,not_yet_mapped,0,""
+Mercedes-Benz,A220,2022,,not_yet_mapped,0,""
+Mercedes-Benz,A220 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,A220 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,A220 4matic,2022,A 220 4MATIC,exact_name_candidate,1,A 220 4MATIC
+Mercedes-Benz,AMG A35 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG A35 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG A35 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C43 4matic Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S,2021,AMG C63 S,exact_name_candidate,1,AMG C63 S
+Mercedes-Benz,AMG C63 S Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG C63 S Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA35 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 S 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLA45 S 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLE53 4matic Plus (convertible),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLE53 4matic Plus (coupe),2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLE53 4matic Plus (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLS53 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG CLS53 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E53 4matic Plus Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus (SW),2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus (SW),2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG E63 S 4matic Plus (wagon),2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G 63 4x4 Squared,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G63,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G63,2021,AMG G63,exact_name_candidate,1,AMG G63
+Mercedes-Benz,AMG G63,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G63,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G63,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG G63,2025,AMG G63,exact_name_candidate,1,AMG G63
+Mercedes-Benz,AMG G63 4x4 Squared,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA35 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA35 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA35 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA35 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA35 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA45 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA45 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLA45 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLB35 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLB35 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLB35 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLB35 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLB35 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC43 4matic Coupe,2025,AMG GLC43 4MATIC COUPE,exact_name_candidate,1,AMG GLC43 4MATIC COUPE
+Mercedes-Benz,AMG GLC63 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC63 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC63 4matic Plus Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC63 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLS63 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLS63 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLS63 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLS63 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GLS63 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 43 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 53 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 55 4matic Plus (coupe),2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 55 4matic Plus (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus (coupe),2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 4matic Plus (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 PRO 4matic Plus (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 S 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 S 4matic Plus,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT 63 S 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT Black Series,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT C Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT C Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT C Roadster,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT C Roadster,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT R Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT R Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT R Roadster,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT Roadster,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG GT Roadster,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S63 4matic Plus,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S63 4matic Plus Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S63 4matic Plus Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S63 4matic Plus Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S63 4matic Plus Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,AMG S65,2020,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL43,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL43,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL43,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL55 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL55 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL55 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL55 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL63 4matic Plus,2022,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL63 4matic Plus,2023,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL63 4matic Plus,2024,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SL63 4matic Plus,2025,,not_yet_mapped,0,""
+Mercedes-Benz,AMG SLC43,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2023,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2024,,not_yet_mapped,0,""
+Mercedes-Benz,C300,2025,C 300,exact_name_candidate,1,C 300
+Mercedes-Benz,C300 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300 4matic Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,C300 Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2020,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2021,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2022,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2023,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250,2025,CLA 250,exact_name_candidate,1,CLA 250
+Mercedes-Benz,CLA250 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250 4matic,2022,CLA 250 4MATIC,exact_name_candidate,1,CLA 250 4MATIC
+Mercedes-Benz,CLA250 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLA250 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,CLE300 4matic (Convertible),2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLE300 4matic (Convertible),2025,,not_yet_mapped,0,""
+Mercedes-Benz,CLE300 4matic (Coupe),2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLE300 4matic (Coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,CLE450 4matic (Convertible),2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLE450 4matic (Convertible),2025,,not_yet_mapped,0,""
+Mercedes-Benz,CLE450 4matic (Coupe),2024,,not_yet_mapped,0,""
+Mercedes-Benz,CLE450 4matic (Coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450,2020,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450,2021,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,CLS450 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E350,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E350,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E350,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E350,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E350,2025,E 350,exact_name_candidate,1,E 350
+Mercedes-Benz,E350 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E350 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E350 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E350 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E350 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,E350 4matic,2025,E 350 4MATIC,exact_name_candidate,1,E 350 4MATIC
+Mercedes-Benz,E450 4matic,2020,E 450 4MATIC,exact_name_candidate,1,E 450 4MATIC
+Mercedes-Benz,E450 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic,2025,E 450 4MATIC,exact_name_candidate,1,E 450 4MATIC
+Mercedes-Benz,E450 4matic (station wagon),2020,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2023,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2024,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic All-Terrain (wagon),2025,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 4matic Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Convertible,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Convertible,2023,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Coupe,2022,,not_yet_mapped,0,""
+Mercedes-Benz,E450 Coupe,2023,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2020,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2021,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2022,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2023,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2024,,not_yet_mapped,0,""
+Mercedes-Benz,G550,2025,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250,2025,GLA 250,exact_name_candidate,1,GLA 250
+Mercedes-Benz,GLA250 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250 4matic,2022,GLA 250 4MATIC,exact_name_candidate,1,GLA 250 4MATIC
+Mercedes-Benz,GLA250 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLA250 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250,2025,GLB 250,exact_name_candidate,1,GLB 250
+Mercedes-Benz,GLB250 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLB250 4matic,2022,GLB 250 4MATIC,exact_name_candidate,1,GLB 250 4MATIC
+Mercedes-Benz,GLB250 4matic,2023,GLB 250 4MATIC,exact_name_candidate,1,GLB 250 4MATIC
+Mercedes-Benz,GLB250 4matic,2024,GLB 250 4MATIC,exact_name_candidate,1,GLB 250 4MATIC
+Mercedes-Benz,GLB250 4matic,2025,GLB 250 4MATIC,exact_name_candidate,1,GLB 250 4MATIC
+Mercedes-Benz,GLC300,2020,,review_required,3,GLC-CLASS | GLC-CLASS COUPE | GLC-CLASS HYBRID
+Mercedes-Benz,GLC300,2021,,review_required,4,AMG GLC43 | AMG GLC63 | GLC | GLC-CLASS COUPE
+Mercedes-Benz,GLC300,2022,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300,2023,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300,2024,,review_required,2,GLC | GLC COUPE
+Mercedes-Benz,GLC300,2025,GLC 300,exact_name_candidate,1,GLC 300
+Mercedes-Benz,GLC300 4matic,2020,,review_required,3,GLC-CLASS | GLC-CLASS COUPE | GLC-CLASS HYBRID
+Mercedes-Benz,GLC300 4matic,2021,,review_required,4,AMG GLC43 | AMG GLC63 | GLC | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic,2022,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic,2023,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic,2024,,review_required,2,GLC | GLC COUPE
+Mercedes-Benz,GLC300 4matic,2025,GLC 300 4MATIC,exact_name_candidate,1,GLC 300 4MATIC
+Mercedes-Benz,GLC300 4matic Coupe,2020,,review_required,3,GLC-CLASS | GLC-CLASS COUPE | GLC-CLASS HYBRID
+Mercedes-Benz,GLC300 4matic Coupe,2021,,review_required,4,AMG GLC43 | AMG GLC63 | GLC | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic Coupe,2022,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic Coupe,2023,,review_required,2,GLC-CLASS | GLC-CLASS COUPE
+Mercedes-Benz,GLC300 4matic Coupe,2024,,review_required,2,GLC | GLC COUPE
+Mercedes-Benz,GLC300 4matic Coupe,2025,,review_required,5,AMG GLC43 | AMG GLC43 4MATIC COUPE | GLC 300 | GLC 300 4MATIC | GLC 350 E 4MATIC
+Mercedes-Benz,GLE350,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350,2025,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350 4matic,2021,GLE 350 4MATIC,exact_name_candidate,1,GLE 350 4MATIC
+Mercedes-Benz,GLE350 4matic,2022,GLE 350 4MATIC,exact_name_candidate,1,GLE 350 4MATIC
+Mercedes-Benz,GLE350 4matic,2023,GLE 350 4MATIC,exact_name_candidate,1,GLE 350 4MATIC
+Mercedes-Benz,GLE350 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLE350 4matic,2025,GLE 350 4MATIC,exact_name_candidate,1,GLE 350 4MATIC
+Mercedes-Benz,GLE450 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLE450 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLE450 4matic,2022,GLE 450 4MATIC,exact_name_candidate,1,GLE 450 4MATIC
+Mercedes-Benz,GLE450 4matic,2023,GLE 450 4MATIC,exact_name_candidate,1,GLE 450 4MATIC
+Mercedes-Benz,GLE450 4matic,2024,GLE 450 4MATIC,exact_name_candidate,1,GLE 450 4MATIC
+Mercedes-Benz,GLE450 4matic,2025,GLE 450 4MATIC,exact_name_candidate,1,GLE 450 4MATIC
+Mercedes-Benz,GLE450 4matic (coupe),2025,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLE580 4matic,2025,GLE 580 4MATIC,exact_name_candidate,1,GLE 580 4MATIC
+Mercedes-Benz,GLS450 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLS450 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLS450 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLS450 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLS450 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLS450 4matic,2025,GLS 450 4MATIC,exact_name_candidate,1,GLS 450 4MATIC
+Mercedes-Benz,GLS580 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,GLS580 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLS580 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLS580 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLS580 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLS580 4matic,2025,GLS 580 4MATIC,exact_name_candidate,1,GLS 580 4MATIC
+Mercedes-Benz,GLS600 4matic Maybach,2021,,not_yet_mapped,0,""
+Mercedes-Benz,GLS600 4matic Maybach,2022,,not_yet_mapped,0,""
+Mercedes-Benz,GLS600 4matic Maybach,2023,,not_yet_mapped,0,""
+Mercedes-Benz,GLS600 4matic Maybach,2024,,not_yet_mapped,0,""
+Mercedes-Benz,GLS600 4matic Maybach,2025,,not_yet_mapped,0,""
+Mercedes-Benz,Maybach S650,2020,,not_yet_mapped,0,""
+Mercedes-Benz,Maybach S680 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,Maybach S680 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,Maybach S680 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,Maybach S680 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Cargo Van),2020,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Cargo Van),2021,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Cargo Van),2022,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Cargo Van),2023,METRIS CARGO VAN,exact_name_candidate,1,METRIS CARGO VAN
+Mercedes-Benz,"Metris (Cargo Van, LWB)",2020,,not_yet_mapped,0,""
+Mercedes-Benz,"Metris (Cargo Van, LWB)",2021,,not_yet_mapped,0,""
+Mercedes-Benz,"Metris (Cargo Van, LWB)",2022,,not_yet_mapped,0,""
+Mercedes-Benz,"Metris (Cargo Van, LWB)",2023,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Passenger Van),2020,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Passenger Van),2021,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Passenger Van),2022,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (Passenger Van),2023,METRIS PASSENGER VAN,exact_name_candidate,1,METRIS PASSENGER VAN
+Mercedes-Benz,Metris (US Postal Long),2022,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (US Postal Long),2023,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (US Postal),2022,,not_yet_mapped,0,""
+Mercedes-Benz,Metris (US Postal),2023,,not_yet_mapped,0,""
+Mercedes-Benz,S450,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S450 4matic,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S500 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,S500 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,S500 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,S500 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,S500 4matic,2025,,not_yet_mapped,0,""
+Mercedes-Benz,S560,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S560 4matic,2020,S 560 4MATIC,exact_name_candidate,1,S 560 4MATIC
+Mercedes-Benz,S560 4matic Coupe,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S560 4matic Coupe,2021,,not_yet_mapped,0,""
+Mercedes-Benz,S560 4matic Maybach,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S560 Convertible,2020,,not_yet_mapped,0,""
+Mercedes-Benz,S560 Convertible,2021,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic,2021,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic,2022,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic,2023,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic,2024,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic,2025,S 580 4MATIC,exact_name_candidate,1,S 580 4MATIC
+Mercedes-Benz,S580 4matic Maybach,2021,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic Maybach,2022,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic Maybach,2023,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic Maybach,2024,,not_yet_mapped,0,""
+Mercedes-Benz,S580 4matic Maybach,2025,,not_yet_mapped,0,""
+Mercedes-Benz,SL450,2020,,not_yet_mapped,0,""
+Mercedes-Benz,SL550,2020,,not_yet_mapped,0,""
+Mercedes-Benz,SLC300,2020,,not_yet_mapped,0,""
+Porsche,718 Boxster,2021,,not_yet_mapped,0,""
+Porsche,718 Boxster,2022,,not_yet_mapped,0,""
+Porsche,718 Boxster,2023,718 BOXSTER,exact_name_candidate,1,718 BOXSTER
+Porsche,718 Boxster,2024,,not_yet_mapped,0,""
+Porsche,718 Boxster,2025,,not_yet_mapped,0,""
+Porsche,718 Boxster GTS,2021,,not_yet_mapped,0,""
+Porsche,718 Boxster GTS,2022,,not_yet_mapped,0,""
+Porsche,718 Boxster GTS,2023,,not_yet_mapped,0,""
+Porsche,718 Boxster GTS,2024,,not_yet_mapped,0,""
+Porsche,718 Boxster GTS,2025,,not_yet_mapped,0,""
+Porsche,718 Boxster S,2021,,not_yet_mapped,0,""
+Porsche,718 Boxster S,2022,,not_yet_mapped,0,""
+Porsche,718 Boxster S,2023,,not_yet_mapped,0,""
+Porsche,718 Boxster S,2024,,not_yet_mapped,0,""
+Porsche,718 Boxster S,2025,,not_yet_mapped,0,""
+Porsche,718 Boxster T,2021,,not_yet_mapped,0,""
+Porsche,718 Boxster T,2022,,not_yet_mapped,0,""
+Porsche,718 Boxster T,2023,,not_yet_mapped,0,""
+Porsche,718 Cayman,2021,,not_yet_mapped,0,""
+Porsche,718 Cayman,2022,,not_yet_mapped,0,""
+Porsche,718 Cayman,2023,718 CAYMAN,exact_name_candidate,1,718 CAYMAN
+Porsche,718 Cayman,2024,,not_yet_mapped,0,""
+Porsche,718 Cayman,2025,,not_yet_mapped,0,""
+Porsche,718 Cayman GT4,2020,,not_yet_mapped,0,""
+Porsche,718 Cayman GT4,2021,,not_yet_mapped,0,""
+Porsche,718 Cayman GT4,2022,,not_yet_mapped,0,""
+Porsche,718 Cayman GT4,2023,,not_yet_mapped,0,""
+Porsche,718 Cayman GTS,2021,,not_yet_mapped,0,""
+Porsche,718 Cayman GTS,2022,,not_yet_mapped,0,""
+Porsche,718 Cayman GTS,2023,,not_yet_mapped,0,""
+Porsche,718 Cayman GTS,2024,,not_yet_mapped,0,""
+Porsche,718 Cayman GTS,2025,,not_yet_mapped,0,""
+Porsche,718 Cayman S,2021,,not_yet_mapped,0,""
+Porsche,718 Cayman S,2022,,not_yet_mapped,0,""
+Porsche,718 Cayman S,2023,,not_yet_mapped,0,""
+Porsche,718 Cayman S,2024,,not_yet_mapped,0,""
+Porsche,718 Cayman S,2025,,not_yet_mapped,0,""
+Porsche,718 Cayman T,2021,,not_yet_mapped,0,""
+Porsche,718 Cayman T,2022,718 CAYMAN T,exact_name_candidate,1,718 CAYMAN T
+Porsche,718 Cayman T,2023,,not_yet_mapped,0,""
+Porsche,718 GT4 RS,2023,,not_yet_mapped,0,""
+Porsche,718 GT4 RS,2024,,not_yet_mapped,0,""
+Porsche,718 GT4 RS,2025,,not_yet_mapped,0,""
+Porsche,718 Spyder,2020,,not_yet_mapped,0,""
+Porsche,718 Spyder,2021,,not_yet_mapped,0,""
+Porsche,718 Spyder,2022,,not_yet_mapped,0,""
+Porsche,718 Spyder,2023,,not_yet_mapped,0,""
+Porsche,718 Spyder RS,2024,,not_yet_mapped,0,""
+Porsche,718 Spyder RS,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera,2020,911 CARRERA,exact_name_candidate,1,911 CARRERA
+Porsche,911 Carrera,2021,911 CARRERA,exact_name_candidate,1,911 CARRERA
+Porsche,911 Carrera,2022,911 CARRERA,exact_name_candidate,1,911 CARRERA
+Porsche,911 Carrera,2023,911 CARRERA,exact_name_candidate,1,911 CARRERA
+Porsche,911 Carrera,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera 4,2020,911 CARRERA 4,exact_name_candidate,1,911 CARRERA 4
+Porsche,911 Carrera 4,2021,911 CARRERA 4,exact_name_candidate,1,911 CARRERA 4
+Porsche,911 Carrera 4,2022,911 CARRERA 4,exact_name_candidate,1,911 CARRERA 4
+Porsche,911 Carrera 4,2023,911 CARRERA 4,exact_name_candidate,1,911 CARRERA 4
+Porsche,911 Carrera 4,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera 4 Cabriolet,2020,911 CARRERA 4 CABRIOLET,exact_name_candidate,1,911 CARRERA 4 CABRIOLET
+Porsche,911 Carrera 4 Cabriolet,2021,911 CARRERA 4 CABRIOLET,exact_name_candidate,1,911 CARRERA 4 CABRIOLET
+Porsche,911 Carrera 4 Cabriolet,2022,911 CARRERA 4 CABRIOLET,exact_name_candidate,1,911 CARRERA 4 CABRIOLET
+Porsche,911 Carrera 4 Cabriolet,2023,911 CARRERA 4 CABRIOLET,exact_name_candidate,1,911 CARRERA 4 CABRIOLET
+Porsche,911 Carrera 4 Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera 4 GTS,2022,911 CARRERA 4 GTS,exact_name_candidate,1,911 CARRERA 4 GTS
+Porsche,911 Carrera 4 GTS,2023,911 CARRERA 4 GTS,exact_name_candidate,1,911 CARRERA 4 GTS
+Porsche,911 Carrera 4 GTS,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera 4 GTS,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera 4 GTS Cabriolet,2022,911 CARRERA 4 GTS CABRIOLET,exact_name_candidate,1,911 CARRERA 4 GTS CABRIOLET
+Porsche,911 Carrera 4 GTS Cabriolet,2023,911 CARRERA 4 GTS CABRIOLET,exact_name_candidate,1,911 CARRERA 4 GTS CABRIOLET
+Porsche,911 Carrera 4 GTS Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera 4 GTS Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera 4S,2020,911 CARRERA 4S,exact_name_candidate,1,911 CARRERA 4S
+Porsche,911 Carrera 4S,2021,911 CARRERA 4S,exact_name_candidate,1,911 CARRERA 4S
+Porsche,911 Carrera 4S,2022,911 CARRERA 4S,exact_name_candidate,1,911 CARRERA 4S
+Porsche,911 Carrera 4S,2023,911 CARRERA 4S,exact_name_candidate,1,911 CARRERA 4S
+Porsche,911 Carrera 4S,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera 4S Cabriolet,2020,911 CARRERA 4S CABRIOLET,exact_name_candidate,1,911 CARRERA 4S CABRIOLET
+Porsche,911 Carrera 4S Cabriolet,2021,911 CARRERA 4S CABRIOLET,exact_name_candidate,1,911 CARRERA 4S CABRIOLET
+Porsche,911 Carrera 4S Cabriolet,2022,911 CARRERA 4S CABRIOLET,exact_name_candidate,1,911 CARRERA 4S CABRIOLET
+Porsche,911 Carrera 4S Cabriolet,2023,911 CARRERA 4S CABRIOLET,exact_name_candidate,1,911 CARRERA 4S CABRIOLET
+Porsche,911 Carrera 4S Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera Cabriolet,2020,911 CARRERA CABRIOLET,exact_name_candidate,1,911 CARRERA CABRIOLET
+Porsche,911 Carrera Cabriolet,2021,911 CARRERA CABRIOLET,exact_name_candidate,1,911 CARRERA CABRIOLET
+Porsche,911 Carrera Cabriolet,2022,911 CARRERA CABRIOLET,exact_name_candidate,1,911 CARRERA CABRIOLET
+Porsche,911 Carrera Cabriolet,2023,911 CARRERA CABRIOLET,exact_name_candidate,1,911 CARRERA CABRIOLET
+Porsche,911 Carrera Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera GTS,2022,911 CARRERA GTS,exact_name_candidate,1,911 CARRERA GTS
+Porsche,911 Carrera GTS,2023,911 CARRERA GTS,exact_name_candidate,1,911 CARRERA GTS
+Porsche,911 Carrera GTS,2024,911 CARRERA GTS,exact_name_candidate,1,911 CARRERA GTS
+Porsche,911 Carrera GTS,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera GTS Cabriolet,2022,911 CARRERA GTS CABRIOLET,exact_name_candidate,1,911 CARRERA GTS CABRIOLET
+Porsche,911 Carrera GTS Cabriolet,2023,911 CARRERA GTS CABRIOLET,exact_name_candidate,1,911 CARRERA GTS CABRIOLET
+Porsche,911 Carrera GTS Cabriolet,2024,911 CARRERA GTS CABRIOLET,exact_name_candidate,1,911 CARRERA GTS CABRIOLET
+Porsche,911 Carrera GTS Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera S,2020,911 CARRERA S,exact_name_candidate,1,911 CARRERA S
+Porsche,911 Carrera S,2021,911 CARRERA S,exact_name_candidate,1,911 CARRERA S
+Porsche,911 Carrera S,2022,911 CARRERA S,exact_name_candidate,1,911 CARRERA S
+Porsche,911 Carrera S,2023,911 CARRERA S,exact_name_candidate,1,911 CARRERA S
+Porsche,911 Carrera S,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera S,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera S Cabriolet,2020,911 CARRERA S CABRIOLET,exact_name_candidate,1,911 CARRERA S CABRIOLET
+Porsche,911 Carrera S Cabriolet,2021,911 CARRERA S CABRIOLET,exact_name_candidate,1,911 CARRERA S CABRIOLET
+Porsche,911 Carrera S Cabriolet,2022,911 CARRERA S CABRIOLET,exact_name_candidate,1,911 CARRERA S CABRIOLET
+Porsche,911 Carrera S Cabriolet,2023,911 CARRERA S CABRIOLET,exact_name_candidate,1,911 CARRERA S CABRIOLET
+Porsche,911 Carrera S Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera S Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera T,2023,911 CARRERA T,exact_name_candidate,1,911 CARRERA T
+Porsche,911 Carrera T,2024,,not_yet_mapped,0,""
+Porsche,911 Carrera T,2025,,not_yet_mapped,0,""
+Porsche,911 Carrera T Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Dakar,2023,911 DAKAR,exact_name_candidate,1,911 DAKAR
+Porsche,911 Dakar,2024,,not_yet_mapped,0,""
+Porsche,911 GT3,2022,911 GT3,exact_name_candidate,1,911 GT3
+Porsche,911 GT3,2023,911 GT3,exact_name_candidate,1,911 GT3
+Porsche,911 GT3,2024,,not_yet_mapped,0,""
+Porsche,911 GT3 RS,2023,911 GT3 RS,exact_name_candidate,1,911 GT3 RS
+Porsche,911 GT3 RS,2024,,not_yet_mapped,0,""
+Porsche,911 GT3 Touring,2022,911 GT3 TOURING,exact_name_candidate,1,911 GT3 TOURING
+Porsche,911 GT3 Touring,2023,,not_yet_mapped,0,""
+Porsche,911 GT3 Touring,2024,,not_yet_mapped,0,""
+Porsche,911 S/T,2024,911 S/T,exact_name_candidate,1,911 S/T
+Porsche,911 Sport Classic,2023,,not_yet_mapped,0,""
+Porsche,911 Targa 4,2021,911 TARGA 4,exact_name_candidate,1,911 TARGA 4
+Porsche,911 Targa 4,2022,911 TARGA 4,exact_name_candidate,1,911 TARGA 4
+Porsche,911 Targa 4,2023,911 TARGA 4,exact_name_candidate,1,911 TARGA 4
+Porsche,911 Targa 4,2024,911 TARGA 4,exact_name_candidate,1,911 TARGA 4
+Porsche,911 Targa 4 GTS,2022,911 TARGA 4 GTS,exact_name_candidate,1,911 TARGA 4 GTS
+Porsche,911 Targa 4 GTS,2023,911 TARGA 4 GTS,exact_name_candidate,1,911 TARGA 4 GTS
+Porsche,911 Targa 4 GTS,2024,,not_yet_mapped,0,""
+Porsche,911 Targa 4 GTS,2025,,not_yet_mapped,0,""
+Porsche,911 Targa 4S,2021,911 TARGA 4S,exact_name_candidate,1,911 TARGA 4S
+Porsche,911 Targa 4S,2022,911 TARGA 4S,exact_name_candidate,1,911 TARGA 4S
+Porsche,911 Targa 4S,2023,911 TARGA 4S,exact_name_candidate,1,911 TARGA 4S
+Porsche,911 Targa 4S,2024,911 TARGA 4S,exact_name_candidate,1,911 TARGA 4S
+Porsche,911 Turbo,2021,,not_yet_mapped,0,""
+Porsche,911 Turbo,2022,911 TURBO,exact_name_candidate,1,911 TURBO
+Porsche,911 Turbo,2023,911 TURBO,exact_name_candidate,1,911 TURBO
+Porsche,911 Turbo,2024,,not_yet_mapped,0,""
+Porsche,911 Turbo,2025,,not_yet_mapped,0,""
+Porsche,911 Turbo Cabriolet,2021,,not_yet_mapped,0,""
+Porsche,911 Turbo Cabriolet,2022,911 TURBO CABRIOLET,exact_name_candidate,1,911 TURBO CABRIOLET
+Porsche,911 Turbo Cabriolet,2023,911 TURBO CABRIOLET,exact_name_candidate,1,911 TURBO CABRIOLET
+Porsche,911 Turbo Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Turbo Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,911 Turbo S,2021,911 TURBO S,exact_name_candidate,1,911 TURBO S
+Porsche,911 Turbo S,2022,911 TURBO S,exact_name_candidate,1,911 TURBO S
+Porsche,911 Turbo S,2023,911 TURBO S,exact_name_candidate,1,911 TURBO S
+Porsche,911 Turbo S,2024,,not_yet_mapped,0,""
+Porsche,911 Turbo S,2025,,not_yet_mapped,0,""
+Porsche,911 Turbo S Cabriolet,2021,911 TURBO S CABRIOLET,exact_name_candidate,1,911 TURBO S CABRIOLET
+Porsche,911 Turbo S Cabriolet,2022,911 TURBO S CABRIOLET,exact_name_candidate,1,911 TURBO S CABRIOLET
+Porsche,911 Turbo S Cabriolet,2023,911 TURBO S CABRIOLET,exact_name_candidate,1,911 TURBO S CABRIOLET
+Porsche,911 Turbo S Cabriolet,2024,,not_yet_mapped,0,""
+Porsche,911 Turbo S Cabriolet,2025,,not_yet_mapped,0,""
+Porsche,Boxster,2020,,not_yet_mapped,0,""
+Porsche,Boxster S,2020,,not_yet_mapped,0,""
+Porsche,Boxster T,2020,,not_yet_mapped,0,""
+Porsche,Cayenne,2020,CAYENNE,exact_name_candidate,1,CAYENNE
+Porsche,Cayenne,2021,CAYENNE,exact_name_candidate,1,CAYENNE
+Porsche,Cayenne,2022,CAYENNE,exact_name_candidate,1,CAYENNE
+Porsche,Cayenne,2023,CAYENNE,exact_name_candidate,1,CAYENNE
+Porsche,Cayenne,2024,CAYENNE,exact_name_candidate,1,CAYENNE
+Porsche,Cayenne,2025,,not_yet_mapped,0,""
+Porsche,Cayenne / Cayenne Coupe,2022,,not_yet_mapped,0,""
+Porsche,Cayenne Coupe,2020,CAYENNE COUPE,exact_name_candidate,1,CAYENNE COUPE
+Porsche,Cayenne Coupe,2021,CAYENNE COUPE,exact_name_candidate,1,CAYENNE COUPE
+Porsche,Cayenne Coupe,2023,CAYENNE COUPE,exact_name_candidate,1,CAYENNE COUPE
+Porsche,Cayenne Coupe,2024,,not_yet_mapped,0,""
+Porsche,Cayenne Coupe,2025,,not_yet_mapped,0,""
+Porsche,Cayenne GTS,2021,CAYENNE GTS,exact_name_candidate,1,CAYENNE GTS
+Porsche,Cayenne GTS,2022,,not_yet_mapped,0,""
+Porsche,Cayenne GTS,2023,,not_yet_mapped,0,""
+Porsche,Cayenne GTS,2025,,not_yet_mapped,0,""
+Porsche,Cayenne GTS Coupe,2021,CAYENNE GTS COUPE,exact_name_candidate,1,CAYENNE GTS COUPE
+Porsche,Cayenne GTS Coupe,2022,,not_yet_mapped,0,""
+Porsche,Cayenne GTS Coupe,2023,,not_yet_mapped,0,""
+Porsche,Cayenne GTS Coupe,2025,,not_yet_mapped,0,""
+Porsche,Cayenne S,2020,CAYENNE S,exact_name_candidate,1,CAYENNE S
+Porsche,Cayenne S,2021,CAYENNE S,exact_name_candidate,1,CAYENNE S
+Porsche,Cayenne S,2022,,not_yet_mapped,0,""
+Porsche,Cayenne S,2023,,not_yet_mapped,0,""
+Porsche,Cayenne S,2024,,not_yet_mapped,0,""
+Porsche,Cayenne S,2025,,not_yet_mapped,0,""
+Porsche,Cayenne S Coupe,2020,,not_yet_mapped,0,""
+Porsche,Cayenne S Coupe,2021,CAYENNE S COUPE,exact_name_candidate,1,CAYENNE S COUPE
+Porsche,Cayenne S Coupe,2022,,not_yet_mapped,0,""
+Porsche,Cayenne S Coupe,2023,,not_yet_mapped,0,""
+Porsche,Cayenne S Coupe,2024,,not_yet_mapped,0,""
+Porsche,Cayenne S Coupe,2025,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo,2020,CAYENNE TURBO,exact_name_candidate,1,CAYENNE TURBO
+Porsche,Cayenne Turbo,2021,CAYENNE TURBO,exact_name_candidate,1,CAYENNE TURBO
+Porsche,Cayenne Turbo,2022,CAYENNE TURBO,exact_name_candidate,1,CAYENNE TURBO
+Porsche,Cayenne Turbo,2023,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo Coupe,2020,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo Coupe,2021,CAYENNE TURBO COUPE,exact_name_candidate,1,CAYENNE TURBO COUPE
+Porsche,Cayenne Turbo Coupe,2022,CAYENNE TURBO COUPE,exact_name_candidate,1,CAYENNE TURBO COUPE
+Porsche,Cayenne Turbo Coupe,2023,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo GT,2023,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo GT,2025,,not_yet_mapped,0,""
+Porsche,Cayenne Turbo GT Coupe,2022,,not_yet_mapped,0,""
+Porsche,Cayman,2020,,not_yet_mapped,0,""
+Porsche,Cayman S,2020,,not_yet_mapped,0,""
+Porsche,Cayman T,2020,,not_yet_mapped,0,""
+Porsche,Macan,2020,MACAN,exact_name_candidate,1,MACAN
+Porsche,Macan,2021,MACAN,exact_name_candidate,1,MACAN
+Porsche,Macan,2022,MACAN,exact_name_candidate,1,MACAN
+Porsche,Macan,2023,MACAN,exact_name_candidate,1,MACAN
+Porsche,Macan,2024,MACAN,exact_name_candidate,1,MACAN
+Porsche,Macan,2025,,review_required,3,H1.3 MACAN | H1.3 MACAN T | H2 MACAN
+Porsche,Macan GTS,2020,,review_required,2,MACAN | MACAN S
+Porsche,Macan GTS,2021,,review_required,1,MACAN
+Porsche,Macan GTS,2022,,review_required,1,MACAN
+Porsche,Macan GTS,2023,,review_required,2,MACAN | MACAN T
+Porsche,Macan GTS,2024,MACAN GTS,exact_name_candidate,1,MACAN GTS
+Porsche,Macan GTS,2025,,review_required,3,H1.3 MACAN | H1.3 MACAN T | H2 MACAN
+Porsche,Macan S,2020,MACAN S,exact_name_candidate,1,MACAN S
+Porsche,Macan S,2021,,review_required,1,MACAN
+Porsche,Macan S,2022,,review_required,1,MACAN
+Porsche,Macan S,2023,,review_required,2,MACAN | MACAN T
+Porsche,Macan S,2024,,review_required,2,MACAN | MACAN GTS
+Porsche,Macan S,2025,,review_required,3,H1.3 MACAN | H1.3 MACAN T | H2 MACAN
+Porsche,Macan T,2023,MACAN T,exact_name_candidate,1,MACAN T
+Porsche,Macan T,2024,,review_required,2,MACAN | MACAN GTS
+Porsche,Macan T,2025,,review_required,3,H1.3 MACAN | H1.3 MACAN T | H2 MACAN
+Porsche,Macan Turbo,2020,,review_required,2,MACAN | MACAN S
+Porsche,Macan Turbo,2021,,review_required,1,MACAN
+Porsche,Panamera,2020,PANAMERA,exact_name_candidate,1,PANAMERA
+Porsche,Panamera,2021,PANAMERA,exact_name_candidate,1,PANAMERA
+Porsche,Panamera,2022,PANAMERA,exact_name_candidate,1,PANAMERA
+Porsche,Panamera,2023,PANAMERA,exact_name_candidate,1,PANAMERA
+Porsche,Panamera,2024,PANAMERA,exact_name_candidate,1,PANAMERA
+Porsche,Panamera,2025,,not_yet_mapped,0,""
+Porsche,Panamera 4,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4,2023,,not_yet_mapped,0,""
+Porsche,Panamera 4,2024,,not_yet_mapped,0,""
+Porsche,Panamera 4,2025,,not_yet_mapped,0,""
+Porsche,Panamera 4 Executive,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4 Executive,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4 Executive,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4 Executive,2023,,not_yet_mapped,0,""
+Porsche,Panamera 4 ST,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4 ST,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4 ST,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4 ST,2023,,not_yet_mapped,0,""
+Porsche,Panamera 4S,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4S,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4S,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4S,2023,,not_yet_mapped,0,""
+Porsche,Panamera 4S Executive,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4S Executive,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4S Executive,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4S Executive,2023,,not_yet_mapped,0,""
+Porsche,Panamera 4S ST,2020,,not_yet_mapped,0,""
+Porsche,Panamera 4S ST,2021,,not_yet_mapped,0,""
+Porsche,Panamera 4S ST,2022,,not_yet_mapped,0,""
+Porsche,Panamera 4S ST,2023,,not_yet_mapped,0,""
+Porsche,Panamera GTS,2020,,not_yet_mapped,0,""
+Porsche,Panamera GTS,2021,PANAMERA GTS,exact_name_candidate,1,PANAMERA GTS
+Porsche,Panamera GTS,2022,,not_yet_mapped,0,""
+Porsche,Panamera GTS,2023,,not_yet_mapped,0,""
+Porsche,Panamera GTS,2025,,not_yet_mapped,0,""
+Porsche,Panamera GTS ST,2020,,not_yet_mapped,0,""
+Porsche,Panamera GTS ST,2021,,not_yet_mapped,0,""
+Porsche,Panamera GTS ST,2022,,not_yet_mapped,0,""
+Porsche,Panamera GTS ST,2023,,not_yet_mapped,0,""
+Porsche,Panamera Turbo,2020,,not_yet_mapped,0,""
+Porsche,Panamera Turbo Exec,2020,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S,2021,PANAMERA TURBO S,exact_name_candidate,1,PANAMERA TURBO S
+Porsche,Panamera Turbo S,2023,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S Executive,2021,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S Executive,2023,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S ST,2021,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S ST,2023,,not_yet_mapped,0,""
+Porsche,Panamera Turbo S/Exec/ST,2022,,not_yet_mapped,0,""
+Porsche,Panamera Turbo ST,2020,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2020,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2021,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2022,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2023,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2024,,not_yet_mapped,0,""
+Toyota,4Runner 2WD,2025,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2020,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2021,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2022,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2023,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2024,,not_yet_mapped,0,""
+Toyota,4Runner 4WD,2025,,not_yet_mapped,0,""
+Toyota,86,2020,86,exact_name_candidate,1,86
+Toyota,Avalon,2020,AVALON,exact_name_candidate,1,AVALON
+Toyota,Avalon,2021,AVALON,exact_name_candidate,1,AVALON
+Toyota,Avalon,2022,AVALON,exact_name_candidate,1,AVALON
+Toyota,Avalon AWD,2021,,not_yet_mapped,0,""
+Toyota,Avalon Hybrid,2020,AVALON HYBRID,exact_name_candidate,1,AVALON HYBRID
+Toyota,Avalon Hybrid,2021,AVALON HYBRID,exact_name_candidate,1,AVALON HYBRID
+Toyota,Avalon Hybrid,2022,,not_yet_mapped,0,""
+Toyota,Avalon Hybrid XLE,2020,,not_yet_mapped,0,""
+Toyota,Avalon Hybrid XLE,2021,,not_yet_mapped,0,""
+Toyota,Avalon Hybrid XLE,2022,,not_yet_mapped,0,""
+Toyota,Avalon TRD,2021,,not_yet_mapped,0,""
+Toyota,Avalon XLE,2020,,not_yet_mapped,0,""
+Toyota,Avalon XLE,2021,,not_yet_mapped,0,""
+Toyota,Avalon XLE,2022,,not_yet_mapped,0,""
+Toyota,C-HR,2020,C-HR,exact_name_candidate,1,C-HR
+Toyota,C-HR,2021,C-HR,exact_name_candidate,1,C-HR
+Toyota,C-HR,2022,C-HR,exact_name_candidate,1,C-HR
+Toyota,Camry,2020,CAMRY,exact_name_candidate,1,CAMRY
+Toyota,Camry,2021,CAMRY,exact_name_candidate,1,CAMRY
+Toyota,Camry,2022,CAMRY,exact_name_candidate,1,CAMRY
+Toyota,Camry,2023,CAMRY,exact_name_candidate,1,CAMRY
+Toyota,Camry,2024,CAMRY,exact_name_candidate,1,CAMRY
+Toyota,Camry AWD LE/SE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD LE/SE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD LE/SE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD LE/SE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD LE/SE,2024,,review_required,1,CAMRY
+Toyota,Camry AWD XLE/XSE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD XLE/XSE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD XLE/XSE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD XLE/XSE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry AWD XLE/XSE,2024,,review_required,1,CAMRY
+Toyota,Camry HEV AWD LE,2025,,review_required,2,CAMRY HYBRID | redundant CAMRY
+Toyota,Camry HEV AWD SE/XLE,2025,,review_required,2,CAMRY HYBRID | redundant CAMRY
+Toyota,Camry HEV AWD XSE,2025,,review_required,2,CAMRY HYBRID | redundant CAMRY
+Toyota,Camry HEV FF LE,2025,,review_required,2,CAMRY HYBRID | redundant CAMRY
+Toyota,Camry HEV FF SE/XLE/XSE,2025,,review_required,2,CAMRY HYBRID | redundant CAMRY
+Toyota,Camry Hybrid LE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid LE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid LE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid LE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid LE,2024,,review_required,1,CAMRY
+Toyota,Camry Hybrid SE/XLE/XSE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid SE/XLE/XSE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid SE/XLE/XSE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry Hybrid SE/XLE/XSE,2024,,review_required,1,CAMRY
+Toyota,Camry Hybrid XLE/SE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry LE/SE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry LE/SE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry LE/SE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry LE/SE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry LE/SE,2024,,review_required,1,CAMRY
+Toyota,Camry TRD,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry TRD,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry TRD,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry TRD,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry TRD,2024,,review_required,1,CAMRY
+Toyota,Camry XLE/XSE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XLE/XSE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XLE/XSE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XLE/XSE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XLE/XSE,2024,,review_required,1,CAMRY
+Toyota,Camry XSE,2020,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XSE,2021,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XSE,2022,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XSE,2023,,review_required,2,CAMRY | CAMRY HYBRID
+Toyota,Camry XSE,2024,,review_required,1,CAMRY
+Toyota,Corolla,2020,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla,2021,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla,2022,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla,2023,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla,2024,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla,2025,COROLLA,exact_name_candidate,1,COROLLA
+Toyota,Corolla APEX,2021,,not_yet_mapped,0,""
+Toyota,Corolla APEX,2022,,not_yet_mapped,0,""
+Toyota,Corolla Cross,2022,COROLLA CROSS,exact_name_candidate,1,COROLLA CROSS
+Toyota,Corolla Cross,2023,COROLLA CROSS,exact_name_candidate,1,COROLLA CROSS
+Toyota,Corolla Cross,2024,COROLLA CROSS,exact_name_candidate,1,COROLLA CROSS
+Toyota,Corolla Cross,2025,COROLLA CROSS,exact_name_candidate,1,COROLLA CROSS
+Toyota,Corolla Cross 4WD,2022,,not_yet_mapped,0,""
+Toyota,Corolla Cross 4WD,2023,,not_yet_mapped,0,""
+Toyota,Corolla Cross AWD,2024,,not_yet_mapped,0,""
+Toyota,Corolla Cross AWD,2025,,not_yet_mapped,0,""
+Toyota,Corolla Cross Hybrid AWD,2023,,not_yet_mapped,0,""
+Toyota,Corolla Cross Hybrid AWD,2024,,not_yet_mapped,0,""
+Toyota,Corolla Cross Hybrid AWD,2025,,not_yet_mapped,0,""
+Toyota,Corolla FX,2025,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback,2020,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback,2021,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback,2022,COROLLA HATCHBACK,exact_name_candidate,1,COROLLA HATCHBACK
+Toyota,Corolla Hatchback,2023,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback,2024,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback,2025,COROLLA HATCHBACK,exact_name_candidate,1,COROLLA HATCHBACK
+Toyota,Corolla Hatchback XSE,2020,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback XSE,2021,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback XSE,2022,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback XSE,2023,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback XSE,2024,,not_yet_mapped,0,""
+Toyota,Corolla Hatchback XSE,2025,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid,2020,COROLLA HYBRID,exact_name_candidate,1,COROLLA HYBRID
+Toyota,Corolla Hybrid,2021,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid,2022,COROLLA HYBRID,exact_name_candidate,1,COROLLA HYBRID
+Toyota,Corolla Hybrid,2023,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid (Normal/Eco Modes),2024,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid (Normal/Eco Modes),2025,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid (Sport/Normal/Eco Modes),2024,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid (Sport/Normal/Eco Modes),2025,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid AWD,2023,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid AWD (Normal/Eco Modes),2024,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid AWD (Normal/Eco Modes),2025,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid AWD (Sport/Normal/Eco Modes),2024,,not_yet_mapped,0,""
+Toyota,Corolla Hybrid AWD (Sport/Normal/Eco Modes),2025,,not_yet_mapped,0,""
+Toyota,Corolla XLE,2020,,not_yet_mapped,0,""
+Toyota,Corolla XLE,2021,,not_yet_mapped,0,""
+Toyota,Corolla XLE,2022,,not_yet_mapped,0,""
+Toyota,Corolla XSE,2020,,not_yet_mapped,0,""
+Toyota,Corolla XSE,2021,,not_yet_mapped,0,""
+Toyota,Corolla XSE,2022,,not_yet_mapped,0,""
+Toyota,Crown AWD,2023,,not_yet_mapped,0,""
+Toyota,Crown AWD,2024,,not_yet_mapped,0,""
+Toyota,Crown AWD,2025,,not_yet_mapped,0,""
+Toyota,Crown Signia AWD,2025,,not_yet_mapped,0,""
+Toyota,GR 86,2022,GR86,exact_name_candidate,1,GR86
+Toyota,GR 86,2023,GR86,exact_name_candidate,1,GR86
+Toyota,GR 86,2024,GR86,exact_name_candidate,1,GR86
+Toyota,GR 86,2025,GR86,exact_name_candidate,1,GR86
+Toyota,GR Corolla,2023,GR COROLLA,exact_name_candidate,1,GR COROLLA
+Toyota,GR Corolla,2024,GR COROLLA,exact_name_candidate,1,GR COROLLA
+Toyota,GR Corolla,2025,GR COROLLA,exact_name_candidate,1,GR COROLLA
+Toyota,GR Supra,2020,,not_yet_mapped,0,""
+Toyota,GR Supra,2021,,not_yet_mapped,0,""
+Toyota,GR Supra,2022,,not_yet_mapped,0,""
+Toyota,GR Supra,2023,,not_yet_mapped,0,""
+Toyota,GR Supra,2024,,not_yet_mapped,0,""
+Toyota,GR Supra,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander AWD LE/XLE,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander AWD LE/XLE,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander AWD Limited/Platinum,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander AWD Limited/Platinum,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander Hybrid,2024,GRAND HIGHLANDER HYBRID,exact_name_candidate,1,GRAND HIGHLANDER HYBRID
+Toyota,Grand Highlander Hybrid,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander Hybrid AWD,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander Hybrid AWD,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander Hybrid Limited,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander LE/XLE,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander LE/XLE,2025,,not_yet_mapped,0,""
+Toyota,Grand Highlander Limited,2024,,not_yet_mapped,0,""
+Toyota,Grand Highlander Limited,2025,,not_yet_mapped,0,""
+Toyota,Highlander,2020,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander,2021,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander,2022,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander,2023,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander,2024,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander,2025,HIGHLANDER,exact_name_candidate,1,HIGHLANDER
+Toyota,Highlander AWD,2020,,not_yet_mapped,0,""
+Toyota,Highlander AWD,2021,,not_yet_mapped,0,""
+Toyota,Highlander AWD,2022,,not_yet_mapped,0,""
+Toyota,Highlander AWD,2023,,not_yet_mapped,0,""
+Toyota,Highlander AWD,2024,,not_yet_mapped,0,""
+Toyota,Highlander AWD,2025,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid,2020,HIGHLANDER HYBRID,exact_name_candidate,1,HIGHLANDER HYBRID
+Toyota,Highlander Hybrid,2021,HIGHLANDER HYBRID,exact_name_candidate,1,HIGHLANDER HYBRID
+Toyota,Highlander Hybrid,2022,HIGHLANDER HYBRID,exact_name_candidate,1,HIGHLANDER HYBRID
+Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,exact_name_candidate,1,HIGHLANDER HYBRID
+Toyota,Highlander Hybrid,2024,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2020,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2021,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2022,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2023,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2024,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD,2025,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2020,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2021,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2022,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2023,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2024,,not_yet_mapped,0,""
+Toyota,Highlander Hybrid AWD LTD/PLAT,2025,,not_yet_mapped,0,""
+Toyota,Land Cruiser,2024,,not_yet_mapped,0,""
+Toyota,Land Cruiser,2025,LAND CRUISER,exact_name_candidate,1,LAND CRUISER
+Toyota,Land Cruiser Wagon 4WD,2020,,not_yet_mapped,0,""
+Toyota,Land Cruiser Wagon 4WD,2021,,not_yet_mapped,0,""
+Toyota,Prius,2020,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius,2021,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius,2022,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius,2023,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius,2024,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius,2025,PRIUS,exact_name_candidate,1,PRIUS
+Toyota,Prius AWD,2020,,not_yet_mapped,0,""
+Toyota,Prius AWD,2021,,not_yet_mapped,0,""
+Toyota,Prius AWD,2022,,not_yet_mapped,0,""
+Toyota,Prius AWD,2023,,not_yet_mapped,0,""
+Toyota,Prius AWD,2024,,not_yet_mapped,0,""
+Toyota,Prius AWD,2025,,not_yet_mapped,0,""
+Toyota,Prius AWD XLE/LTD,2023,,not_yet_mapped,0,""
+Toyota,Prius AWD XLE/LTD,2024,,not_yet_mapped,0,""
+Toyota,Prius AWD XLE/LTD,2025,,not_yet_mapped,0,""
+Toyota,Prius Eco,2020,,not_yet_mapped,0,""
+Toyota,Prius Eco,2021,,not_yet_mapped,0,""
+Toyota,Prius Eco,2022,,not_yet_mapped,0,""
+Toyota,Prius XLE/LTD,2023,,not_yet_mapped,0,""
+Toyota,Prius XLE/LTD,2024,,not_yet_mapped,0,""
+Toyota,Prius XLE/LTD,2025,,not_yet_mapped,0,""
+Toyota,Prius c,2020,,not_yet_mapped,0,""
+Toyota,RAV4,2020,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4,2021,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4,2022,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4,2023,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4,2024,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4,2025,RAV4,exact_name_candidate,1,RAV4
+Toyota,RAV4 AWD,2020,,not_yet_mapped,0,""
+Toyota,RAV4 AWD,2021,,not_yet_mapped,0,""
+Toyota,RAV4 AWD,2022,,not_yet_mapped,0,""
+Toyota,RAV4 AWD,2023,,not_yet_mapped,0,""
+Toyota,RAV4 AWD,2024,,not_yet_mapped,0,""
+Toyota,RAV4 AWD,2025,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2020,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2021,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2022,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2023,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2024,,not_yet_mapped,0,""
+Toyota,RAV4 AWD LE,2025,,not_yet_mapped,0,""
+Toyota,RAV4 AWD TRD OFFROAD,2020,,not_yet_mapped,0,""
+Toyota,RAV4 AWD TRD OFFROAD,2021,,not_yet_mapped,0,""
+Toyota,RAV4 AWD TRD OFFROAD,2022,,not_yet_mapped,0,""
+Toyota,RAV4 AWD TRD OFFROAD,2023,,not_yet_mapped,0,""
+Toyota,RAV4 AWD TRD OFFROAD,2024,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid  AWD,2021,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD,2020,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD,2022,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD,2023,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD,2024,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD,2025,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD Woodland Edition,2023,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD Woodland Edition,2024,,not_yet_mapped,0,""
+Toyota,RAV4 Hybrid AWD Woodland Edition,2025,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2020,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2021,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2022,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2023,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2024,,not_yet_mapped,0,""
+Toyota,Sequoia 2WD,2025,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2020,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2021,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2022,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2023,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2024,,not_yet_mapped,0,""
+Toyota,Sequoia 4WD,2025,,not_yet_mapped,0,""
+Toyota,Sienna 2WD,2020,,not_yet_mapped,0,""
+Toyota,Sienna 2WD,2022,,not_yet_mapped,0,""
+Toyota,Sienna 2WD,2023,,not_yet_mapped,0,""
+Toyota,Sienna 2WD,2024,,not_yet_mapped,0,""
+Toyota,Sienna 2WD,2025,,not_yet_mapped,0,""
+Toyota,Sienna AWD,2020,,not_yet_mapped,0,""
+Toyota,Sienna AWD,2022,,not_yet_mapped,0,""
+Toyota,Sienna AWD,2023,,not_yet_mapped,0,""
+Toyota,Sienna AWD,2024,,not_yet_mapped,0,""
+Toyota,Sienna AWD,2025,,not_yet_mapped,0,""
+Toyota,Sienna Hybrid 2WD,2021,,not_yet_mapped,0,""
+Toyota,Sienna Hybrid AWD,2021,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2020,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2021,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2022,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2023,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2024,,not_yet_mapped,0,""
+Toyota,Tacoma 2WD,2025,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2020,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2021,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2022,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2023,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2024,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD,2025,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2020,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2021,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2022,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2023,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD MT,2024,,not_yet_mapped,0,""
+Toyota,Tacoma 4WD MT,2025,,not_yet_mapped,0,""
+Toyota,Tacoma Hybrid 4WD,2024,,not_yet_mapped,0,""
+Toyota,Tacoma Hybrid 4WD,2025,,not_yet_mapped,0,""
+Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2024,,not_yet_mapped,0,""
+Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2025,,not_yet_mapped,0,""
+Toyota,Tacoma SR5/Sport/PreRunner 2WD,2024,,not_yet_mapped,0,""
+Toyota,Tacoma SR5/Sport/PreRunner 2WD,2025,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2020,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2021,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2022,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2023,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2024,,not_yet_mapped,0,""
+Toyota,Tundra 2WD,2025,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2020,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2021,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2022,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2023,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2024,,not_yet_mapped,0,""
+Toyota,Tundra 4WD,2025,,not_yet_mapped,0,""
+Toyota,Tundra 4WD PRO,2022,,not_yet_mapped,0,""
+Toyota,Tundra 4WD PRO,2023,,not_yet_mapped,0,""
+Toyota,Tundra 4WD PRO,2024,,not_yet_mapped,0,""
+Toyota,Tundra 4WD PRO,2025,,not_yet_mapped,0,""
+Toyota,Venza AWD,2021,,not_yet_mapped,0,""
+Toyota,Venza AWD,2022,,not_yet_mapped,0,""
+Toyota,Venza AWD,2023,,not_yet_mapped,0,""
+Toyota,Venza AWD,2024,,not_yet_mapped,0,""
+Toyota,Yaris,2020,YARIS,exact_name_candidate,1,YARIS

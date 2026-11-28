@@ -1,0 +1,663 @@
+vehicle_id,make,model,year,nhtsa_model,campaign_number,match_status
+41213,Toyota,Corolla,2020,COROLLA,19V877000,exact_name_candidate
+41213,Toyota,Corolla,2020,COROLLA,20V682000,exact_name_candidate
+41213,Toyota,Corolla,2020,COROLLA,23V865000,exact_name_candidate
+41214,Toyota,Corolla Hybrid,2020,COROLLA HYBRID,19V544000,exact_name_candidate
+41214,Toyota,Corolla Hybrid,2020,COROLLA HYBRID,19V877000,exact_name_candidate
+41215,Toyota,Corolla,2020,COROLLA,19V877000,exact_name_candidate
+41215,Toyota,Corolla,2020,COROLLA,20V682000,exact_name_candidate
+41215,Toyota,Corolla,2020,COROLLA,23V865000,exact_name_candidate
+41217,Toyota,Corolla,2020,COROLLA,19V877000,exact_name_candidate
+41217,Toyota,Corolla,2020,COROLLA,20V682000,exact_name_candidate
+41217,Toyota,Corolla,2020,COROLLA,23V865000,exact_name_candidate
+41218,Toyota,Corolla,2020,COROLLA,19V877000,exact_name_candidate
+41218,Toyota,Corolla,2020,COROLLA,20V682000,exact_name_candidate
+41218,Toyota,Corolla,2020,COROLLA,23V865000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,19V600000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,19V684000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,19V755000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,20V164000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,20V355000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,21V096000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,21V598000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,23V211000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,23V584000,exact_name_candidate
+41341,BMW,M340i,2020,M340I,24V576000,exact_name_candidate
+41607,Porsche,Cayenne Turbo,2020,CAYENNE TURBO,20V270000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,20V314000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,20V771000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,20V798000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,21V215000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,23V858000,exact_name_candidate
+41648,Honda,Insight,2020,INSIGHT,26V332000,exact_name_candidate
+41682,Porsche,Macan,2020,MACAN,22V656000,exact_name_candidate
+41682,Porsche,Macan,2020,MACAN,23V443000,exact_name_candidate
+41683,Porsche,Macan S,2020,MACAN S,23V443000,exact_name_candidate
+41684,Porsche,Cayenne,2020,CAYENNE,19V735000,exact_name_candidate
+41684,Porsche,Cayenne,2020,CAYENNE,20V271000,exact_name_candidate
+41684,Porsche,Cayenne,2020,CAYENNE,21V318000,exact_name_candidate
+41684,Porsche,Cayenne,2020,CAYENNE,25V896000,exact_name_candidate
+41685,Porsche,Cayenne S,2020,CAYENNE S,21V318000,exact_name_candidate
+41809,Mercedes-Benz,E450 4matic,2020,E 450 4MATIC,26V216000,exact_name_candidate
+41812,Toyota,Avalon,2020,AVALON,20V682000,exact_name_candidate
+41812,Toyota,Avalon,2020,AVALON,20V734000,exact_name_candidate
+41812,Toyota,Avalon,2020,AVALON,23V865000,exact_name_candidate
+41813,Toyota,Avalon Hybrid,2020,AVALON HYBRID,20V064000,exact_name_candidate
+41813,Toyota,Avalon Hybrid,2020,AVALON HYBRID,20V734000,exact_name_candidate
+41813,Toyota,Avalon Hybrid,2020,AVALON HYBRID,23V865000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,20V066000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,20V437000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,20V438000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,20V439000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,20V440000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,21V010000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,23V158000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,23V174000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,23V431000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,23V858000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,24V064000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,26V227000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,26V332000,exact_name_candidate
+41895,Honda,Odyssey,2020,ODYSSEY,26V423000,exact_name_candidate
+41918,Porsche,Panamera,2020,PANAMERA,23V033000,exact_name_candidate
+41966,Lexus,RX 350,2020,RX350,20V682000,exact_name_candidate
+41981,Porsche,911 Carrera S,2020,911 CARRERA S,23V313000,exact_name_candidate
+41987,Audi,S3,2020,S3,21V198000,exact_name_candidate
+41999,Toyota,Yaris,2020,YARIS,21V617000,exact_name_candidate
+42000,Toyota,Yaris,2020,YARIS,21V617000,exact_name_candidate
+42002,BMW,M5,2020,M5,19V684000,exact_name_candidate
+42002,BMW,M5,2020,M5,19V883000,exact_name_candidate
+42002,BMW,M5,2020,M5,20V598000,exact_name_candidate
+42011,Toyota,Camry,2020,CAMRY,20V064000,exact_name_candidate
+42011,Toyota,Camry,2020,CAMRY,20V682000,exact_name_candidate
+42011,Toyota,Camry,2020,CAMRY,23V865000,exact_name_candidate
+42015,Toyota,Camry,2020,CAMRY,20V064000,exact_name_candidate
+42015,Toyota,Camry,2020,CAMRY,20V682000,exact_name_candidate
+42015,Toyota,Camry,2020,CAMRY,23V865000,exact_name_candidate
+42069,Honda,Accord,2020,ACCORD,20V771000,exact_name_candidate
+42069,Honda,Accord,2020,ACCORD,21V215000,exact_name_candidate
+42069,Honda,Accord,2020,ACCORD,23V858000,exact_name_candidate
+42069,Honda,Accord,2020,ACCORD,24V064000,exact_name_candidate
+42069,Honda,Accord,2020,ACCORD,26V332000,exact_name_candidate
+42070,Honda,Accord,2020,ACCORD,20V771000,exact_name_candidate
+42070,Honda,Accord,2020,ACCORD,21V215000,exact_name_candidate
+42070,Honda,Accord,2020,ACCORD,23V858000,exact_name_candidate
+42070,Honda,Accord,2020,ACCORD,24V064000,exact_name_candidate
+42070,Honda,Accord,2020,ACCORD,26V332000,exact_name_candidate
+42071,Honda,Accord,2020,ACCORD,20V771000,exact_name_candidate
+42071,Honda,Accord,2020,ACCORD,21V215000,exact_name_candidate
+42071,Honda,Accord,2020,ACCORD,23V858000,exact_name_candidate
+42071,Honda,Accord,2020,ACCORD,24V064000,exact_name_candidate
+42071,Honda,Accord,2020,ACCORD,26V332000,exact_name_candidate
+42072,Honda,Accord,2020,ACCORD,20V771000,exact_name_candidate
+42072,Honda,Accord,2020,ACCORD,21V215000,exact_name_candidate
+42072,Honda,Accord,2020,ACCORD,23V858000,exact_name_candidate
+42072,Honda,Accord,2020,ACCORD,24V064000,exact_name_candidate
+42072,Honda,Accord,2020,ACCORD,26V332000,exact_name_candidate
+42073,Honda,Accord,2020,ACCORD,20V771000,exact_name_candidate
+42073,Honda,Accord,2020,ACCORD,21V215000,exact_name_candidate
+42073,Honda,Accord,2020,ACCORD,23V858000,exact_name_candidate
+42073,Honda,Accord,2020,ACCORD,24V064000,exact_name_candidate
+42073,Honda,Accord,2020,ACCORD,26V332000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,19V737000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,20V505000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,21V295000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,21V947000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,22V034000,exact_name_candidate
+42102,Audi,Q5,2020,Q5,23V842000,exact_name_candidate
+42114,Audi,A3,2020,A3,21V198000,exact_name_candidate
+42114,Audi,A3,2020,A3,22V815000,exact_name_candidate
+42114,Audi,A3,2020,A3,24V110000,exact_name_candidate
+42135,Honda,Accord Hybrid,2020,ACCORD HYBRID,20V771000,exact_name_candidate
+42135,Honda,Accord Hybrid,2020,ACCORD HYBRID,20V798000,exact_name_candidate
+42135,Honda,Accord Hybrid,2020,ACCORD HYBRID,23V858000,exact_name_candidate
+42135,Honda,Accord Hybrid,2020,ACCORD HYBRID,24V064000,exact_name_candidate
+42135,Honda,Accord Hybrid,2020,ACCORD HYBRID,26V332000,exact_name_candidate
+42145,Toyota,C-HR,2020,C-HR,19V877000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,20V064000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,20V286000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,20V373000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,20V682000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,20V734000,exact_name_candidate
+42181,Toyota,RAV4,2020,RAV4,23V865000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,20V064000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,20V286000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,20V373000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,20V682000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,20V734000,exact_name_candidate
+42182,Toyota,RAV4,2020,RAV4,23V865000,exact_name_candidate
+42199,Mercedes-Benz,S560 4matic,2020,S 560 4MATIC,26V216000,exact_name_candidate
+42212,Audi,S5,2020,S5,20V737000,exact_name_candidate
+42212,Audi,S5,2020,S5,21V295000,exact_name_candidate
+42212,Audi,S5,2020,S5,21V874000,exact_name_candidate
+42212,Audi,S5,2020,S5,22V034000,exact_name_candidate
+42220,Audi,A4,2020,A4,21V295000,exact_name_candidate
+42220,Audi,A4,2020,A4,21V874000,exact_name_candidate
+42220,Audi,A4,2020,A4,22V034000,exact_name_candidate
+42221,Audi,S4,2020,S4,21V295000,exact_name_candidate
+42221,Audi,S4,2020,S4,21V874000,exact_name_candidate
+42221,Audi,S4,2020,S4,22V034000,exact_name_candidate
+42233,Audi,S6,2020,S6,21V159000,exact_name_candidate
+42233,Audi,S6,2020,S6,21V295000,exact_name_candidate
+42233,Audi,S6,2020,S6,22V034000,exact_name_candidate
+42233,Audi,S6,2020,S6,22V155000,exact_name_candidate
+42233,Audi,S6,2020,S6,22V861000,exact_name_candidate
+42233,Audi,S6,2020,S6,25V900000,exact_name_candidate
+42234,Audi,S7,2020,S7,21V159000,exact_name_candidate
+42234,Audi,S7,2020,S7,21V295000,exact_name_candidate
+42234,Audi,S7,2020,S7,22V034000,exact_name_candidate
+42234,Audi,S7,2020,S7,22V155000,exact_name_candidate
+42234,Audi,S7,2020,S7,22V861000,exact_name_candidate
+42234,Audi,S7,2020,S7,25V900000,exact_name_candidate
+42255,Audi,SQ5,2020,SQ5,20V505000,exact_name_candidate
+42255,Audi,SQ5,2020,SQ5,21V295000,exact_name_candidate
+42255,Audi,SQ5,2020,SQ5,21V947000,exact_name_candidate
+42255,Audi,SQ5,2020,SQ5,22V034000,exact_name_candidate
+42296,Audi,A6 Allroad,2020,A6 ALLROAD,21V159000,exact_name_candidate
+42296,Audi,A6 Allroad,2020,A6 ALLROAD,22V034000,exact_name_candidate
+42296,Audi,A6 Allroad,2020,A6 ALLROAD,22V861000,exact_name_candidate
+42296,Audi,A6 Allroad,2020,A6 ALLROAD,25V900000,exact_name_candidate
+42310,Audi,Q7,2020,Q7,20V658000,exact_name_candidate
+42310,Audi,Q7,2020,Q7,21V078000,exact_name_candidate
+42310,Audi,Q7,2020,Q7,22V516000,exact_name_candidate
+42310,Audi,Q7,2020,Q7,23V212000,exact_name_candidate
+42310,Audi,Q7,2020,Q7,25V900000,exact_name_candidate
+42311,Audi,Q8,2020,Q8,20V272000,exact_name_candidate
+42311,Audi,Q8,2020,Q8,22V516000,exact_name_candidate
+42311,Audi,Q8,2020,Q8,25V900000,exact_name_candidate
+42379,Toyota,Highlander,2020,HIGHLANDER,20V162000,exact_name_candidate
+42379,Toyota,Highlander,2020,HIGHLANDER,20V633000,exact_name_candidate
+42379,Toyota,Highlander,2020,HIGHLANDER,23V720000,exact_name_candidate
+42379,Toyota,Highlander,2020,HIGHLANDER,23V865000,exact_name_candidate
+42380,Toyota,Highlander,2020,HIGHLANDER,20V162000,exact_name_candidate
+42380,Toyota,Highlander,2020,HIGHLANDER,20V633000,exact_name_candidate
+42380,Toyota,Highlander,2020,HIGHLANDER,23V720000,exact_name_candidate
+42380,Toyota,Highlander,2020,HIGHLANDER,23V865000,exact_name_candidate
+42394,Honda,Fit,2020,FIT,23V046000,exact_name_candidate
+42394,Honda,Fit,2020,FIT,24V064000,exact_name_candidate
+42394,Honda,Fit,2020,FIT,24V384000,exact_name_candidate
+42394,Honda,Fit,2020,FIT,26V332000,exact_name_candidate
+42395,Honda,Fit,2020,FIT,23V046000,exact_name_candidate
+42395,Honda,Fit,2020,FIT,24V064000,exact_name_candidate
+42395,Honda,Fit,2020,FIT,24V384000,exact_name_candidate
+42395,Honda,Fit,2020,FIT,26V332000,exact_name_candidate
+42396,Honda,Fit,2020,FIT,23V046000,exact_name_candidate
+42396,Honda,Fit,2020,FIT,24V064000,exact_name_candidate
+42396,Honda,Fit,2020,FIT,24V384000,exact_name_candidate
+42396,Honda,Fit,2020,FIT,26V332000,exact_name_candidate
+42408,Porsche,911 Carrera,2020,911 CARRERA,19V445000,exact_name_candidate
+42408,Porsche,911 Carrera,2020,911 CARRERA,19V878000,exact_name_candidate
+42408,Porsche,911 Carrera,2020,911 CARRERA,20V381000,exact_name_candidate
+42408,Porsche,911 Carrera,2020,911 CARRERA,21V201000,exact_name_candidate
+42408,Porsche,911 Carrera,2020,911 CARRERA,21V697000,exact_name_candidate
+42410,Porsche,911 Carrera S,2020,911 CARRERA S,23V313000,exact_name_candidate
+42477,Toyota,Highlander Hybrid,2020,HIGHLANDER HYBRID,20V633000,exact_name_candidate
+42477,Toyota,Highlander Hybrid,2020,HIGHLANDER HYBRID,22V239000,exact_name_candidate
+42477,Toyota,Highlander Hybrid,2020,HIGHLANDER HYBRID,23V720000,exact_name_candidate
+42477,Toyota,Highlander Hybrid,2020,HIGHLANDER HYBRID,23V865000,exact_name_candidate
+42542,Honda,Insight,2021,INSIGHT,20V798000,exact_name_candidate
+42542,Honda,Insight,2021,INSIGHT,24V064000,exact_name_candidate
+42542,Honda,Insight,2021,INSIGHT,26V332000,exact_name_candidate
+42558,Audi,SQ7,2020,SQ7,25V900000,exact_name_candidate
+42559,Audi,SQ8,2020,SQ8,25V900000,exact_name_candidate
+42571,Audi,Q7,2020,Q7,20V658000,exact_name_candidate
+42571,Audi,Q7,2020,Q7,21V078000,exact_name_candidate
+42571,Audi,Q7,2020,Q7,22V516000,exact_name_candidate
+42571,Audi,Q7,2020,Q7,23V212000,exact_name_candidate
+42571,Audi,Q7,2020,Q7,25V900000,exact_name_candidate
+42582,Toyota,Corolla,2021,COROLLA,23V865000,exact_name_candidate
+42583,Toyota,Corolla,2021,COROLLA,23V865000,exact_name_candidate
+42587,Toyota,Corolla,2021,COROLLA,23V865000,exact_name_candidate
+42588,Toyota,Corolla,2021,COROLLA,23V865000,exact_name_candidate
+42614,Audi,S7,2021,S7,21V159000,exact_name_candidate
+42614,Audi,S7,2021,S7,21V295000,exact_name_candidate
+42614,Audi,S7,2021,S7,21V606000,exact_name_candidate
+42614,Audi,S7,2021,S7,22V034000,exact_name_candidate
+42614,Audi,S7,2021,S7,22V155000,exact_name_candidate
+42614,Audi,S7,2021,S7,22V742000,exact_name_candidate
+42614,Audi,S7,2021,S7,22V861000,exact_name_candidate
+42614,Audi,S7,2021,S7,23V601000,exact_name_candidate
+42614,Audi,S7,2021,S7,25V201000,exact_name_candidate
+42614,Audi,S7,2021,S7,25V900000,exact_name_candidate
+42665,Audi,SQ5,2021,SQ5,21V295000,exact_name_candidate
+42665,Audi,SQ5,2021,SQ5,21V606000,exact_name_candidate
+42665,Audi,SQ5,2021,SQ5,21V947000,exact_name_candidate
+42665,Audi,SQ5,2021,SQ5,22V034000,exact_name_candidate
+42665,Audi,SQ5,2021,SQ5,22V742000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,21V159000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,21V606000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,22V034000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,22V806000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,22V861000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,23V601000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,25V201000,exact_name_candidate
+42791,Audi,A6 Allroad,2021,A6 ALLROAD,25V900000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,21V010000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,23V174000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,23V431000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,23V858000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,24V064000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,25V877000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,26V227000,exact_name_candidate
+42848,Honda,Odyssey,2021,ODYSSEY,26V332000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,20V761000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,21V096000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,21V298000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,21V554000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,23V211000,exact_name_candidate
+42925,BMW,M340i,2021,M340I,23V584000,exact_name_candidate
+42936,BMW,M5,2021,M5,20V598000,exact_name_candidate
+42943,Toyota,Avalon,2021,AVALON,20V734000,exact_name_candidate
+42943,Toyota,Avalon,2021,AVALON,23V865000,exact_name_candidate
+42944,Toyota,Avalon Hybrid,2021,AVALON HYBRID,23V865000,exact_name_candidate
+42959,Toyota,RAV4,2021,RAV4,23V865000,exact_name_candidate
+42960,Toyota,RAV4,2021,RAV4,23V865000,exact_name_candidate
+42993,Audi,S5,2021,S5,20V737000,exact_name_candidate
+42993,Audi,S5,2021,S5,21V295000,exact_name_candidate
+42993,Audi,S5,2021,S5,21V606000,exact_name_candidate
+42993,Audi,S5,2021,S5,22V034000,exact_name_candidate
+42993,Audi,S5,2021,S5,22V742000,exact_name_candidate
+42997,Audi,S4,2021,S4,21V295000,exact_name_candidate
+42997,Audi,S4,2021,S4,21V606000,exact_name_candidate
+42997,Audi,S4,2021,S4,22V034000,exact_name_candidate
+42997,Audi,S4,2021,S4,22V742000,exact_name_candidate
+42998,Toyota,C-HR,2021,C-HR,22V107000,exact_name_candidate
+43000,Audi,RS 7,2021,RS 7,25V201000,exact_name_candidate
+43000,Audi,RS 7,2021,RS 7,25V900000,exact_name_candidate
+43004,Audi,S8,2021,S8,21V111000,exact_name_candidate
+43004,Audi,S8,2021,S8,21V295000,exact_name_candidate
+43004,Audi,S8,2021,S8,21V606000,exact_name_candidate
+43004,Audi,S8,2021,S8,21V825000,exact_name_candidate
+43004,Audi,S8,2021,S8,22V034000,exact_name_candidate
+43004,Audi,S8,2021,S8,22V742000,exact_name_candidate
+43004,Audi,S8,2021,S8,25V201000,exact_name_candidate
+43004,Audi,S8,2021,S8,25V900000,exact_name_candidate
+43005,Audi,RS 6 Avant,2021,RS 6 AVANT,25V201000,exact_name_candidate
+43005,Audi,RS 6 Avant,2021,RS 6 AVANT,25V900000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,20V749000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,21V078000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,21V295000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,21V606000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,22V034000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,22V516000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,22V742000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,25V201000,exact_name_candidate
+43024,Audi,Q7,2021,Q7,25V900000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,21V295000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,21V339000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,21V606000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,22V034000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,22V742000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,25V201000,exact_name_candidate
+43025,Audi,RS Q8,2021,RS Q8,25V900000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,20V749000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,21V078000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,21V295000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,21V606000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,22V034000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,22V516000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,22V742000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,25V201000,exact_name_candidate
+43026,Audi,Q7,2021,Q7,25V900000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,21V295000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,21V606000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,22V034000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,22V516000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,22V742000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,25V201000,exact_name_candidate
+43027,Audi,Q8,2021,Q8,25V900000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,21V339000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,21V606000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,22V034000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,22V742000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,25V201000,exact_name_candidate
+43028,Audi,SQ7,2021,SQ7,25V900000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,21V339000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,21V606000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,22V034000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,22V742000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,25V201000,exact_name_candidate
+43029,Audi,SQ8,2021,SQ8,25V900000,exact_name_candidate
+43124,Lexus,RX 350,2021,RX350,21V043000,exact_name_candidate
+43128,Toyota,Highlander,2021,HIGHLANDER,23V720000,exact_name_candidate
+43128,Toyota,Highlander,2021,HIGHLANDER,23V865000,exact_name_candidate
+43128,Toyota,Highlander,2021,HIGHLANDER,24V452000,exact_name_candidate
+43128,Toyota,Highlander,2021,HIGHLANDER,26V128000,exact_name_candidate
+43129,Toyota,Highlander,2021,HIGHLANDER,23V720000,exact_name_candidate
+43129,Toyota,Highlander,2021,HIGHLANDER,23V865000,exact_name_candidate
+43129,Toyota,Highlander,2021,HIGHLANDER,24V452000,exact_name_candidate
+43129,Toyota,Highlander,2021,HIGHLANDER,26V128000,exact_name_candidate
+43130,Toyota,Highlander Hybrid,2021,HIGHLANDER HYBRID,22V239000,exact_name_candidate
+43130,Toyota,Highlander Hybrid,2021,HIGHLANDER HYBRID,23V720000,exact_name_candidate
+43130,Toyota,Highlander Hybrid,2021,HIGHLANDER HYBRID,23V865000,exact_name_candidate
+43130,Toyota,Highlander Hybrid,2021,HIGHLANDER HYBRID,26V128000,exact_name_candidate
+43274,Mercedes-Benz,GLC300,2021,GLC300,21V230000,exact_name_candidate
+43274,Mercedes-Benz,GLC300,2021,GLC300,22V261000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,21V295000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,21V606000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,21V947000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,22V034000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,22V742000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,22V753000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,23V842000,exact_name_candidate
+43276,Audi,Q5,2021,Q5,25V080000,exact_name_candidate
+43302,Toyota,Camry,2021,CAMRY,23V865000,exact_name_candidate
+43361,Honda,Accord,2021,ACCORD,21V900000,exact_name_candidate
+43361,Honda,Accord,2021,ACCORD,23V858000,exact_name_candidate
+43361,Honda,Accord,2021,ACCORD,24V064000,exact_name_candidate
+43361,Honda,Accord,2021,ACCORD,26V332000,exact_name_candidate
+43364,Honda,Accord Hybrid,2021,ACCORD HYBRID,21V900000,exact_name_candidate
+43364,Honda,Accord Hybrid,2021,ACCORD HYBRID,24V064000,exact_name_candidate
+43364,Honda,Accord Hybrid,2021,ACCORD HYBRID,26V332000,exact_name_candidate
+43379,Porsche,Cayenne,2021,CAYENNE,21V271000,exact_name_candidate
+43379,Porsche,Cayenne,2021,CAYENNE,21V318000,exact_name_candidate
+43379,Porsche,Cayenne,2021,CAYENNE,21V493000,exact_name_candidate
+43379,Porsche,Cayenne,2021,CAYENNE,22V040000,exact_name_candidate
+43379,Porsche,Cayenne,2021,CAYENNE,25V896000,exact_name_candidate
+43381,Porsche,Cayenne S,2021,CAYENNE S,21V318000,exact_name_candidate
+43382,Porsche,Cayenne GTS,2021,CAYENNE GTS,21V318000,exact_name_candidate
+43382,Porsche,Cayenne GTS,2021,CAYENNE GTS,21V341000,exact_name_candidate
+43430,Porsche,911 Turbo S,2021,911 TURBO S,23V715000,exact_name_candidate
+43500,Porsche,911 Carrera,2021,911 CARRERA,21V697000,exact_name_candidate
+43532,Mercedes-Benz,AMG C63 S,2021,AMG C63 S,21V230000,exact_name_candidate
+43532,Mercedes-Benz,AMG C63 S,2021,AMG C63 S,21V406000,exact_name_candidate
+43532,Mercedes-Benz,AMG C63 S,2021,AMG C63 S,22V232000,exact_name_candidate
+43532,Mercedes-Benz,AMG C63 S,2021,AMG C63 S,23V445000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,21V230000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,21V353000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,21V483000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,21V527000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,22V365000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,23V097000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,23V445000,exact_name_candidate
+43556,Mercedes-Benz,AMG G63,2021,AMG G63,24V659000,exact_name_candidate
+43562,BMW,M3,2021,M3,21V062000,exact_name_candidate
+43562,BMW,M3,2021,M3,21V298000,exact_name_candidate
+43562,BMW,M3,2021,M3,21V554000,exact_name_candidate
+43623,Porsche,Macan,2021,MACAN,21V224000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,21V432000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,21V768000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,23V174000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,23V431000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,23V858000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,24V064000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,25V877000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,26V227000,exact_name_candidate
+43697,Honda,Odyssey,2022,ODYSSEY,26V332000,exact_name_candidate
+43727,Porsche,Panamera,2021,PANAMERA,21V362000,exact_name_candidate
+43727,Porsche,Panamera,2021,PANAMERA,21V608000,exact_name_candidate
+43727,Porsche,Panamera,2021,PANAMERA,23V033000,exact_name_candidate
+43732,Porsche,Panamera GTS,2021,PANAMERA GTS,21V362000,exact_name_candidate
+43732,Porsche,Panamera GTS,2021,PANAMERA GTS,21V608000,exact_name_candidate
+43732,Porsche,Panamera GTS,2021,PANAMERA GTS,23V033000,exact_name_candidate
+43769,Porsche,Panamera Turbo S,2021,PANAMERA TURBO S,21V362000,exact_name_candidate
+43769,Porsche,Panamera Turbo S,2021,PANAMERA TURBO S,21V608000,exact_name_candidate
+43769,Porsche,Panamera Turbo S,2021,PANAMERA TURBO S,23V033000,exact_name_candidate
+43948,Honda,Insight,2022,INSIGHT,21V900000,exact_name_candidate
+43948,Honda,Insight,2022,INSIGHT,23V858000,exact_name_candidate
+43948,Honda,Insight,2022,INSIGHT,26V332000,exact_name_candidate
+44079,Toyota,Prius,2022,PRIUS,21V734000,exact_name_candidate
+44274,Audi,A3,2022,A3,21V825000,exact_name_candidate
+44274,Audi,A3,2022,A3,22V224000,exact_name_candidate
+44274,Audi,A3,2022,A3,22V515000,exact_name_candidate
+44274,Audi,A3,2022,A3,22V652000,exact_name_candidate
+44274,Audi,A3,2022,A3,22V806000,exact_name_candidate
+44274,Audi,A3,2022,A3,22V823000,exact_name_candidate
+44343,Toyota,Camry,2022,CAMRY,23V865000,exact_name_candidate
+44375,Porsche,911 Turbo,2022,911 TURBO,23V715000,exact_name_candidate
+44377,Porsche,911 Turbo S,2022,911 TURBO S,23V715000,exact_name_candidate
+44415,Porsche,911 Carrera,2022,911 CARRERA,23V313000,exact_name_candidate
+44464,Mercedes-Benz,A220 4matic,2022,A 220 4MATIC,26V481000,exact_name_candidate
+44501,Porsche,911 GT3,2022,911 GT3,22V803000,exact_name_candidate
+44501,Porsche,911 GT3,2022,911 GT3,23V446000,exact_name_candidate
+44501,Porsche,911 GT3,2022,911 GT3,23V715000,exact_name_candidate
+44502,Porsche,911 GT3,2022,911 GT3,22V803000,exact_name_candidate
+44502,Porsche,911 GT3,2022,911 GT3,23V446000,exact_name_candidate
+44502,Porsche,911 GT3,2022,911 GT3,23V715000,exact_name_candidate
+44565,Honda,Accord,2022,ACCORD,23V430000,exact_name_candidate
+44565,Honda,Accord,2022,ACCORD,23V858000,exact_name_candidate
+44565,Honda,Accord,2022,ACCORD,24V064000,exact_name_candidate
+44565,Honda,Accord,2022,ACCORD,26V332000,exact_name_candidate
+44568,Honda,Accord Hybrid,2022,ACCORD HYBRID,26V332000,exact_name_candidate
+44588,Toyota,Corolla Cross,2022,COROLLA CROSS,23V384000,exact_name_candidate
+44588,Toyota,Corolla Cross,2022,COROLLA CROSS,23V864000,exact_name_candidate
+44612,Porsche,911 GT3 Touring,2022,911 GT3 TOURING,23V715000,exact_name_candidate
+44613,Porsche,911 GT3 Touring,2022,911 GT3 TOURING,23V715000,exact_name_candidate
+44614,Toyota,GR 86,2022,GR86,23V609000,exact_name_candidate
+44615,Toyota,GR 86,2022,GR86,23V609000,exact_name_candidate
+44649,Toyota,Highlander,2022,HIGHLANDER,22V310000,exact_name_candidate
+44649,Toyota,Highlander,2022,HIGHLANDER,23V720000,exact_name_candidate
+44649,Toyota,Highlander,2022,HIGHLANDER,24V419000,exact_name_candidate
+44649,Toyota,Highlander,2022,HIGHLANDER,24V452000,exact_name_candidate
+44649,Toyota,Highlander,2022,HIGHLANDER,26V128000,exact_name_candidate
+44650,Toyota,Highlander,2022,HIGHLANDER,22V310000,exact_name_candidate
+44650,Toyota,Highlander,2022,HIGHLANDER,23V720000,exact_name_candidate
+44650,Toyota,Highlander,2022,HIGHLANDER,24V419000,exact_name_candidate
+44650,Toyota,Highlander,2022,HIGHLANDER,24V452000,exact_name_candidate
+44650,Toyota,Highlander,2022,HIGHLANDER,26V128000,exact_name_candidate
+44651,Toyota,Highlander Hybrid,2022,HIGHLANDER HYBRID,22V239000,exact_name_candidate
+44651,Toyota,Highlander Hybrid,2022,HIGHLANDER HYBRID,22V310000,exact_name_candidate
+44651,Toyota,Highlander Hybrid,2022,HIGHLANDER HYBRID,23V720000,exact_name_candidate
+44651,Toyota,Highlander Hybrid,2022,HIGHLANDER HYBRID,26V128000,exact_name_candidate
+44655,Mercedes-Benz,GLA250 4matic,2022,GLA 250 4MATIC,26V481000,exact_name_candidate
+44855,Mercedes-Benz,GLB250 4matic,2022,GLB 250 4MATIC,26V481000,exact_name_candidate
+44991,Toyota,RAV4,2022,RAV4,22V519000,exact_name_candidate
+44992,Toyota,RAV4,2022,RAV4,22V519000,exact_name_candidate
+45120,Porsche,911 Carrera GTS,2022,911 CARRERA GTS,23V715000,exact_name_candidate
+45121,Porsche,911 Carrera 4 GTS,2022,911 CARRERA 4 GTS,23V715000,exact_name_candidate
+45122,Porsche,911 Carrera 4 GTS,2022,911 CARRERA 4 GTS,23V715000,exact_name_candidate
+45130,Porsche,Cayenne,2022,CAYENNE,22V040000,exact_name_candidate
+45130,Porsche,Cayenne,2022,CAYENNE,25V896000,exact_name_candidate
+45190,Porsche,911 Carrera GTS,2022,911 CARRERA GTS,23V715000,exact_name_candidate
+45203,Honda,Odyssey,2023,ODYSSEY,23V431000,exact_name_candidate
+45203,Honda,Odyssey,2023,ODYSSEY,23V858000,exact_name_candidate
+45203,Honda,Odyssey,2023,ODYSSEY,24V114000,exact_name_candidate
+45203,Honda,Odyssey,2023,ODYSSEY,25V877000,exact_name_candidate
+45203,Honda,Odyssey,2023,ODYSSEY,26V332000,exact_name_candidate
+45401,Audi,A3,2023,A3,22V901000,exact_name_candidate
+45401,Audi,A3,2023,A3,24V251000,exact_name_candidate
+45426,Toyota,GR 86,2023,GR86,24V548000,exact_name_candidate
+45427,Toyota,GR 86,2023,GR86,24V548000,exact_name_candidate
+45630,Audi,Q8,2023,Q8,23V868000,exact_name_candidate
+45630,Audi,Q8,2023,Q8,25V900000,exact_name_candidate
+45698,Mercedes-Benz,GLB250 4matic,2023,GLB 250 4MATIC,26V481000,exact_name_candidate
+45707,Porsche,Cayenne,2023,CAYENNE,25V896000,exact_name_candidate
+45719,Toyota,Camry,2023,CAMRY,23V432000,exact_name_candidate
+45719,Toyota,Camry,2023,CAMRY,24V128000,exact_name_candidate
+45931,Toyota,Corolla,2023,COROLLA,23V480000,exact_name_candidate
+45931,Toyota,Corolla,2023,COROLLA,24V878000,exact_name_candidate
+45931,Toyota,Corolla,2023,COROLLA,25V040000,exact_name_candidate
+45932,Toyota,Corolla,2023,COROLLA,23V480000,exact_name_candidate
+45932,Toyota,Corolla,2023,COROLLA,24V878000,exact_name_candidate
+45932,Toyota,Corolla,2023,COROLLA,25V040000,exact_name_candidate
+46067,Toyota,RAV4,2023,RAV4,23V485000,exact_name_candidate
+46067,Toyota,RAV4,2023,RAV4,25V595000,exact_name_candidate
+46067,Toyota,RAV4,2023,RAV4,25V744000,exact_name_candidate
+46068,Toyota,RAV4,2023,RAV4,23V485000,exact_name_candidate
+46068,Toyota,RAV4,2023,RAV4,25V595000,exact_name_candidate
+46068,Toyota,RAV4,2023,RAV4,25V744000,exact_name_candidate
+46083,Porsche,911 GT3,2023,911 GT3,23V446000,exact_name_candidate
+46083,Porsche,911 GT3,2023,911 GT3,23V715000,exact_name_candidate
+46084,Porsche,911 GT3,2023,911 GT3,23V446000,exact_name_candidate
+46084,Porsche,911 GT3,2023,911 GT3,23V715000,exact_name_candidate
+46090,Porsche,911 Carrera,2023,911 CARRERA,24V123000,exact_name_candidate
+46092,Porsche,911 Carrera S,2023,911 CARRERA S,24V123000,exact_name_candidate
+46093,Porsche,911 Carrera S,2023,911 CARRERA S,24V123000,exact_name_candidate
+46096,Porsche,911 Carrera 4S,2023,911 CARRERA 4S,24V123000,exact_name_candidate
+46097,Porsche,911 Carrera 4S,2023,911 CARRERA 4S,24V123000,exact_name_candidate
+46100,Porsche,911 Carrera 4,2023,911 CARRERA 4,24V123000,exact_name_candidate
+46102,Porsche,911 Targa 4S,2023,911 TARGA 4S,24V123000,exact_name_candidate
+46103,Porsche,911 Targa 4S,2023,911 TARGA 4S,24V123000,exact_name_candidate
+46105,Porsche,911 Carrera GTS,2023,911 CARRERA GTS,23V715000,exact_name_candidate
+46105,Porsche,911 Carrera GTS,2023,911 CARRERA GTS,24V123000,exact_name_candidate
+46106,Porsche,911 Carrera GTS,2023,911 CARRERA GTS,23V715000,exact_name_candidate
+46106,Porsche,911 Carrera GTS,2023,911 CARRERA GTS,24V123000,exact_name_candidate
+46109,Porsche,911 Carrera 4 GTS,2023,911 CARRERA 4 GTS,23V715000,exact_name_candidate
+46109,Porsche,911 Carrera 4 GTS,2023,911 CARRERA 4 GTS,24V123000,exact_name_candidate
+46110,Porsche,911 Carrera 4 GTS,2023,911 CARRERA 4 GTS,23V715000,exact_name_candidate
+46110,Porsche,911 Carrera 4 GTS,2023,911 CARRERA 4 GTS,24V123000,exact_name_candidate
+46115,Porsche,911 Turbo,2023,911 TURBO,24V123000,exact_name_candidate
+46118,Porsche,911 Turbo S,2023,911 TURBO S,23V715000,exact_name_candidate
+46118,Porsche,911 Turbo S,2023,911 TURBO S,24V123000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,23V480000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,23V720000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,24V548000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,25V040000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,25V744000,exact_name_candidate
+46145,Toyota,Highlander Hybrid,2023,HIGHLANDER HYBRID,26V128000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,23V480000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,23V720000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,24V419000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,24V452000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,24V548000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,25V040000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,25V595000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,25V744000,exact_name_candidate
+46146,Toyota,Highlander,2023,HIGHLANDER,26V128000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,23V480000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,23V720000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,24V419000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,24V452000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,24V548000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,25V040000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,25V595000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,25V744000,exact_name_candidate
+46147,Toyota,Highlander,2023,HIGHLANDER,26V128000,exact_name_candidate
+46218,Toyota,GR Corolla,2023,GR COROLLA,24V548000,exact_name_candidate
+46218,Toyota,GR Corolla,2023,GR COROLLA,25V595000,exact_name_candidate
+46230,Lexus,RX 350,2023,RX350,23V480000,exact_name_candidate
+46293,Toyota,Corolla Cross,2023,COROLLA CROSS,23V384000,exact_name_candidate
+46293,Toyota,Corolla Cross,2023,COROLLA CROSS,23V480000,exact_name_candidate
+46293,Toyota,Corolla Cross,2023,COROLLA CROSS,23V864000,exact_name_candidate
+46293,Toyota,Corolla Cross,2023,COROLLA CROSS,25V040000,exact_name_candidate
+46359,Toyota,Prius,2023,PRIUS,24V274000,exact_name_candidate
+46359,Toyota,Prius,2023,PRIUS,24V548000,exact_name_candidate
+46359,Toyota,Prius,2023,PRIUS,25V744000,exact_name_candidate
+46359,Toyota,Prius,2023,PRIUS,26V049000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,23V588000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,24V763000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,24V859000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,25V785000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,26V054000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,26V366000,exact_name_candidate
+46364,Honda,Accord Hybrid,2023,ACCORD HYBRID,26V663000,exact_name_candidate
+46438,Audi,Q3,2023,Q3,24V251000,exact_name_candidate
+46457,Porsche,911 GT3 RS,2023,911 GT3 RS,23V715000,exact_name_candidate
+46553,Porsche,911 Carrera T,2023,911 CARRERA T,24V123000,exact_name_candidate
+46554,Porsche,911 Carrera T,2023,911 CARRERA T,24V123000,exact_name_candidate
+46741,Toyota,Grand Highlander Hybrid,2024,GRAND HIGHLANDER HYBRID,24V461000,exact_name_candidate
+46741,Toyota,Grand Highlander Hybrid,2024,GRAND HIGHLANDER HYBRID,24V548000,exact_name_candidate
+46741,Toyota,Grand Highlander Hybrid,2024,GRAND HIGHLANDER HYBRID,25V744000,exact_name_candidate
+46860,Honda,Odyssey,2024,ODYSSEY,24V114000,exact_name_candidate
+46860,Honda,Odyssey,2024,ODYSSEY,25V877000,exact_name_candidate
+46860,Honda,Odyssey,2024,ODYSSEY,26V332000,exact_name_candidate
+46904,Porsche,Cayenne,2024,CAYENNE,23V527000,exact_name_candidate
+46904,Porsche,Cayenne,2024,CAYENNE,24V533000,exact_name_candidate
+46904,Porsche,Cayenne,2024,CAYENNE,25V634000,exact_name_candidate
+46904,Porsche,Cayenne,2024,CAYENNE,25V896000,exact_name_candidate
+47085,Toyota,Camry,2024,CAMRY,24V128000,exact_name_candidate
+47104,Honda,Accord Hybrid,2024,ACCORD HYBRID,24V763000,exact_name_candidate
+47104,Honda,Accord Hybrid,2024,ACCORD HYBRID,24V859000,exact_name_candidate
+47104,Honda,Accord Hybrid,2024,ACCORD HYBRID,25V785000,exact_name_candidate
+47104,Honda,Accord Hybrid,2024,ACCORD HYBRID,26V366000,exact_name_candidate
+47104,Honda,Accord Hybrid,2024,ACCORD HYBRID,26V663000,exact_name_candidate
+47107,Audi,RS 6 Avant,2024,RS 6 AVANT,25V900000,exact_name_candidate
+47175,Audi,SQ7,2024,SQ7,23V868000,exact_name_candidate
+47175,Audi,SQ7,2024,SQ7,25V900000,exact_name_candidate
+47178,Audi,SQ8,2024,SQ8,23V868000,exact_name_candidate
+47178,Audi,SQ8,2024,SQ8,25V900000,exact_name_candidate
+47234,Toyota,GR Corolla,2024,GR COROLLA,24V548000,exact_name_candidate
+47234,Toyota,GR Corolla,2024,GR COROLLA,25V595000,exact_name_candidate
+47243,Toyota,Prius,2024,PRIUS,24V274000,exact_name_candidate
+47243,Toyota,Prius,2024,PRIUS,24V548000,exact_name_candidate
+47243,Toyota,Prius,2024,PRIUS,25V744000,exact_name_candidate
+47243,Toyota,Prius,2024,PRIUS,26V049000,exact_name_candidate
+47256,Mercedes-Benz,GLC300,2024,GLC300,23V741000,exact_name_candidate
+47306,Porsche,911 Carrera GTS,2024,911 CARRERA GTS,23V715000,exact_name_candidate
+47306,Porsche,911 Carrera GTS,2024,911 CARRERA GTS,26V682000,exact_name_candidate
+47307,Porsche,911 Carrera GTS,2024,911 CARRERA GTS,23V715000,exact_name_candidate
+47307,Porsche,911 Carrera GTS,2024,911 CARRERA GTS,26V682000,exact_name_candidate
+47343,Toyota,Corolla,2024,COROLLA,24V548000,exact_name_candidate
+47343,Toyota,Corolla,2024,COROLLA,24V878000,exact_name_candidate
+47344,Toyota,Corolla,2024,COROLLA,24V548000,exact_name_candidate
+47344,Toyota,Corolla,2024,COROLLA,24V878000,exact_name_candidate
+47374,Toyota,RAV4,2024,RAV4,24V911000,exact_name_candidate
+47374,Toyota,RAV4,2024,RAV4,25V595000,exact_name_candidate
+47374,Toyota,RAV4,2024,RAV4,25V744000,exact_name_candidate
+47386,Mercedes-Benz,GLB250 4matic,2024,GLB 250 4MATIC,26V481000,exact_name_candidate
+47509,Porsche,911 Dakar,2023,911 DAKAR,23V715000,exact_name_candidate
+47516,Mercedes-Benz,GLC300,2023,GLC300,23V629000,exact_name_candidate
+47516,Mercedes-Benz,GLC300,2023,GLC300,23V878000,exact_name_candidate
+47556,Toyota,GR 86,2024,GR86,24V548000,exact_name_candidate
+47557,Toyota,GR 86,2024,GR86,24V548000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,24V419000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,24V452000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,24V548000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,25V595000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,25V744000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,25V872000,exact_name_candidate
+47637,Toyota,Highlander,2024,HIGHLANDER,26V128000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,24V419000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,24V452000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,24V548000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,25V595000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,25V744000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,25V872000,exact_name_candidate
+47638,Toyota,Highlander,2024,HIGHLANDER,26V128000,exact_name_candidate
+47804,Audi,Q7,2025,Q7,25V777000,exact_name_candidate
+47804,Audi,Q7,2025,Q7,25V900000,exact_name_candidate
+47805,Audi,Q7,2025,Q7,25V777000,exact_name_candidate
+47805,Audi,Q7,2025,Q7,25V900000,exact_name_candidate
+47806,Audi,SQ7,2025,SQ7,25V637000,exact_name_candidate
+47806,Audi,SQ7,2025,SQ7,25V900000,exact_name_candidate
+47947,Mercedes-Benz,GLA250,2025,GLA 250,26V481000,exact_name_candidate
+47948,Mercedes-Benz,GLB250,2025,GLB 250,24V780000,exact_name_candidate
+47948,Mercedes-Benz,GLB250,2025,GLB 250,26V481000,exact_name_candidate
+47964,Mercedes-Benz,GLB250 4matic,2025,GLB 250 4MATIC,26V481000,exact_name_candidate
+47992,Mercedes-Benz,C300,2025,C 300,25V253000,exact_name_candidate
+47992,Mercedes-Benz,C300,2025,C 300,26V281000,exact_name_candidate
+48072,Audi,SQ5,2025,SQ5,26V266000,exact_name_candidate
+48106,Mercedes-Benz,GLE350 4matic,2025,GLE 350 4MATIC,25V864000,exact_name_candidate
+48140,Mercedes-Benz,GLE450 4matic,2025,GLE 450 4MATIC,25V325000,exact_name_candidate
+48142,Mercedes-Benz,GLS450 4matic,2025,GLS 450 4MATIC,25V325000,exact_name_candidate
+48185,Mercedes-Benz,E450 4matic,2025,E 450 4MATIC,24V941000,exact_name_candidate
+48185,Mercedes-Benz,E450 4matic,2025,E 450 4MATIC,26V281000,exact_name_candidate
+48197,Mercedes-Benz,AMG GLC43 4matic Coupe,2025,AMG GLC43 4MATIC COUPE,25V533000,exact_name_candidate
+48197,Mercedes-Benz,AMG GLC43 4matic Coupe,2025,AMG GLC43 4MATIC COUPE,26V281000,exact_name_candidate
+48254,Honda,Odyssey,2025,ODYSSEY,25V877000,exact_name_candidate
+48254,Honda,Odyssey,2025,ODYSSEY,26V332000,exact_name_candidate
+48260,Audi,Q3,2025,Q3,25V082000,exact_name_candidate
+48275,Mercedes-Benz,GLC300 4matic,2025,GLC 300 4MATIC,25V379000,exact_name_candidate
+48275,Mercedes-Benz,GLC300 4matic,2025,GLC 300 4MATIC,25V533000,exact_name_candidate
+48275,Mercedes-Benz,GLC300 4matic,2025,GLC 300 4MATIC,26V281000,exact_name_candidate
+48457,Porsche,Panamera,2024,PANAMERA,25V634000,exact_name_candidate
+48457,Porsche,Panamera,2024,PANAMERA,25V896000,exact_name_candidate
+48498,Mercedes-Benz,E350,2025,E 350,24V941000,exact_name_candidate
+48498,Mercedes-Benz,E350,2025,E 350,26V281000,exact_name_candidate
+48499,Mercedes-Benz,E350 4matic,2025,E 350 4MATIC,24V941000,exact_name_candidate
+48499,Mercedes-Benz,E350 4matic,2025,E 350 4MATIC,26V281000,exact_name_candidate
+48505,Honda,Accord Hybrid,2025,ACCORD HYBRID,25V785000,exact_name_candidate
+48505,Honda,Accord Hybrid,2025,ACCORD HYBRID,26V366000,exact_name_candidate
+48505,Honda,Accord Hybrid,2025,ACCORD HYBRID,26V663000,exact_name_candidate
+48570,Mercedes-Benz,AMG G63,2025,AMG G63,25V254000,exact_name_candidate
+48570,Mercedes-Benz,AMG G63,2025,AMG G63,25V711000,exact_name_candidate
+48595,Toyota,GR Corolla,2025,GR COROLLA,25V595000,exact_name_candidate
+48596,Toyota,GR Corolla,2025,GR COROLLA,25V595000,exact_name_candidate
+48600,Mercedes-Benz,S580 4matic,2025,S 580 4MATIC,26V638000,exact_name_candidate
+48861,Toyota,Prius,2025,PRIUS,25V744000,exact_name_candidate
+48861,Toyota,Prius,2025,PRIUS,26V049000,exact_name_candidate
+48910,Toyota,RAV4,2025,RAV4,25V595000,exact_name_candidate
+48910,Toyota,RAV4,2025,RAV4,25V744000,exact_name_candidate
+48910,Toyota,RAV4,2025,RAV4,26V256000,exact_name_candidate
+48912,Toyota,Highlander,2025,HIGHLANDER,25V595000,exact_name_candidate
+48912,Toyota,Highlander,2025,HIGHLANDER,25V744000,exact_name_candidate
+48912,Toyota,Highlander,2025,HIGHLANDER,25V872000,exact_name_candidate
+48912,Toyota,Highlander,2025,HIGHLANDER,26V128000,exact_name_candidate
+48913,Toyota,Highlander,2025,HIGHLANDER,25V595000,exact_name_candidate
+48913,Toyota,Highlander,2025,HIGHLANDER,25V744000,exact_name_candidate
+48913,Toyota,Highlander,2025,HIGHLANDER,25V872000,exact_name_candidate
+48913,Toyota,Highlander,2025,HIGHLANDER,26V128000,exact_name_candidate
+49049,Audi,SQ5,2025,SQ5,26V266000,exact_name_candidate
+49145,Mercedes-Benz,GLC300,2025,GLC 300,25V379000,exact_name_candidate
+49145,Mercedes-Benz,GLC300,2025,GLC 300,25V533000,exact_name_candidate
+49145,Mercedes-Benz,GLC300,2025,GLC 300,26V281000,exact_name_candidate
