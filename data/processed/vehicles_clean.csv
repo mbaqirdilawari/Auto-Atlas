@@ -1,0 +1,2391 @@
+vehicle_id,make,model,year,combined_mpg,city_mpg,highway_mpg,fuel_type
+42114,Audi,A3,2020,30.0,27.0,36.0,Regular Gasoline
+44274,Audi,A3,2022,32.0,29.0,38.0,Regular Gasoline
+45401,Audi,A3,2023,32.0,28.0,38.0,Regular Gasoline
+47038,Audi,A3,2024,32.0,29.0,37.0,Regular Gasoline
+41985,Audi,A3 Cabriolet quattro,2020,25.0,22.0,30.0,Regular Gasoline
+41984,Audi,A3 quattro,2020,25.0,22.0,30.0,Regular Gasoline
+44228,Audi,A3 quattro,2022,31.0,28.0,36.0,Regular Gasoline
+45402,Audi,A3 quattro,2023,30.0,27.0,35.0,Regular Gasoline
+47039,Audi,A3 quattro,2024,30.0,27.0,34.0,Regular Gasoline
+47969,Audi,A3 quattro,2025,28.0,24.0,34.0,Premium Gasoline
+42220,Audi,A4,2020,30.0,27.0,35.0,Premium Gasoline
+43239,Audi,A4 S line quattro,2021,27.0,24.0,31.0,Premium Gasoline
+44113,Audi,A4 S line quattro,2022,27.0,24.0,31.0,Premium Gasoline
+47049,Audi,A4 S line quattro,2024,27.0,24.0,32.0,Premium Gasoline
+47974,Audi,A4 S line quattro,2025,26.0,23.0,32.0,Premium Gasoline
+45650,Audi,A4 S-Line quattro,2023,27.0,24.0,32.0,Premium Gasoline
+42364,Audi,A4 allroad quattro,2020,26.0,23.0,31.0,Premium Gasoline
+43261,Audi,A4 allroad quattro,2021,26.0,24.0,30.0,Premium Gasoline
+44139,Audi,A4 allroad quattro,2022,26.0,24.0,30.0,Premium Gasoline
+45672,Audi,A4 allroad quattro,2023,26.0,23.0,30.0,Premium Gasoline
+47105,Audi,A4 allroad quattro,2024,26.0,23.0,30.0,Premium Gasoline
+48048,Audi,A4 allroad quattro,2025,26.0,23.0,30.0,Premium Gasoline
+42360,Audi,A4 quattro,2020,27.0,24.0,32.0,Premium Gasoline
+43342,Audi,A4 quattro,2021,28.0,25.0,34.0,Premium Gasoline
+44112,Audi,A4 quattro,2022,29.0,26.0,34.0,Premium Gasoline
+45651,Audi,A4 quattro,2023,28.0,24.0,33.0,Premium Gasoline
+46652,Audi,A4 quattro,2024,30.0,26.0,35.0,Premium Gasoline
+47975,Audi,A4 quattro,2025,29.0,26.0,36.0,Premium Gasoline
+42359,Audi,A5 Cabriolet quattro,2020,26.0,23.0,31.0,Premium Gasoline
+43229,Audi,A5 Cabriolet quattro,2021,26.0,23.0,31.0,Premium Gasoline
+44104,Audi,A5 Cabriolet quattro,2022,26.0,23.0,31.0,Premium Gasoline
+45648,Audi,A5 Cabriolet quattro,2023,26.0,24.0,31.0,Premium Gasoline
+47037,Audi,A5 Cabriolet quattro,2024,27.0,24.0,33.0,Premium Gasoline
+44103,Audi,A5 Coupe quattro,2022,27.0,24.0,31.0,Premium Gasoline
+45647,Audi,A5 Coupe quattro,2023,27.0,24.0,32.0,Premium Gasoline
+47036,Audi,A5 Coupe quattro,2024,27.0,24.0,32.0,Premium Gasoline
+43252,Audi,A5 Sportback S line quattro,2021,27.0,24.0,31.0,Premium Gasoline
+44120,Audi,A5 Sportback S line quattro,2022,27.0,24.0,31.0,Premium Gasoline
+47058,Audi,A5 Sportback S line quattro,2024,27.0,24.0,32.0,Premium Gasoline
+48008,Audi,A5 Sportback S line quattro,2025,26.0,23.0,32.0,Premium Gasoline
+45658,Audi,A5 Sportback S-Line quattro,2023,27.0,24.0,32.0,Premium Gasoline
+42363,Audi,A5 Sportback quattro,2020,27.0,24.0,32.0,Premium Gasoline
+43354,Audi,A5 Sportback quattro,2021,28.0,25.0,34.0,Premium Gasoline
+44118,Audi,A5 Sportback quattro,2022,29.0,26.0,34.0,Premium Gasoline
+45659,Audi,A5 Sportback quattro,2023,28.0,24.0,33.0,Premium Gasoline
+46663,Audi,A5 Sportback quattro,2024,30.0,26.0,35.0,Premium Gasoline
+48010,Audi,A5 Sportback quattro,2025,29.0,26.0,36.0,Premium Gasoline
+42358,Audi,A5 quattro,2020,27.0,24.0,32.0,Premium Gasoline
+43228,Audi,A5 quattro,2021,27.0,24.0,31.0,Premium Gasoline
+49040,Audi,A5 quattro,2025,26.0,22.0,31.0,Premium Gasoline
+42296,Audi,A6 Allroad,2020,22.0,20.0,26.0,Premium Gasoline
+42791,Audi,A6 Allroad,2021,22.0,20.0,26.0,Premium Gasoline
+45675,Audi,A6 Allroad,2023,24.0,21.0,30.0,Premium Gasoline
+44194,Audi,A6 Allroad quattro,2022,23.0,21.0,28.0,Premium Gasoline
+47106,Audi,A6 Allroad quattro,2024,25.0,22.0,30.0,Premium Gasoline
+48052,Audi,A6 Allroad quattro,2025,25.0,22.0,30.0,Premium Gasoline
+42294,Audi,A6 quattro,2020,24.0,22.0,29.0,Premium Gasoline
+42001,Audi,A6 quattro,2020,27.0,24.0,32.0,Premium Gasoline
+43175,Audi,A6 quattro,2021,26.0,23.0,31.0,Premium Gasoline
+42774,Audi,A6 quattro,2021,24.0,22.0,29.0,Premium Gasoline
+44119,Audi,A6 quattro,2022,26.0,23.0,32.0,Premium Gasoline
+44124,Audi,A6 quattro,2022,24.0,21.0,30.0,Premium Gasoline
+45657,Audi,A6 quattro,2023,24.0,21.0,30.0,Premium Gasoline
+45655,Audi,A6 quattro,2023,27.0,24.0,31.0,Premium Gasoline
+47062,Audi,A6 quattro,2024,25.0,22.0,30.0,Premium Gasoline
+47059,Audi,A6 quattro,2024,26.0,23.0,33.0,Premium Gasoline
+48009,Audi,A6 quattro,2025,26.0,24.0,31.0,Premium Gasoline
+48012,Audi,A6 quattro,2025,25.0,22.0,30.0,Premium Gasoline
+45656,Audi,A7,2023,24.0,21.0,30.0,Premium Gasoline
+42295,Audi,A7 quattro,2020,24.0,22.0,29.0,Premium Gasoline
+42775,Audi,A7 quattro,2021,24.0,22.0,29.0,Premium Gasoline
+44125,Audi,A7 quattro,2022,24.0,21.0,30.0,Premium Gasoline
+47061,Audi,A7 quattro,2024,25.0,22.0,30.0,Premium Gasoline
+48011,Audi,A7 quattro,2025,25.0,22.0,30.0,Premium Gasoline
+42241,Audi,A8 L,2020,18.0,15.0,23.0,Premium Gasoline
+42306,Audi,A8 L,2020,21.0,17.0,26.0,Premium Gasoline
+43003,Audi,A8 L,2021,18.0,15.0,23.0,Premium Gasoline
+42786,Audi,A8 L,2021,21.0,17.0,26.0,Premium Gasoline
+45613,Audi,A8 L,2023,22.0,19.0,28.0,Premium Gasoline
+44564,Audi,A8 L quattro,2022,22.0,19.0,28.0,Premium Gasoline
+47094,Audi,A8 quattro,2024,22.0,19.0,28.0,Premium Gasoline
+48036,Audi,A8 quattro,2025,22.0,20.0,26.0,Premium Gasoline
+46438,Audi,Q3,2023,25.0,22.0,29.0,Regular Gasoline
+48260,Audi,Q3,2025,25.0,22.0,29.0,Premium Gasoline
+44147,Audi,Q3 S line quattro,2022,24.0,21.0,28.0,Regular Gasoline
+47143,Audi,Q3 S line quattro,2024,23.0,20.0,28.0,Regular Gasoline
+45543,Audi,Q3 S-Line,2023,24.0,21.0,28.0,Regular Gasoline
+48528,Audi,Q3 S-Line quattro,2025,23.0,20.0,28.0,Premium Gasoline
+43020,Audi,Q3 S-line quattro,2021,23.0,20.0,28.0,Regular Gasoline
+42041,Audi,Q3 quattro,2020,22.0,19.0,27.0,Regular Gasoline
+43277,Audi,Q3 quattro,2021,25.0,22.0,30.0,Regular Gasoline
+44148,Audi,Q3 quattro,2022,26.0,23.0,30.0,Regular Gasoline
+47146,Audi,Q3 quattro,2024,25.0,22.0,29.0,Regular Gasoline
+42102,Audi,Q5,2020,24.0,22.0,28.0,Premium Gasoline
+43276,Audi,Q5,2021,25.0,23.0,28.0,Premium Gasoline
+44143,Audi,Q5 S line quattro,2022,25.0,23.0,28.0,Premium Gasoline
+47144,Audi,Q5 S line quattro,2024,24.0,22.0,28.0,Premium Gasoline
+48074,Audi,Q5 S line quattro,2025,25.0,23.0,28.0,Premium Gasoline
+45684,Audi,Q5 S-Line quattro,2023,25.0,22.0,29.0,Premium Gasoline
+43647,Audi,Q5 Sportback,2021,25.0,23.0,28.0,Premium Gasoline
+44144,Audi,Q5 Sportback S line quattro,2022,25.0,23.0,28.0,Premium Gasoline
+47145,Audi,Q5 Sportback S line quattro,2024,24.0,22.0,28.0,Premium Gasoline
+48075,Audi,Q5 Sportback S line quattro,2025,25.0,23.0,28.0,Premium Gasoline
+45685,Audi,Q5 Sportback S-line quattro,2023,25.0,22.0,29.0,Premium Gasoline
+49052,Audi,Q5 Sportback TFSI quattro,2025,25.0,22.0,30.0,Premium Gasoline
+49051,Audi,Q5 TFSI quattro,2025,25.0,22.0,30.0,Premium Gasoline
+44945,Audi,Q5 quattro,2022,25.0,23.0,29.0,Premium Gasoline
+45683,Audi,Q5 quattro,2023,25.0,23.0,29.0,Premium Gasoline
+46701,Audi,Q5 quattro,2024,26.0,23.0,29.0,Premium Gasoline
+48076,Audi,Q5 quattro,2025,26.0,23.0,29.0,Premium Gasoline
+42571,Audi,Q7,2020,21.0,19.0,23.0,Premium Gasoline
+42310,Audi,Q7,2020,18.0,17.0,21.0,Premium Gasoline
+43026,Audi,Q7,2021,20.0,18.0,23.0,Premium Gasoline
+43024,Audi,Q7,2021,21.0,19.0,23.0,Premium Gasoline
+45706,Audi,Q7,2023,21.0,19.0,25.0,Premium Gasoline
+45629,Audi,Q7,2023,20.0,18.0,22.0,Premium Gasoline
+47804,Audi,Q7,2025,22.0,20.0,26.0,Premium Gasoline
+47805,Audi,Q7,2025,20.0,18.0,23.0,Premium Gasoline
+44154,Audi,Q7 quattro,2022,20.0,18.0,23.0,Premium Gasoline
+44208,Audi,Q7 quattro,2022,22.0,20.0,25.0,Premium Gasoline
+47174,Audi,Q7 quattro,2024,21.0,19.0,24.0,Premium Gasoline
+47177,Audi,Q7 quattro,2024,21.0,19.0,25.0,Premium Gasoline
+42311,Audi,Q8,2020,18.0,17.0,21.0,Premium Gasoline
+43027,Audi,Q8,2021,20.0,18.0,23.0,Premium Gasoline
+45630,Audi,Q8,2023,20.0,18.0,23.0,Premium Gasoline
+44155,Audi,Q8 quattro,2022,20.0,18.0,23.0,Premium Gasoline
+47414,Audi,Q8 quattro,2024,19.0,17.0,23.0,Premium Gasoline
+48286,Audi,Q8 quattro,2025,19.0,17.0,23.0,Premium Gasoline
+42757,Audi,R8,2021,16.0,13.0,20.0,Premium Gasoline
+43323,Audi,R8 2WD,2021,17.0,14.0,23.0,Premium Gasoline
+41395,Audi,R8 AWD,2020,16.0,13.0,20.0,Premium Gasoline
+44093,Audi,R8 Coupe,2022,15.0,13.0,19.0,Premium Gasoline
+44095,Audi,R8 Coupe RWD,2022,17.0,14.0,23.0,Premium Gasoline
+45645,Audi,R8 Coupe RWD,2023,17.0,14.0,23.0,Premium Gasoline
+45643,Audi,R8 Coupe quattro,2023,15.0,13.0,18.0,Premium Gasoline
+46038,Audi,R8 GT RWD,2023,17.0,14.0,21.0,Premium Gasoline
+42758,Audi,R8 Spyder,2021,16.0,13.0,20.0,Premium Gasoline
+44094,Audi,R8 Spyder,2022,15.0,13.0,19.0,Premium Gasoline
+43324,Audi,R8 Spyder 2WD,2021,17.0,14.0,23.0,Premium Gasoline
+41595,Audi,R8 Spyder AWD,2020,16.0,13.0,20.0,Premium Gasoline
+44096,Audi,R8 Spyder RWD,2022,17.0,14.0,23.0,Premium Gasoline
+45646,Audi,R8 Spyder RWD,2023,17.0,14.0,23.0,Premium Gasoline
+45644,Audi,R8 Spyder quattro,2023,15.0,13.0,18.0,Premium Gasoline
+45254,Audi,RS 3,2022,23.0,20.0,29.0,Premium Gasoline
+46638,Audi,RS 3,2024,23.0,19.0,29.0,Premium Gasoline
+49136,Audi,RS 3,2025,23.0,20.0,29.0,Premium Gasoline
+42772,Audi,RS 5,2021,20.0,18.0,25.0,Premium Gasoline
+44105,Audi,RS 5 Coupe,2022,21.0,18.0,25.0,Premium Gasoline
+45472,Audi,RS 5 Coupe,2023,21.0,18.0,26.0,Premium Gasoline
+46640,Audi,RS 5 Coupe,2024,21.0,18.0,25.0,Premium Gasoline
+42776,Audi,RS 5 Sportback,2021,21.0,18.0,25.0,Premium Gasoline
+44122,Audi,RS 5 Sportback,2022,21.0,18.0,25.0,Premium Gasoline
+45517,Audi,RS 5 Sportback,2023,21.0,18.0,25.0,Premium Gasoline
+46664,Audi,RS 5 Sportback,2024,20.0,18.0,25.0,Premium Gasoline
+48006,Audi,RS 5 Sportback,2025,20.0,18.0,25.0,Premium Gasoline
+43005,Audi,RS 6 Avant,2021,17.0,15.0,22.0,Premium Gasoline
+44140,Audi,RS 6 Avant,2022,17.0,15.0,22.0,Premium Gasoline
+45614,Audi,RS 6 Avant,2023,17.0,14.0,21.0,Premium Gasoline
+47107,Audi,RS 6 Avant,2024,17.0,14.0,22.0,Premium Gasoline
+48051,Audi,RS 6 Avant,2025,17.0,14.0,21.0,Premium Gasoline
+43000,Audi,RS 7,2021,17.0,15.0,22.0,Premium Gasoline
+44121,Audi,RS 7,2022,17.0,15.0,22.0,Premium Gasoline
+45607,Audi,RS 7,2023,17.0,14.0,21.0,Premium Gasoline
+47063,Audi,RS 7,2024,17.0,14.0,22.0,Premium Gasoline
+48007,Audi,RS 7,2025,17.0,14.0,21.0,Premium Gasoline
+42505,Audi,RS Q8,2020,15.0,13.0,19.0,Premium Gasoline
+43025,Audi,RS Q8,2021,15.0,13.0,19.0,Premium Gasoline
+44153,Audi,RS Q8,2022,15.0,13.0,19.0,Premium Gasoline
+45705,Audi,RS Q8,2023,16.0,13.0,20.0,Premium Gasoline
+47176,Audi,RS Q8,2024,15.0,13.0,19.0,Premium Gasoline
+48115,Audi,RS Q8 Performance,2025,16.0,14.0,20.0,Premium Gasoline
+42302,Audi,RS3,2020,23.0,19.0,28.0,Premium Gasoline
+47510,Audi,RS3,2023,23.0,20.0,29.0,Premium Gasoline
+41987,Audi,S3,2020,25.0,22.0,29.0,Premium Gasoline
+44229,Audi,S3,2022,27.0,23.0,32.0,Premium Gasoline
+45428,Audi,S3,2023,26.0,23.0,32.0,Premium Gasoline
+46639,Audi,S3,2024,26.0,23.0,32.0,Premium Gasoline
+48150,Audi,S3,2025,26.0,23.0,31.0,Premium Gasoline
+42221,Audi,S4,2020,23.0,20.0,27.0,Premium Gasoline
+42997,Audi,S4,2021,23.0,20.0,28.0,Premium Gasoline
+44114,Audi,S4,2022,24.0,21.0,30.0,Premium Gasoline
+45490,Audi,S4,2023,24.0,21.0,30.0,Premium Gasoline
+47050,Audi,S4,2024,24.0,21.0,29.0,Premium Gasoline
+47973,Audi,S4,2025,24.0,20.0,29.0,Premium Gasoline
+42212,Audi,S5,2020,23.0,20.0,27.0,Premium Gasoline
+42993,Audi,S5,2021,23.0,20.0,28.0,Premium Gasoline
+49041,Audi,S5,2025,22.0,19.0,28.0,Premium Gasoline
+42213,Audi,S5 Cabriolet,2020,22.0,19.0,26.0,Premium Gasoline
+42994,Audi,S5 Cabriolet,2021,22.0,20.0,26.0,Premium Gasoline
+44108,Audi,S5 Cabriolet,2022,23.0,21.0,28.0,Premium Gasoline
+45471,Audi,S5 Cabriolet,2023,23.0,21.0,28.0,Premium Gasoline
+47041,Audi,S5 Cabriolet,2024,22.0,20.0,27.0,Premium Gasoline
+44107,Audi,S5 Coupe,2022,24.0,21.0,30.0,Premium Gasoline
+45470,Audi,S5 Coupe,2023,24.0,21.0,30.0,Premium Gasoline
+47040,Audi,S5 Coupe,2024,24.0,21.0,29.0,Premium Gasoline
+42232,Audi,S5 Sportback,2020,23.0,20.0,27.0,Premium Gasoline
+42999,Audi,S5 Sportback,2021,23.0,20.0,28.0,Premium Gasoline
+44123,Audi,S5 Sportback,2022,24.0,21.0,30.0,Premium Gasoline
+45516,Audi,S5 Sportback,2023,24.0,21.0,30.0,Premium Gasoline
+47060,Audi,S5 Sportback,2024,23.0,20.0,29.0,Premium Gasoline
+48005,Audi,S5 Sportback,2025,23.0,20.0,29.0,Premium Gasoline
+42233,Audi,S6,2020,22.0,18.0,28.0,Premium Gasoline
+42615,Audi,S6,2021,22.0,18.0,28.0,Premium Gasoline
+44188,Audi,S6,2022,22.0,18.0,28.0,Premium Gasoline
+45660,Audi,S6,2023,22.0,19.0,26.0,Premium Gasoline
+47064,Audi,S6,2024,22.0,19.0,26.0,Premium Gasoline
+48173,Audi,S6,2025,22.0,19.0,27.0,Premium Gasoline
+42234,Audi,S7,2020,22.0,18.0,28.0,Premium Gasoline
+42614,Audi,S7,2021,22.0,18.0,28.0,Premium Gasoline
+44189,Audi,S7,2022,22.0,18.0,28.0,Premium Gasoline
+45661,Audi,S7,2023,22.0,19.0,26.0,Premium Gasoline
+47065,Audi,S7,2024,22.0,19.0,26.0,Premium Gasoline
+48174,Audi,S7,2025,22.0,19.0,27.0,Premium Gasoline
+42235,Audi,S8,2020,16.0,13.0,22.0,Premium Gasoline
+43004,Audi,S8,2021,16.0,13.0,22.0,Premium Gasoline
+44759,Audi,S8,2022,17.0,14.0,23.0,Premium Gasoline
+45863,Audi,S8,2023,18.0,15.0,23.0,Premium Gasoline
+47095,Audi,S8,2024,18.0,15.0,24.0,Premium Gasoline
+48037,Audi,S8,2025,18.0,15.0,24.0,Premium Gasoline
+42255,Audi,SQ5,2020,20.0,18.0,23.0,Premium Gasoline
+42665,Audi,SQ5,2021,20.0,18.0,24.0,Premium Gasoline
+44145,Audi,SQ5,2022,21.0,19.0,24.0,Premium Gasoline
+45541,Audi,SQ5,2023,21.0,19.0,24.0,Premium Gasoline
+46702,Audi,SQ5,2024,21.0,19.0,24.0,Premium Gasoline
+48072,Audi,SQ5,2025,21.0,19.0,24.0,Premium Gasoline
+49049,Audi,SQ5,2025,22.0,19.0,26.0,Premium Gasoline
+43648,Audi,SQ5 Sportback,2021,20.0,18.0,24.0,Premium Gasoline
+44146,Audi,SQ5 Sportback,2022,21.0,19.0,24.0,Premium Gasoline
+45542,Audi,SQ5 Sportback,2023,21.0,19.0,24.0,Premium Gasoline
+46703,Audi,SQ5 Sportback,2024,21.0,19.0,24.0,Premium Gasoline
+48073,Audi,SQ5 Sportback,2025,21.0,19.0,24.0,Premium Gasoline
+49050,Audi,SQ5 Sportback,2025,22.0,19.0,26.0,Premium Gasoline
+42558,Audi,SQ7,2020,17.0,15.0,21.0,Premium Gasoline
+43028,Audi,SQ7,2021,17.0,15.0,21.0,Premium Gasoline
+44151,Audi,SQ7,2022,17.0,15.0,21.0,Premium Gasoline
+45570,Audi,SQ7,2023,17.0,14.0,20.0,Premium Gasoline
+47175,Audi,SQ7,2024,17.0,15.0,21.0,Premium Gasoline
+47806,Audi,SQ7,2025,17.0,15.0,21.0,Premium Gasoline
+42559,Audi,SQ8,2020,17.0,15.0,21.0,Premium Gasoline
+43029,Audi,SQ8,2021,17.0,15.0,21.0,Premium Gasoline
+44152,Audi,SQ8,2022,17.0,15.0,21.0,Premium Gasoline
+45571,Audi,SQ8,2023,17.0,14.0,20.0,Premium Gasoline
+47178,Audi,SQ8,2024,17.0,15.0,21.0,Premium Gasoline
+48114,Audi,SQ8,2025,17.0,15.0,21.0,Premium Gasoline
+45473,Audi,TT Coupe,2023,25.0,23.0,30.0,Regular Gasoline
+41986,Audi,TT Coupe quattro,2020,26.0,23.0,31.0,Regular Gasoline
+43326,Audi,TT Coupe quattro,2021,26.0,23.0,31.0,Regular Gasoline
+44106,Audi,TT Coupe quattro,2022,26.0,23.0,30.0,Regular Gasoline
+42303,Audi,TT RS,2020,23.0,19.0,29.0,Premium Gasoline
+43327,Audi,TT RS,2021,24.0,20.0,30.0,Premium Gasoline
+44558,Audi,TT RS Coupe,2022,23.0,20.0,29.0,Premium Gasoline
+45463,Audi,TT Roadster,2023,25.0,23.0,30.0,Regular Gasoline
+41979,Audi,TT Roadster quattro,2020,26.0,23.0,31.0,Regular Gasoline
+43325,Audi,TT Roadster quattro,2021,26.0,23.0,31.0,Regular Gasoline
+44097,Audi,TT Roadster quattro,2022,26.0,23.0,30.0,Regular Gasoline
+41988,Audi,TTS Coupe,2020,25.0,23.0,29.0,Premium Gasoline
+43487,Audi,TTS Coupe,2021,25.0,23.0,29.0,Premium Gasoline
+45474,Audi,TTS Coupe,2023,26.0,23.0,31.0,Premium Gasoline
+44273,Audi,TTS Coupe quattro,2022,26.0,23.0,31.0,Premium Gasoline
+48841,BMW,228 xDrive Gran Coupe,2025,30.0,26.0,38.0,Premium Gasoline
+43561,BMW,228i Gran Coupe,2021,28.0,24.0,33.0,Premium Gasoline
+44180,BMW,228i Gran Coupe,2022,28.0,24.0,34.0,Premium Gasoline
+45492,BMW,228i Gran Coupe,2023,28.0,24.0,34.0,Premium Gasoline
+46654,BMW,228i Gran Coupe,2024,28.0,24.0,34.0,Premium Gasoline
+42461,BMW,228i xDrive Gran Coupe,2020,27.0,23.0,33.0,Premium Gasoline
+42818,BMW,228i xDrive Gran Coupe,2021,27.0,23.0,33.0,Premium Gasoline
+44179,BMW,228i xDrive Gran Coupe,2022,27.0,23.0,33.0,Premium Gasoline
+45491,BMW,228i xDrive Gran Coupe,2023,27.0,23.0,33.0,Premium Gasoline
+46653,BMW,228i xDrive Gran Coupe,2024,27.0,23.0,33.0,Premium Gasoline
+41312,BMW,230i Convertible,2020,27.0,23.0,34.0,Premium Gasoline
+42918,BMW,230i Convertible,2021,27.0,23.0,33.0,Premium Gasoline
+41310,BMW,230i Coupe,2020,25.0,21.0,32.0,Premium Gasoline
+41297,BMW,230i Coupe,2020,27.0,24.0,32.0,Premium Gasoline
+42874,BMW,230i Coupe,2021,25.0,21.0,32.0,Premium Gasoline
+42995,BMW,230i Coupe,2021,28.0,25.0,32.0,Premium Gasoline
+44275,BMW,230i Coupe,2022,29.0,26.0,35.0,Premium Gasoline
+45475,BMW,230i Coupe,2023,29.0,26.0,35.0,Premium Gasoline
+46641,BMW,230i Coupe,2024,30.0,26.0,35.0,Premium Gasoline
+48151,BMW,230i Coupe,2025,30.0,26.0,35.0,Premium Gasoline
+41313,BMW,230i xDrive Convertible,2020,24.0,21.0,31.0,Premium Gasoline
+43609,BMW,230i xDrive Convertible,2021,24.0,21.0,30.0,Premium Gasoline
+41311,BMW,230i xDrive Coupe,2020,24.0,21.0,31.0,Premium Gasoline
+42817,BMW,230i xDrive Coupe,2021,24.0,21.0,30.0,Premium Gasoline
+45476,BMW,230i xDrive Coupe,2023,28.0,24.0,34.0,Premium Gasoline
+46765,BMW,230i xDrive Coupe,2024,28.0,25.0,33.0,Premium Gasoline
+48152,BMW,230i xDrive Coupe,2025,28.0,25.0,33.0,Premium Gasoline
+41339,BMW,330i,2020,30.0,26.0,36.0,Premium Gasoline
+43038,BMW,330i,2021,30.0,26.0,36.0,Premium Gasoline
+44181,BMW,330i Sedan,2022,30.0,26.0,36.0,Premium Gasoline
+45765,BMW,330i Sedan,2023,29.0,25.0,34.0,Premium Gasoline
+46656,BMW,330i Sedan,2024,29.0,25.0,34.0,Premium Gasoline
+48163,BMW,330i Sedan,2025,31.0,28.0,35.0,Premium Gasoline
+41710,BMW,330i xDrive,2020,28.0,25.0,34.0,Premium Gasoline
+43039,BMW,330i xDrive,2021,28.0,25.0,34.0,Premium Gasoline
+44182,BMW,330i xDrive Sedan,2022,28.0,25.0,34.0,Premium Gasoline
+46130,BMW,330i xDrive Sedan,2023,27.0,24.0,33.0,Premium Gasoline
+46657,BMW,330i xDrive Sedan,2024,27.0,24.0,33.0,Premium Gasoline
+48164,BMW,330i xDrive Sedan,2025,29.0,26.0,34.0,Premium Gasoline
+41325,BMW,430i Convertible,2020,27.0,23.0,34.0,Premium Gasoline
+43814,BMW,430i Convertible,2021,27.0,24.0,33.0,Premium Gasoline
+44278,BMW,430i Convertible,2022,28.0,25.0,34.0,Premium Gasoline
+45602,BMW,430i Convertible,2023,28.0,25.0,34.0,Premium Gasoline
+46468,BMW,430i Convertible,2024,28.0,25.0,34.0,Premium Gasoline
+47767,BMW,430i Convertible,2025,30.0,27.0,35.0,Premium Gasoline
+41342,BMW,430i Coupe,2020,27.0,23.0,34.0,Premium Gasoline
+41343,BMW,430i Coupe,2020,25.0,21.0,33.0,Premium Gasoline
+43034,BMW,430i Coupe,2021,29.0,26.0,34.0,Premium Gasoline
+44277,BMW,430i Coupe,2022,28.0,25.0,34.0,Premium Gasoline
+45601,BMW,430i Coupe,2023,28.0,25.0,34.0,Premium Gasoline
+46466,BMW,430i Coupe,2024,28.0,25.0,34.0,Premium Gasoline
+47765,BMW,430i Coupe,2025,31.0,28.0,36.0,Premium Gasoline
+41345,BMW,430i Gran Coupe,2020,27.0,23.0,34.0,Premium Gasoline
+44287,BMW,430i Gran Coupe,2022,28.0,25.0,34.0,Premium Gasoline
+45604,BMW,430i Gran Coupe,2023,28.0,25.0,34.0,Premium Gasoline
+46492,BMW,430i Gran Coupe,2024,28.0,25.0,34.0,Premium Gasoline
+48167,BMW,430i Gran Coupe,2025,30.0,27.0,35.0,Premium Gasoline
+41326,BMW,430i xDrive Convertible,2020,26.0,22.0,32.0,Premium Gasoline
+44172,BMW,430i xDrive Convertible,2022,27.0,23.0,33.0,Premium Gasoline
+45480,BMW,430i xDrive Convertible,2023,27.0,23.0,33.0,Premium Gasoline
+46469,BMW,430i xDrive Convertible,2024,27.0,23.0,33.0,Premium Gasoline
+47768,BMW,430i xDrive Convertible,2025,28.0,24.0,33.0,Premium Gasoline
+41344,BMW,430i xDrive Coupe,2020,24.0,21.0,31.0,Premium Gasoline
+43035,BMW,430i xDrive Coupe,2021,27.0,24.0,33.0,Premium Gasoline
+44171,BMW,430i xDrive Coupe,2022,27.0,23.0,33.0,Premium Gasoline
+45479,BMW,430i xDrive Coupe,2023,27.0,23.0,33.0,Premium Gasoline
+46467,BMW,430i xDrive Coupe,2024,27.0,23.0,33.0,Premium Gasoline
+47766,BMW,430i xDrive Coupe,2025,30.0,27.0,34.0,Premium Gasoline
+41346,BMW,430i xDrive Gran Coupe,2020,24.0,21.0,31.0,Premium Gasoline
+45273,BMW,430i xDrive Gran Coupe,2023,27.0,23.0,33.0,Premium Gasoline
+46493,BMW,430i xDrive Gran Coupe,2024,27.0,23.0,33.0,Premium Gasoline
+48168,BMW,430i xDrive Gran Coupe,2025,29.0,25.0,34.0,Premium Gasoline
+41327,BMW,440i Convertible,2020,24.0,22.0,29.0,Premium Gasoline
+41348,BMW,440i Coupe,2020,22.0,19.0,27.0,Premium Gasoline
+41347,BMW,440i Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+41351,BMW,440i Gran Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+41328,BMW,440i xDrive Convertible,2020,23.0,20.0,28.0,Premium Gasoline
+41349,BMW,440i xDrive Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+41350,BMW,440i xDrive Coupe,2020,21.0,18.0,28.0,Premium Gasoline
+41352,BMW,440i xDrive Gran Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+41722,BMW,530i,2020,28.0,25.0,33.0,Premium Gasoline
+42890,BMW,530i,2021,28.0,25.0,33.0,Premium Gasoline
+44190,BMW,530i Sedan,2022,28.0,25.0,33.0,Premium Gasoline
+45518,BMW,530i Sedan,2023,28.0,25.0,33.0,Premium Gasoline
+47066,BMW,530i Sedan,2024,30.0,27.0,35.0,Premium Gasoline
+48175,BMW,530i Sedan,2025,31.0,28.0,35.0,Premium Gasoline
+41723,BMW,530i xDrive,2020,27.0,24.0,31.0,Premium Gasoline
+42934,BMW,530i xDrive,2021,27.0,23.0,32.0,Premium Gasoline
+44292,BMW,530i xDrive Sedan,2022,26.0,23.0,32.0,Premium Gasoline
+45519,BMW,530i xDrive Sedan,2023,26.0,23.0,32.0,Premium Gasoline
+47067,BMW,530i xDrive Sedan,2024,30.0,27.0,35.0,Premium Gasoline
+48176,BMW,530i xDrive Sedan,2025,30.0,27.0,35.0,Premium Gasoline
+42127,BMW,540i,2020,25.0,22.0,30.0,Premium Gasoline
+43001,BMW,540i,2021,27.0,25.0,32.0,Premium Gasoline
+44293,BMW,540i Sedan,2022,27.0,25.0,32.0,Premium Gasoline
+46133,BMW,540i Sedan,2023,27.0,25.0,32.0,Premium Gasoline
+41724,BMW,540i xDrive,2020,25.0,22.0,29.0,Premium Gasoline
+42935,BMW,540i xDrive,2021,26.0,23.0,31.0,Premium Gasoline
+44191,BMW,540i xDrive Sedan,2022,25.0,22.0,29.0,Premium Gasoline
+45520,BMW,540i xDrive Sedan,2023,25.0,22.0,29.0,Premium Gasoline
+47348,BMW,540i xDrive Sedan,2024,28.0,26.0,33.0,Premium Gasoline
+48177,BMW,540i xDrive Sedan,2025,28.0,26.0,33.0,Premium Gasoline
+41358,BMW,740i,2020,24.0,22.0,29.0,Premium Gasoline
+42787,BMW,740i,2021,25.0,22.0,29.0,Premium Gasoline
+43842,BMW,740i Sedan,2022,25.0,22.0,29.0,Premium Gasoline
+45663,BMW,740i Sedan,2023,27.0,25.0,31.0,Premium Gasoline
+46800,BMW,740i Sedan,2024,28.0,25.0,31.0,Premium Gasoline
+48190,BMW,740i Sedan,2025,28.0,25.0,31.0,Premium Gasoline
+41359,BMW,740i xDrive,2020,23.0,20.0,28.0,Premium Gasoline
+42748,BMW,740i xDrive,2021,23.0,20.0,27.0,Premium Gasoline
+43843,BMW,740i xDrive Sedan,2022,23.0,20.0,27.0,Premium Gasoline
+47096,BMW,740i xDrive Sedan,2024,27.0,24.0,31.0,Premium Gasoline
+48191,BMW,740i xDrive Sedan,2025,27.0,24.0,31.0,Premium Gasoline
+41360,BMW,750i xDrive,2020,20.0,17.0,25.0,Premium Gasoline
+42543,BMW,750i xDrive,2021,19.0,17.0,24.0,Premium Gasoline
+43808,BMW,750i xDrive Sedan,2022,19.0,17.0,24.0,Premium Gasoline
+45664,BMW,760i xDrive Sedan,2023,21.0,18.0,26.0,Premium Gasoline
+46801,BMW,760i xDrive Sedan,2024,20.0,18.0,25.0,Premium Gasoline
+48192,BMW,760i xDrive Sedan,2025,20.0,18.0,25.0,Premium Gasoline
+41699,BMW,840i Convertible,2020,24.0,22.0,29.0,Premium Gasoline
+42996,BMW,840i Convertible,2021,25.0,22.0,29.0,Premium Gasoline
+43826,BMW,840i Convertible,2022,25.0,22.0,29.0,Premium Gasoline
+45265,BMW,840i Convertible,2023,24.0,21.0,29.0,Premium Gasoline
+46476,BMW,840i Convertible,2024,24.0,21.0,29.0,Premium Gasoline
+47698,BMW,840i Convertible,2025,24.0,21.0,29.0,Premium Gasoline
+41697,BMW,840i Coupe,2020,25.0,23.0,30.0,Premium Gasoline
+42920,BMW,840i Coupe,2021,25.0,23.0,30.0,Premium Gasoline
+43824,BMW,840i Coupe,2022,25.0,23.0,30.0,Premium Gasoline
+45263,BMW,840i Coupe,2023,24.0,21.0,29.0,Premium Gasoline
+46474,BMW,840i Coupe,2024,24.0,21.0,29.0,Premium Gasoline
+47696,BMW,840i Coupe,2025,24.0,21.0,29.0,Premium Gasoline
+41726,BMW,840i Gran Coupe,2020,24.0,22.0,29.0,Premium Gasoline
+43002,BMW,840i Gran Coupe,2021,25.0,22.0,29.0,Premium Gasoline
+43834,BMW,840i Gran Coupe,2022,25.0,22.0,29.0,Premium Gasoline
+45276,BMW,840i Gran Coupe,2023,24.0,21.0,29.0,Premium Gasoline
+46494,BMW,840i Gran Coupe,2024,24.0,21.0,29.0,Premium Gasoline
+47712,BMW,840i Gran Coupe,2025,24.0,21.0,29.0,Premium Gasoline
+41700,BMW,840i xDrive Convertible,2020,23.0,20.0,27.0,Premium Gasoline
+42922,BMW,840i xDrive Convertible,2021,23.0,20.0,27.0,Premium Gasoline
+43827,BMW,840i xDrive Convertible,2022,23.0,20.0,27.0,Premium Gasoline
+45266,BMW,840i xDrive Convertible,2023,24.0,21.0,29.0,Premium Gasoline
+46477,BMW,840i xDrive Convertible,2024,24.0,21.0,29.0,Premium Gasoline
+47699,BMW,840i xDrive Convertible,2025,24.0,21.0,29.0,Premium Gasoline
+41698,BMW,840i xDrive Coupe,2020,23.0,21.0,27.0,Premium Gasoline
+42921,BMW,840i xDrive Coupe,2021,23.0,20.0,27.0,Premium Gasoline
+43825,BMW,840i xDrive Coupe,2022,23.0,20.0,27.0,Premium Gasoline
+45264,BMW,840i xDrive Coupe,2023,24.0,21.0,29.0,Premium Gasoline
+46475,BMW,840i xDrive Coupe,2024,24.0,21.0,29.0,Premium Gasoline
+47697,BMW,840i xDrive Coupe,2025,24.0,21.0,29.0,Premium Gasoline
+41727,BMW,840i xDrive Gran Coupe,2020,23.0,20.0,27.0,Premium Gasoline
+42938,BMW,840i xDrive Gran Coupe,2021,23.0,20.0,27.0,Premium Gasoline
+43835,BMW,840i xDrive Gran Coupe,2022,23.0,20.0,27.0,Premium Gasoline
+45277,BMW,840i xDrive Gran Coupe,2023,24.0,21.0,29.0,Premium Gasoline
+46495,BMW,840i xDrive Gran Coupe,2024,24.0,21.0,29.0,Premium Gasoline
+47713,BMW,840i xDrive Gran Coupe,2025,24.0,21.0,29.0,Premium Gasoline
+41743,BMW,Alpina B7,2020,20.0,17.0,25.0,Premium Gasoline
+42544,BMW,Alpina B7,2021,19.0,17.0,24.0,Premium Gasoline
+43809,BMW,Alpina B7 xDrive,2022,19.0,17.0,24.0,Premium Gasoline
+43807,BMW,Alpina B8 Gran Coupe,2022,19.0,17.0,24.0,Premium Gasoline
+45233,BMW,Alpina B8 Gran Coupe,2023,19.0,17.0,24.0,Premium Gasoline
+46497,BMW,Alpina B8 Gran Coupe,2024,19.0,17.0,24.0,Premium Gasoline
+47715,BMW,Alpina B8 Gran Coupe,2025,19.0,17.0,24.0,Premium Gasoline
+42872,BMW,Alpina XB7,2021,17.0,15.0,21.0,Premium Gasoline
+44334,BMW,Alpina XB7,2022,17.0,15.0,21.0,Premium Gasoline
+46156,BMW,Alpina XB7,2023,17.0,16.0,20.0,Premium Gasoline
+46606,BMW,Alpina XB7,2024,17.0,16.0,20.0,Premium Gasoline
+47750,BMW,Alpina XB7,2025,17.0,16.0,20.0,Premium Gasoline
+42556,BMW,M2 CS Coupe,2020,20.0,17.0,24.0,Premium Gasoline
+42557,BMW,M2 CS Coupe,2020,19.0,16.0,23.0,Premium Gasoline
+41323,BMW,M2 Competition Coupe,2020,20.0,18.0,25.0,Premium Gasoline
+41324,BMW,M2 Competition Coupe,2020,19.0,17.0,23.0,Premium Gasoline
+42919,BMW,M2 Competition Coupe,2021,19.0,16.0,23.0,Premium Gasoline
+42881,BMW,M2 Competition Coupe,2021,20.0,18.0,24.0,Premium Gasoline
+46121,BMW,M2 Coupe,2023,19.0,16.0,23.0,Premium Gasoline
+46120,BMW,M2 Coupe,2023,19.0,16.0,24.0,Premium Gasoline
+46644,BMW,M2 Coupe,2024,19.0,16.0,23.0,Premium Gasoline
+46643,BMW,M2 Coupe,2024,19.0,16.0,24.0,Premium Gasoline
+47970,BMW,M2 Coupe,2025,19.0,16.0,23.0,Premium Gasoline
+48155,BMW,M2 Coupe,2025,19.0,16.0,23.0,Premium Gasoline
+48842,BMW,M235 xDrive Gran Coupe,2025,27.0,24.0,33.0,Premium Gasoline
+42462,BMW,M235i xDrive,2020,26.0,23.0,32.0,Premium Gasoline
+42819,BMW,M235i xDrive Gran Coupe,2021,26.0,23.0,32.0,Premium Gasoline
+44283,BMW,M235i xDrive Gran Coupe,2022,26.0,23.0,32.0,Premium Gasoline
+45764,BMW,M235i xDrive Gran Coupe,2023,27.0,24.0,33.0,Premium Gasoline
+46655,BMW,M235i xDrive Gran Coupe,2024,27.0,24.0,33.0,Premium Gasoline
+41321,BMW,M240i Convertible,2020,22.0,19.0,27.0,Premium Gasoline
+41320,BMW,M240i Convertible,2020,25.0,22.0,30.0,Premium Gasoline
+42879,BMW,M240i Convertible,2021,21.0,19.0,27.0,Premium Gasoline
+42878,BMW,M240i Convertible,2021,24.0,21.0,30.0,Premium Gasoline
+41318,BMW,M240i Coupe,2020,22.0,19.0,27.0,Premium Gasoline
+41317,BMW,M240i Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+42875,BMW,M240i Coupe,2021,24.0,21.0,30.0,Premium Gasoline
+42876,BMW,M240i Coupe,2021,21.0,19.0,27.0,Premium Gasoline
+45477,BMW,M240i Coupe,2023,26.0,22.0,32.0,Premium Gasoline
+46642,BMW,M240i Coupe,2024,26.0,22.0,32.0,Premium Gasoline
+48153,BMW,M240i Coupe,2025,26.0,23.0,32.0,Premium Gasoline
+41314,BMW,M240i Coupe M Performance,2020,25.0,22.0,30.0,Premium Gasoline
+41315,BMW,M240i Coupe M Performance,2020,22.0,19.0,27.0,Premium Gasoline
+41322,BMW,M240i xDrive Convertible,2020,25.0,22.0,30.0,Premium Gasoline
+42880,BMW,M240i xDrive Convertible,2021,24.0,21.0,30.0,Premium Gasoline
+41319,BMW,M240i xDrive Coupe,2020,25.0,22.0,30.0,Premium Gasoline
+42877,BMW,M240i xDrive Coupe,2021,24.0,21.0,30.0,Premium Gasoline
+44276,BMW,M240i xDrive Coupe,2022,26.0,23.0,32.0,Premium Gasoline
+45478,BMW,M240i xDrive Coupe,2023,26.0,23.0,32.0,Premium Gasoline
+46766,BMW,M240i xDrive Coupe,2024,26.0,23.0,32.0,Premium Gasoline
+48154,BMW,M240i xDrive Coupe,2025,26.0,23.0,32.0,Premium Gasoline
+41316,BMW,M240i xDrive Coupe M Performance,2020,25.0,22.0,30.0,Premium Gasoline
+43562,BMW,M3,2021,19.0,16.0,23.0,Premium Gasoline
+46567,BMW,M3 CS Sedan,2024,18.0,15.0,22.0,Premium Gasoline
+43563,BMW,M3 Competition,2021,19.0,16.0,23.0,Premium Gasoline
+44286,BMW,M3 Competition M xDrive Sedan,2022,18.0,16.0,22.0,Premium Gasoline
+45496,BMW,M3 Competition M xDrive Sedan,2023,18.0,16.0,22.0,Premium Gasoline
+46660,BMW,M3 Competition M xDrive Sedan,2024,18.0,16.0,22.0,Premium Gasoline
+47978,BMW,M3 Competition M xDrive Sedan,2025,18.0,16.0,23.0,Premium Gasoline
+44184,BMW,M3 Competition Sedan,2022,19.0,16.0,23.0,Premium Gasoline
+45495,BMW,M3 Competition Sedan,2023,19.0,16.0,23.0,Premium Gasoline
+46659,BMW,M3 Competition Sedan,2024,19.0,16.0,23.0,Premium Gasoline
+47977,BMW,M3 Competition Sedan,2025,19.0,16.0,23.0,Premium Gasoline
+44183,BMW,M3 Sedan,2022,19.0,16.0,23.0,Premium Gasoline
+45494,BMW,M3 Sedan,2023,19.0,16.0,23.0,Premium Gasoline
+46658,BMW,M3 Sedan,2024,19.0,16.0,23.0,Premium Gasoline
+47976,BMW,M3 Sedan,2025,19.0,16.0,23.0,Premium Gasoline
+41341,BMW,M340i,2020,25.0,22.0,30.0,Premium Gasoline
+42925,BMW,M340i,2021,26.0,23.0,32.0,Premium Gasoline
+44284,BMW,M340i Sedan,2022,26.0,23.0,32.0,Premium Gasoline
+45603,BMW,M340i Sedan,2023,26.0,23.0,31.0,Premium Gasoline
+46768,BMW,M340i Sedan,2024,26.0,23.0,31.0,Premium Gasoline
+48165,BMW,M340i Sedan,2025,29.0,27.0,33.0,Premium Gasoline
+41340,BMW,M340i xDrive,2020,25.0,22.0,30.0,Premium Gasoline
+42926,BMW,M340i xDrive,2021,25.0,22.0,31.0,Premium Gasoline
+44285,BMW,M340i xDrive Sedan,2022,26.0,23.0,32.0,Premium Gasoline
+45493,BMW,M340i xDrive Sedan,2023,26.0,23.0,32.0,Premium Gasoline
+46769,BMW,M340i xDrive Sedan,2024,26.0,23.0,31.0,Premium Gasoline
+48166,BMW,M340i xDrive Sedan,2025,29.0,26.0,33.0,Premium Gasoline
+41355,BMW,M4 CS,2020,19.0,17.0,23.0,Premium Gasoline
+47971,BMW,M4 CS Coupe,2025,18.0,16.0,23.0,Premium Gasoline
+45649,BMW,M4 CSL Coupe,2023,18.0,16.0,23.0,Premium Gasoline
+43560,BMW,M4 Competition Coupe,2021,19.0,16.0,23.0,Premium Gasoline
+44176,BMW,M4 Competition Coupe,2022,19.0,16.0,23.0,Premium Gasoline
+45486,BMW,M4 Competition Coupe,2023,19.0,16.0,23.0,Premium Gasoline
+46471,BMW,M4 Competition Coupe,2024,19.0,16.0,23.0,Premium Gasoline
+47774,BMW,M4 Competition Coupe,2025,19.0,16.0,23.0,Premium Gasoline
+44177,BMW,M4 Competition M xDrive Convertible,2022,18.0,16.0,23.0,Premium Gasoline
+45488,BMW,M4 Competition M xDrive Convertible,2023,18.0,16.0,23.0,Premium Gasoline
+46473,BMW,M4 Competition M xDrive Convertible,2024,18.0,16.0,23.0,Premium Gasoline
+47776,BMW,M4 Competition M xDrive Convertible,2025,18.0,16.0,22.0,Premium Gasoline
+44281,BMW,M4 Competition M xDrive Coupe,2022,18.0,16.0,22.0,Premium Gasoline
+45487,BMW,M4 Competition M xDrive Coupe,2023,18.0,16.0,22.0,Premium Gasoline
+46472,BMW,M4 Competition M xDrive Coupe,2024,18.0,16.0,22.0,Premium Gasoline
+47775,BMW,M4 Competition M xDrive Coupe,2025,18.0,16.0,23.0,Premium Gasoline
+41330,BMW,M4 Convertible,2020,19.0,16.0,22.0,Premium Gasoline
+41329,BMW,M4 Convertible,2020,20.0,17.0,25.0,Premium Gasoline
+41331,BMW,M4 Convertible Competition,2020,20.0,17.0,25.0,Premium Gasoline
+41332,BMW,M4 Convertible Competition,2020,19.0,16.0,22.0,Premium Gasoline
+41353,BMW,M4 Coupe,2020,20.0,18.0,25.0,Premium Gasoline
+41354,BMW,M4 Coupe,2020,19.0,17.0,23.0,Premium Gasoline
+43559,BMW,M4 Coupe,2021,19.0,16.0,23.0,Premium Gasoline
+44175,BMW,M4 Coupe,2022,19.0,16.0,23.0,Premium Gasoline
+45485,BMW,M4 Coupe,2023,19.0,16.0,23.0,Premium Gasoline
+46470,BMW,M4 Coupe,2024,19.0,16.0,23.0,Premium Gasoline
+47773,BMW,M4 Coupe,2025,19.0,16.0,23.0,Premium Gasoline
+41357,BMW,M4 Coupe Competition,2020,19.0,17.0,23.0,Premium Gasoline
+41356,BMW,M4 Coupe Competition,2020,20.0,18.0,25.0,Premium Gasoline
+43815,BMW,M440i Convertible,2021,26.0,23.0,31.0,Premium Gasoline
+44174,BMW,M440i Convertible,2022,26.0,23.0,31.0,Premium Gasoline
+45483,BMW,M440i Convertible,2023,26.0,23.0,31.0,Premium Gasoline
+46524,BMW,M440i Convertible,2024,26.0,23.0,31.0,Premium Gasoline
+47771,BMW,M440i Convertible,2025,29.0,27.0,33.0,Premium Gasoline
+44173,BMW,M440i Coupe,2022,28.0,25.0,34.0,Premium Gasoline
+45481,BMW,M440i Coupe,2023,27.0,24.0,32.0,Premium Gasoline
+46522,BMW,M440i Coupe,2024,27.0,24.0,32.0,Premium Gasoline
+47769,BMW,M440i Coupe,2025,30.0,27.0,34.0,Premium Gasoline
+45497,BMW,M440i Gran Coupe,2023,27.0,24.0,32.0,Premium Gasoline
+46526,BMW,M440i Gran Coupe,2024,27.0,24.0,32.0,Premium Gasoline
+48169,BMW,M440i Gran Coupe,2025,28.0,26.0,32.0,Premium Gasoline
+44280,BMW,M440i xDrive Convertible,2022,26.0,23.0,31.0,Premium Gasoline
+45484,BMW,M440i xDrive Convertible,2023,25.0,22.0,31.0,Premium Gasoline
+46525,BMW,M440i xDrive Convertible,2024,25.0,22.0,30.0,Premium Gasoline
+47772,BMW,M440i xDrive Convertible,2025,28.0,25.0,32.0,Premium Gasoline
+43146,BMW,M440i xDrive Coupe,2021,25.0,22.0,31.0,Premium Gasoline
+44279,BMW,M440i xDrive Coupe,2022,26.0,23.0,32.0,Premium Gasoline
+45482,BMW,M440i xDrive Coupe,2023,25.0,22.0,31.0,Premium Gasoline
+46523,BMW,M440i xDrive Coupe,2024,25.0,22.0,31.0,Premium Gasoline
+47770,BMW,M440i xDrive Coupe,2025,29.0,26.0,33.0,Premium Gasoline
+44185,BMW,M440i xDrive Gran Coupe,2022,25.0,22.0,29.0,Premium Gasoline
+45498,BMW,M440i xDrive Gran Coupe,2023,25.0,22.0,31.0,Premium Gasoline
+46527,BMW,M440i xDrive Gran Coupe,2024,25.0,22.0,30.0,Premium Gasoline
+48170,BMW,M440i xDrive Gran Coupe,2025,27.0,25.0,31.0,Premium Gasoline
+42002,BMW,M5,2020,17.0,15.0,21.0,Premium Gasoline
+42936,BMW,M5,2021,17.0,15.0,21.0,Premium Gasoline
+43794,BMW,M5 CS Sedan,2022,17.0,15.0,21.0,Premium Gasoline
+42003,BMW,M5 Competition,2020,17.0,15.0,21.0,Premium Gasoline
+42937,BMW,M5 Competition,2021,17.0,15.0,21.0,Premium Gasoline
+44247,BMW,M5 Competition Sedan,2022,17.0,15.0,21.0,Premium Gasoline
+45523,BMW,M5 Competition Sedan,2023,17.0,15.0,21.0,Premium Gasoline
+44246,BMW,M5 Sedan,2022,17.0,15.0,21.0,Premium Gasoline
+45522,BMW,M5 Sedan,2023,17.0,15.0,21.0,Premium Gasoline
+41725,BMW,M550i xDrive,2020,20.0,18.0,25.0,Premium Gasoline
+42891,BMW,M550i xDrive,2021,20.0,17.0,25.0,Premium Gasoline
+44245,BMW,M550i xDrive Sedan,2022,20.0,17.0,25.0,Premium Gasoline
+45521,BMW,M550i xDrive Sedan,2023,20.0,17.0,25.0,Premium Gasoline
+41361,BMW,M760i xDrive,2020,16.0,13.0,20.0,Premium Gasoline
+42574,BMW,M760i xDrive,2021,16.0,13.0,20.0,Premium Gasoline
+43881,BMW,M760i xDrive Sedan,2022,16.0,13.0,20.0,Premium Gasoline
+41993,BMW,M8 Competition Convertible,2020,17.0,15.0,21.0,Premium Gasoline
+42923,BMW,M8 Competition Convertible,2021,17.0,15.0,21.0,Premium Gasoline
+43783,BMW,M8 Competition Convertible,2022,17.0,15.0,21.0,Premium Gasoline
+45226,BMW,M8 Competition Convertible,2023,17.0,15.0,22.0,Premium Gasoline
+46481,BMW,M8 Competition Convertible,2024,17.0,15.0,22.0,Premium Gasoline
+47703,BMW,M8 Competition Convertible,2025,17.0,15.0,22.0,Premium Gasoline
+41991,BMW,M8 Competition Coupe,2020,17.0,15.0,21.0,Premium Gasoline
+43782,BMW,M8 Competition Coupe,2022,17.0,15.0,21.0,Premium Gasoline
+45225,BMW,M8 Competition Coupe,2023,17.0,15.0,22.0,Premium Gasoline
+46480,BMW,M8 Competition Coupe,2024,17.0,15.0,22.0,Premium Gasoline
+47702,BMW,M8 Competition Coupe,2025,17.0,15.0,22.0,Premium Gasoline
+42236,BMW,M8 Competition Gran Coupe,2020,17.0,15.0,21.0,Premium Gasoline
+42940,BMW,M8 Competition Gran Coupe,2021,17.0,15.0,21.0,Premium Gasoline
+43795,BMW,M8 Competition Gran Coupe,2022,17.0,15.0,21.0,Premium Gasoline
+45234,BMW,M8 Competition Gran Coupe,2023,17.0,15.0,22.0,Premium Gasoline
+46498,BMW,M8 Competition Gran Coupe,2024,17.0,15.0,22.0,Premium Gasoline
+47716,BMW,M8 Competition Gran Coupe,2025,17.0,15.0,22.0,Premium Gasoline
+41992,BMW,M8 Convertible,2020,17.0,15.0,21.0,Premium Gasoline
+43759,BMW,M8 Convertible,2021,17.0,15.0,21.0,Premium Gasoline
+41990,BMW,M8 Coupe,2020,17.0,15.0,21.0,Premium Gasoline
+42004,BMW,M8 Gran Coupe,2020,17.0,15.0,21.0,Premium Gasoline
+42939,BMW,M8 Gran Coupe,2021,17.0,15.0,21.0,Premium Gasoline
+41702,BMW,M850i xDrive Convertible,2020,20.0,17.0,25.0,Premium Gasoline
+43147,BMW,M850i xDrive Convertible,2021,19.0,17.0,24.0,Premium Gasoline
+43805,BMW,M850i xDrive Convertible,2022,19.0,17.0,24.0,Premium Gasoline
+45224,BMW,M850i xDrive Convertible,2023,19.0,17.0,24.0,Premium Gasoline
+46479,BMW,M850i xDrive Convertible,2024,19.0,17.0,24.0,Premium Gasoline
+47701,BMW,M850i xDrive Convertible,2025,19.0,17.0,24.0,Premium Gasoline
+41701,BMW,M850i xDrive Coupe,2020,20.0,18.0,25.0,Premium Gasoline
+43641,BMW,M850i xDrive Coupe,2021,20.0,17.0,25.0,Premium Gasoline
+43804,BMW,M850i xDrive Coupe,2022,20.0,17.0,25.0,Premium Gasoline
+45223,BMW,M850i xDrive Coupe,2023,19.0,17.0,24.0,Premium Gasoline
+46478,BMW,M850i xDrive Coupe,2024,19.0,17.0,24.0,Premium Gasoline
+47700,BMW,M850i xDrive Coupe,2025,19.0,17.0,24.0,Premium Gasoline
+41728,BMW,M850i xDrive Gran Coupe,2020,20.0,17.0,25.0,Premium Gasoline
+43155,BMW,M850i xDrive Gran Coupe,2021,19.0,17.0,24.0,Premium Gasoline
+43806,BMW,M850i xDrive Gran Coupe,2022,19.0,17.0,24.0,Premium Gasoline
+45232,BMW,M850i xDrive Gran Coupe,2023,19.0,17.0,24.0,Premium Gasoline
+46496,BMW,M850i xDrive Gran Coupe,2024,19.0,17.0,24.0,Premium Gasoline
+47714,BMW,M850i xDrive Gran Coupe,2025,19.0,17.0,24.0,Premium Gasoline
+46871,BMW,X1 M35i,2024,26.0,23.0,31.0,Premium Gasoline
+48262,BMW,X1 M35i,2025,26.0,23.0,31.0,Premium Gasoline
+42019,BMW,X1 sDrive28i,2020,27.0,24.0,33.0,Premium Gasoline
+42894,BMW,X1 sDrive28i,2021,27.0,24.0,33.0,Premium Gasoline
+44809,BMW,X1 sDrive28i,2022,27.0,24.0,33.0,Premium Gasoline
+41742,BMW,X1 xDrive28i,2020,26.0,23.0,31.0,Premium Gasoline
+42893,BMW,X1 xDrive28i,2021,26.0,23.0,31.0,Premium Gasoline
+44760,BMW,X1 xDrive28i,2022,26.0,23.0,31.0,Premium Gasoline
+45617,BMW,X1 xDrive28i,2023,28.0,25.0,34.0,Premium Gasoline
+47639,BMW,X1 xDrive28i,2024,28.0,25.0,34.0,Premium Gasoline
+48261,BMW,X1 xDrive28i,2025,28.0,24.0,33.0,Premium Gasoline
+41721,BMW,X2 M35i,2020,26.0,23.0,30.0,Premium Gasoline
+42933,BMW,X2 M35i,2021,26.0,23.0,30.0,Premium Gasoline
+43793,BMW,X2 M35i,2022,26.0,23.0,30.0,Premium Gasoline
+45231,BMW,X2 M35i,2023,27.0,24.0,31.0,Premium Gasoline
+47641,BMW,X2 M35i,2024,26.0,23.0,32.0,Premium Gasoline
+48264,BMW,X2 M35i,2025,26.0,23.0,32.0,Premium Gasoline
+41720,BMW,X2 sDrive28i,2020,27.0,24.0,32.0,Premium Gasoline
+43045,BMW,X2 sDrive28i,2021,27.0,24.0,32.0,Premium Gasoline
+43833,BMW,X2 sDrive28i,2022,27.0,24.0,32.0,Premium Gasoline
+45275,BMW,X2 sDrive28i,2023,27.0,24.0,32.0,Premium Gasoline
+41719,BMW,X2 xDrive28i,2020,27.0,24.0,31.0,Premium Gasoline
+42932,BMW,X2 xDrive28i,2021,27.0,24.0,31.0,Premium Gasoline
+43792,BMW,X2 xDrive28i,2022,27.0,24.0,31.0,Premium Gasoline
+45274,BMW,X2 xDrive28i,2023,27.0,24.0,31.0,Premium Gasoline
+47640,BMW,X2 xDrive28i,2024,28.0,24.0,33.0,Premium Gasoline
+48263,BMW,X2 xDrive28i,2025,28.0,24.0,33.0,Premium Gasoline
+41666,BMW,X3 M,2020,16.0,14.0,19.0,Premium Gasoline
+42597,BMW,X3 M,2021,16.0,14.0,19.0,Premium Gasoline
+44313,BMW,X3 M,2022,17.0,15.0,20.0,Premium Gasoline
+45546,BMW,X3 M,2023,17.0,15.0,20.0,Premium Gasoline
+46873,BMW,X3 M,2024,17.0,15.0,20.0,Premium Gasoline
+41667,BMW,X3 M Competition,2020,16.0,14.0,19.0,Premium Gasoline
+42598,BMW,X3 M Competition,2021,16.0,14.0,19.0,Premium Gasoline
+44314,BMW,X3 M Competition,2022,17.0,15.0,20.0,Premium Gasoline
+45547,BMW,X3 M Competition,2023,17.0,15.0,20.0,Premium Gasoline
+46874,BMW,X3 M Competition,2024,17.0,15.0,20.0,Premium Gasoline
+41758,BMW,X3 M40i,2020,23.0,21.0,27.0,Premium Gasoline
+42900,BMW,X3 M40i,2021,23.0,21.0,27.0,Premium Gasoline
+44312,BMW,X3 M40i,2022,23.0,21.0,26.0,Premium Gasoline
+45545,BMW,X3 M40i,2023,23.0,21.0,26.0,Premium Gasoline
+46872,BMW,X3 M40i,2024,23.0,21.0,26.0,Premium Gasoline
+48078,BMW,X3 M50i xDrive,2025,27.0,25.0,30.0,Premium Gasoline
+41873,BMW,X3 sDrive30i,2020,27.0,25.0,29.0,Premium Gasoline
+42849,BMW,X3 sDrive30i,2021,27.0,25.0,29.0,Premium Gasoline
+44306,BMW,X3 sDrive30i,2022,25.0,23.0,29.0,Premium Gasoline
+45535,BMW,X3 sDrive30i,2023,25.0,23.0,29.0,Premium Gasoline
+46687,BMW,X3 sDrive30i,2024,25.0,23.0,29.0,Premium Gasoline
+41757,BMW,X3 xDrive30i,2020,26.0,24.0,29.0,Premium Gasoline
+42899,BMW,X3 xDrive30i,2021,25.0,23.0,29.0,Premium Gasoline
+44311,BMW,X3 xDrive30i,2022,24.0,21.0,28.0,Premium Gasoline
+45544,BMW,X3 xDrive30i,2023,24.0,21.0,28.0,Premium Gasoline
+46704,BMW,X3 xDrive30i,2024,24.0,21.0,28.0,Premium Gasoline
+48077,BMW,X3 xDrive30i,2025,29.0,27.0,33.0,Premium Gasoline
+41668,BMW,X4 M,2020,16.0,14.0,19.0,Premium Gasoline
+42599,BMW,X4 M,2021,16.0,14.0,19.0,Premium Gasoline
+44317,BMW,X4 M,2022,17.0,15.0,20.0,Premium Gasoline
+45550,BMW,X4 M,2023,17.0,15.0,20.0,Premium Gasoline
+46876,BMW,X4 M,2024,17.0,15.0,20.0,Premium Gasoline
+48081,BMW,X4 M,2025,17.0,15.0,20.0,Premium Gasoline
+41669,BMW,X4 M Competition,2020,16.0,14.0,19.0,Premium Gasoline
+42600,BMW,X4 M Competition,2021,16.0,14.0,19.0,Premium Gasoline
+44318,BMW,X4 M Competition,2022,17.0,15.0,20.0,Premium Gasoline
+45551,BMW,X4 M Competition,2023,17.0,15.0,20.0,Premium Gasoline
+46877,BMW,X4 M Competition,2024,17.0,15.0,20.0,Premium Gasoline
+48082,BMW,X4 M Competition,2025,17.0,15.0,20.0,Premium Gasoline
+41760,BMW,X4 M40i,2020,23.0,21.0,27.0,Premium Gasoline
+42902,BMW,X4 M40i,2021,23.0,21.0,27.0,Premium Gasoline
+44316,BMW,X4 M40i,2022,23.0,21.0,26.0,Premium Gasoline
+45549,BMW,X4 M40i,2023,23.0,21.0,26.0,Premium Gasoline
+46875,BMW,X4 M40i,2024,23.0,21.0,26.0,Premium Gasoline
+48080,BMW,X4 M40i,2025,23.0,22.0,26.0,Premium Gasoline
+41759,BMW,X4 xDrive30i,2020,25.0,23.0,28.0,Premium Gasoline
+42901,BMW,X4 xDrive30i,2021,25.0,23.0,29.0,Premium Gasoline
+44315,BMW,X4 xDrive30i,2022,24.0,21.0,28.0,Premium Gasoline
+45548,BMW,X4 xDrive30i,2023,24.0,21.0,28.0,Premium Gasoline
+46705,BMW,X4 xDrive30i,2024,24.0,21.0,28.0,Premium Gasoline
+48079,BMW,X4 xDrive30i,2025,24.0,21.0,27.0,Premium Gasoline
+42443,BMW,X5 M,2020,15.0,13.0,18.0,Premium Gasoline
+42864,BMW,X5 M,2021,15.0,13.0,18.0,Premium Gasoline
+44326,BMW,X5 M,2022,15.0,13.0,18.0,Premium Gasoline
+45574,BMW,X5 M,2023,15.0,13.0,18.0,Premium Gasoline
+42444,BMW,X5 M Competition,2020,15.0,13.0,18.0,Premium Gasoline
+42865,BMW,X5 M Competition,2021,15.0,13.0,18.0,Premium Gasoline
+44327,BMW,X5 M Competition,2022,15.0,13.0,18.0,Premium Gasoline
+45575,BMW,X5 M Competition,2023,15.0,13.0,18.0,Premium Gasoline
+46547,BMW,X5 M Competition,2024,15.0,13.0,18.0,Premium Gasoline
+47745,BMW,X5 M Competition,2025,15.0,13.0,18.0,Premium Gasoline
+41774,BMW,X5 M50i,2020,18.0,16.0,22.0,Premium Gasoline
+42863,BMW,X5 M50i,2021,18.0,16.0,22.0,Premium Gasoline
+44325,BMW,X5 M50i,2022,18.0,16.0,22.0,Premium Gasoline
+45573,BMW,X5 M50i,2023,18.0,16.0,22.0,Premium Gasoline
+46546,BMW,X5 M60i xDrive,2024,19.0,17.0,22.0,Premium Gasoline
+47744,BMW,X5 M60i xDrive,2025,19.0,17.0,22.0,Premium Gasoline
+42086,BMW,X5 sDrive40i,2020,23.0,21.0,26.0,Premium Gasoline
+42860,BMW,X5 sDrive40i,2021,23.0,21.0,26.0,Premium Gasoline
+44322,BMW,X5 sDrive40i,2022,23.0,21.0,26.0,Premium Gasoline
+45562,BMW,X5 sDrive40i,2023,23.0,21.0,26.0,Premium Gasoline
+46544,BMW,X5 sDrive40i,2024,25.0,23.0,27.0,Premium Gasoline
+47742,BMW,X5 sDrive40i,2025,25.0,23.0,27.0,Premium Gasoline
+42053,BMW,X5 xDrive40i,2020,22.0,20.0,26.0,Premium Gasoline
+42862,BMW,X5 xDrive40i,2021,23.0,21.0,25.0,Premium Gasoline
+44324,BMW,X5 xDrive40i,2022,23.0,21.0,25.0,Premium Gasoline
+45572,BMW,X5 xDrive40i,2023,23.0,21.0,25.0,Premium Gasoline
+46545,BMW,X5 xDrive40i,2024,25.0,23.0,27.0,Premium Gasoline
+47743,BMW,X5 xDrive40i,2025,25.0,23.0,27.0,Premium Gasoline
+41773,BMW,X5 xDrive50i,2020,18.0,16.0,22.0,Premium Gasoline
+42445,BMW,X6 M,2020,15.0,13.0,18.0,Premium Gasoline
+42868,BMW,X6 M,2021,15.0,13.0,18.0,Premium Gasoline
+44330,BMW,X6 M,2022,15.0,13.0,18.0,Premium Gasoline
+45578,BMW,X6 M,2023,15.0,13.0,18.0,Premium Gasoline
+42446,BMW,X6 M Competition,2020,15.0,13.0,18.0,Premium Gasoline
+42869,BMW,X6 M Competition,2021,15.0,13.0,18.0,Premium Gasoline
+44331,BMW,X6 M Competition,2022,15.0,13.0,18.0,Premium Gasoline
+45579,BMW,X6 M Competition,2023,15.0,13.0,18.0,Premium Gasoline
+46550,BMW,X6 M Competition,2024,15.0,13.0,18.0,Premium Gasoline
+47748,BMW,X6 M Competition,2025,15.0,13.0,18.0,Premium Gasoline
+41775,BMW,X6 M50i,2020,18.0,16.0,22.0,Premium Gasoline
+42867,BMW,X6 M50i,2021,18.0,16.0,22.0,Premium Gasoline
+44329,BMW,X6 M50i,2022,18.0,16.0,22.0,Premium Gasoline
+45577,BMW,X6 M50i,2023,18.0,16.0,22.0,Premium Gasoline
+46549,BMW,X6 M60i xDrive,2024,19.0,17.0,22.0,Premium Gasoline
+47747,BMW,X6 M60i xDrive,2025,19.0,17.0,22.0,Premium Gasoline
+42087,BMW,X6 sDrive40i,2020,23.0,21.0,26.0,Premium Gasoline
+42861,BMW,X6 sDrive40i,2021,23.0,21.0,26.0,Premium Gasoline
+42055,BMW,X6 xDrive40i,2020,22.0,20.0,26.0,Premium Gasoline
+42866,BMW,X6 xDrive40i,2021,23.0,21.0,25.0,Premium Gasoline
+44328,BMW,X6 xDrive40i,2022,23.0,21.0,25.0,Premium Gasoline
+45576,BMW,X6 xDrive40i,2023,23.0,21.0,25.0,Premium Gasoline
+46548,BMW,X6 xDrive40i,2024,24.0,23.0,26.0,Premium Gasoline
+47746,BMW,X6 xDrive40i,2025,24.0,23.0,26.0,Premium Gasoline
+41777,BMW,X7 M50i,2020,17.0,15.0,21.0,Premium Gasoline
+42871,BMW,X7 M50i,2021,17.0,15.0,21.0,Premium Gasoline
+44333,BMW,X7 M50i,2022,17.0,15.0,21.0,Premium Gasoline
+45632,BMW,X7 M60i xDrive,2023,18.0,16.0,21.0,Premium Gasoline
+46552,BMW,X7 M60i xDrive,2024,18.0,16.0,21.0,Premium Gasoline
+47749,BMW,X7 M60i xDrive,2025,18.0,16.0,20.0,Premium Gasoline
+42057,BMW,X7 xDrive40i,2020,22.0,20.0,25.0,Premium Gasoline
+42870,BMW,X7 xDrive40i,2021,21.0,19.0,24.0,Premium Gasoline
+44332,BMW,X7 xDrive40i,2022,21.0,19.0,24.0,Premium Gasoline
+45631,BMW,X7 xDrive40i,2023,22.0,21.0,25.0,Premium Gasoline
+46551,BMW,X7 xDrive40i,2024,22.0,21.0,25.0,Premium Gasoline
+47807,BMW,X7 xDrive40i,2025,22.0,20.0,24.0,Premium Gasoline
+41776,BMW,X7 xDrive50i,2020,17.0,15.0,21.0,Premium Gasoline
+41374,BMW,Z4 M40i,2020,26.0,24.0,31.0,Premium Gasoline
+42917,BMW,Z4 M40i,2021,25.0,22.0,30.0,Premium Gasoline
+44166,BMW,Z4 M40i,2022,25.0,22.0,29.0,Premium Gasoline
+46082,BMW,Z4 M40i,2023,26.0,23.0,31.0,Premium Gasoline
+46632,BMW,Z4 M40i,2024,26.0,23.0,31.0,Premium Gasoline
+47764,BMW,Z4 M40i,2025,22.0,19.0,26.0,Premium Gasoline
+47763,BMW,Z4 M40i,2025,25.0,23.0,29.0,Premium Gasoline
+41642,BMW,Z4 sDrive30i,2020,27.0,24.0,32.0,Premium Gasoline
+42988,BMW,Z4 sDrive30i,2021,28.0,25.0,32.0,Premium Gasoline
+44165,BMW,Z4 sDrive30i,2022,28.0,25.0,32.0,Premium Gasoline
+46081,BMW,Z4 sDrive30i,2023,28.0,25.0,33.0,Premium Gasoline
+46631,BMW,Z4 sDrive30i,2024,28.0,25.0,33.0,Premium Gasoline
+47695,BMW,Z4 sDrive30i,2025,28.0,25.0,33.0,Premium Gasoline
+42072,Honda,Accord,2020,26.0,22.0,32.0,Regular Gasoline
+42073,Honda,Accord,2020,27.0,23.0,34.0,Regular Gasoline
+42069,Honda,Accord,2020,30.0,26.0,35.0,Regular Gasoline
+42070,Honda,Accord,2020,33.0,30.0,38.0,Regular Gasoline
+42071,Honda,Accord,2020,31.0,29.0,35.0,Regular Gasoline
+43361,Honda,Accord,2021,33.0,30.0,38.0,Regular Gasoline
+44565,Honda,Accord,2022,33.0,30.0,38.0,Regular Gasoline
+46363,Honda,Accord,2023,32.0,29.0,37.0,Regular Gasoline
+47103,Honda,Accord,2024,32.0,29.0,37.0,Regular Gasoline
+48504,Honda,Accord,2025,32.0,29.0,37.0,Regular Gasoline
+42064,Honda,Accord 2.0T Sport/Touring,2020,26.0,22.0,32.0,Regular Gasoline
+42135,Honda,Accord Hybrid,2020,48.0,48.0,47.0,Regular Gasoline
+43364,Honda,Accord Hybrid,2021,48.0,48.0,48.0,Regular Gasoline
+44568,Honda,Accord Hybrid,2022,47.0,48.0,47.0,Regular Gasoline
+46364,Honda,Accord Hybrid,2023,48.0,51.0,44.0,Regular Gasoline
+47104,Honda,Accord Hybrid,2024,48.0,51.0,44.0,Regular Gasoline
+48505,Honda,Accord Hybrid,2025,48.0,51.0,44.0,Regular Gasoline
+43365,Honda,Accord Hybrid Sport/Touring,2021,43.0,44.0,41.0,Regular Gasoline
+44569,Honda,Accord Hybrid Sport/Touring,2022,43.0,44.0,41.0,Regular Gasoline
+46358,Honda,Accord Hybrid Sport/Touring,2023,44.0,46.0,41.0,Regular Gasoline
+47073,Honda,Accord Hybrid Sport/Touring,2024,44.0,46.0,41.0,Regular Gasoline
+48497,Honda,Accord Hybrid Sport/Touring,2025,44.0,46.0,41.0,Regular Gasoline
+43363,Honda,Accord Sport/Touring,2021,26.0,22.0,32.0,Regular Gasoline
+43362,Honda,Accord Sport/Touring,2021,32.0,29.0,35.0,Regular Gasoline
+44566,Honda,Accord Sport/Touring,2022,32.0,29.0,35.0,Regular Gasoline
+44567,Honda,Accord Sport/Touring,2022,26.0,22.0,32.0,Regular Gasoline
+42299,Honda,CR-V AWD,2020,29.0,27.0,32.0,Regular Gasoline
+43475,Honda,CR-V AWD,2021,29.0,27.0,32.0,Regular Gasoline
+44434,Honda,CR-V AWD,2022,29.0,27.0,32.0,Regular Gasoline
+45952,Honda,CR-V AWD,2023,29.0,27.0,32.0,Regular Gasoline
+46716,Honda,CR-V AWD,2024,37.0,40.0,34.0,Regular Gasoline
+46715,Honda,CR-V AWD,2024,29.0,27.0,32.0,Regular Gasoline
+47957,Honda,CR-V AWD,2025,37.0,40.0,34.0,Regular Gasoline
+47956,Honda,CR-V AWD,2025,28.0,26.0,31.0,Regular Gasoline
+42298,Honda,CR-V FWD,2020,30.0,28.0,34.0,Regular Gasoline
+43472,Honda,CR-V FWD,2021,30.0,28.0,34.0,Regular Gasoline
+44432,Honda,CR-V FWD,2022,30.0,28.0,34.0,Regular Gasoline
+45950,Honda,CR-V FWD,2023,30.0,28.0,34.0,Regular Gasoline
+46694,Honda,CR-V FWD,2024,40.0,43.0,36.0,Regular Gasoline
+46693,Honda,CR-V FWD,2024,30.0,28.0,34.0,Regular Gasoline
+47950,Honda,CR-V FWD,2025,40.0,43.0,36.0,Regular Gasoline
+47949,Honda,CR-V FWD,2025,30.0,28.0,34.0,Regular Gasoline
+42502,Honda,CR-V Hybrid AWD,2020,38.0,40.0,35.0,Regular Gasoline
+43476,Honda,CR-V Hybrid AWD,2021,38.0,40.0,35.0,Regular Gasoline
+44435,Honda,CR-V Hybrid AWD,2022,38.0,40.0,35.0,Regular Gasoline
+46071,Honda,CR-V Hybrid AWD,2023,37.0,40.0,34.0,Regular Gasoline
+46064,Honda,CR-V Hybrid FWD,2023,40.0,43.0,36.0,Regular Gasoline
+42141,Honda,Civic 2Dr,2020,35.0,31.0,40.0,Regular Gasoline
+41884,Honda,Civic 2Dr,2020,30.0,26.0,36.0,Premium Gasoline
+42143,Honda,Civic 2Dr,2020,32.0,29.0,36.0,Regular Gasoline
+42140,Honda,Civic 2Dr,2020,33.0,30.0,37.0,Regular Gasoline
+42144,Honda,Civic 2Dr,2020,33.0,30.0,38.0,Regular Gasoline
+42142,Honda,Civic 2Dr,2020,29.0,25.0,35.0,Regular Gasoline
+42151,Honda,Civic 4Dr,2020,29.0,25.0,36.0,Regular Gasoline
+42150,Honda,Civic 4Dr,2020,36.0,32.0,42.0,Regular Gasoline
+42149,Honda,Civic 4Dr,2020,33.0,30.0,38.0,Regular Gasoline
+41889,Honda,Civic 4Dr,2020,30.0,26.0,36.0,Premium Gasoline
+42152,Honda,Civic 4Dr,2020,32.0,29.0,37.0,Regular Gasoline
+42153,Honda,Civic 4Dr,2020,33.0,30.0,38.0,Regular Gasoline
+43355,Honda,Civic 4Dr,2021,33.0,30.0,38.0,Regular Gasoline
+43358,Honda,Civic 4Dr,2021,33.0,30.0,38.0,Regular Gasoline
+43356,Honda,Civic 4Dr,2021,36.0,32.0,42.0,Regular Gasoline
+43357,Honda,Civic 4Dr,2021,32.0,29.0,37.0,Regular Gasoline
+44131,Honda,Civic 4Dr,2022,36.0,33.0,42.0,Regular Gasoline
+44132,Honda,Civic 4Dr,2022,34.0,31.0,38.0,Regular Gasoline
+44134,Honda,Civic 4Dr,2022,33.0,30.0,37.0,Regular Gasoline
+44846,Honda,Civic 4Dr,2022,31.0,27.0,37.0,Premium Gasoline
+44133,Honda,Civic 4Dr,2022,35.0,31.0,40.0,Regular Gasoline
+46051,Honda,Civic 4Dr,2023,36.0,33.0,42.0,Regular Gasoline
+46052,Honda,Civic 4Dr,2023,34.0,31.0,38.0,Regular Gasoline
+46054,Honda,Civic 4Dr,2023,33.0,30.0,37.0,Regular Gasoline
+46506,Honda,Civic 4Dr,2023,35.0,31.0,40.0,Regular Gasoline
+46053,Honda,Civic 4Dr,2023,31.0,27.0,37.0,Premium Gasoline
+47070,Honda,Civic 4Dr,2024,31.0,27.0,37.0,Premium Gasoline
+47072,Honda,Civic 4Dr,2024,33.0,30.0,37.0,Regular Gasoline
+47068,Honda,Civic 4Dr,2024,36.0,33.0,42.0,Regular Gasoline
+47069,Honda,Civic 4Dr,2024,34.0,31.0,38.0,Regular Gasoline
+47071,Honda,Civic 4Dr,2024,35.0,31.0,40.0,Regular Gasoline
+48016,Honda,Civic 4Dr,2025,36.0,32.0,41.0,Regular Gasoline
+48017,Honda,Civic 4Dr,2025,34.0,31.0,39.0,Regular Gasoline
+48018,Honda,Civic 4Dr,2025,49.0,50.0,47.0,Regular Gasoline
+48178,Honda,Civic 4Dr,2025,31.0,27.0,37.0,Premium Gasoline
+41748,Honda,Civic 5Dr,2020,34.0,31.0,40.0,Regular Gasoline
+41747,Honda,Civic 5Dr,2020,32.0,29.0,37.0,Premium Gasoline
+42501,Honda,Civic 5Dr,2020,25.0,22.0,28.0,Premium Gasoline
+41749,Honda,Civic 5Dr,2020,32.0,29.0,35.0,Premium Gasoline
+43643,Honda,Civic 5Dr,2021,25.0,22.0,28.0,Premium Gasoline
+43057,Honda,Civic 5Dr,2021,32.0,29.0,35.0,Premium Gasoline
+43055,Honda,Civic 5Dr,2021,32.0,29.0,37.0,Premium Gasoline
+43056,Honda,Civic 5Dr,2021,34.0,31.0,40.0,Regular Gasoline
+44545,Honda,Civic 5Dr,2022,35.0,31.0,39.0,Regular Gasoline
+44546,Honda,Civic 5Dr,2022,33.0,30.0,37.0,Regular Gasoline
+44548,Honda,Civic 5Dr,2022,33.0,30.0,38.0,Regular Gasoline
+44549,Honda,Civic 5Dr,2022,32.0,29.0,37.0,Regular Gasoline
+44547,Honda,Civic 5Dr,2022,31.0,28.0,37.0,Regular Gasoline
+44550,Honda,Civic 5Dr,2022,29.0,26.0,36.0,Regular Gasoline
+46142,Honda,Civic 5Dr,2023,24.0,22.0,28.0,Premium Gasoline
+46140,Honda,Civic 5Dr,2023,32.0,29.0,37.0,Regular Gasoline
+46137,Honda,Civic 5Dr,2023,35.0,31.0,39.0,Regular Gasoline
+46141,Honda,Civic 5Dr,2023,29.0,26.0,36.0,Regular Gasoline
+46138,Honda,Civic 5Dr,2023,33.0,30.0,37.0,Regular Gasoline
+46509,Honda,Civic 5Dr,2023,33.0,30.0,38.0,Regular Gasoline
+46139,Honda,Civic 5Dr,2023,31.0,28.0,37.0,Regular Gasoline
+47097,Honda,Civic 5Dr,2024,35.0,31.0,39.0,Regular Gasoline
+47102,Honda,Civic 5Dr,2024,29.0,26.0,36.0,Regular Gasoline
+47100,Honda,Civic 5Dr,2024,33.0,30.0,38.0,Regular Gasoline
+47098,Honda,Civic 5Dr,2024,33.0,30.0,37.0,Regular Gasoline
+47101,Honda,Civic 5Dr,2024,32.0,29.0,37.0,Regular Gasoline
+47582,Honda,Civic 5Dr,2024,24.0,22.0,28.0,Premium Gasoline
+47099,Honda,Civic 5Dr,2024,31.0,28.0,37.0,Regular Gasoline
+48503,Honda,Civic 5Dr,2025,48.0,50.0,45.0,Regular Gasoline
+48502,Honda,Civic 5Dr,2025,34.0,30.0,38.0,Regular Gasoline
+48042,Honda,Civic 5Dr,2025,24.0,22.0,28.0,Premium Gasoline
+42395,Honda,Fit,2020,33.0,31.0,36.0,Regular Gasoline
+42394,Honda,Fit,2020,36.0,33.0,40.0,Regular Gasoline
+42396,Honda,Fit,2020,31.0,29.0,36.0,Regular Gasoline
+42203,Honda,HR-V AWD,2020,29.0,27.0,31.0,Regular Gasoline
+42204,Honda,HR-V AWD,2020,28.0,26.0,31.0,Regular Gasoline
+43314,Honda,HR-V AWD,2021,28.0,26.0,31.0,Regular Gasoline
+43313,Honda,HR-V AWD,2021,29.0,27.0,31.0,Regular Gasoline
+44251,Honda,HR-V AWD,2022,28.0,26.0,31.0,Regular Gasoline
+44250,Honda,HR-V AWD,2022,29.0,27.0,31.0,Regular Gasoline
+45362,Honda,HR-V AWD,2023,27.0,25.0,30.0,Regular Gasoline
+46587,Honda,HR-V AWD,2024,27.0,25.0,30.0,Regular Gasoline
+47782,Honda,HR-V AWD,2025,27.0,25.0,30.0,Regular Gasoline
+42201,Honda,HR-V FWD,2020,30.0,28.0,34.0,Regular Gasoline
+42202,Honda,HR-V FWD,2020,30.0,28.0,34.0,Regular Gasoline
+43312,Honda,HR-V FWD,2021,30.0,28.0,34.0,Regular Gasoline
+43311,Honda,HR-V FWD,2021,30.0,28.0,34.0,Regular Gasoline
+44252,Honda,HR-V FWD,2022,30.0,28.0,34.0,Regular Gasoline
+44253,Honda,HR-V FWD,2022,30.0,28.0,34.0,Regular Gasoline
+45363,Honda,HR-V FWD,2023,28.0,26.0,32.0,Regular Gasoline
+46588,Honda,HR-V FWD,2024,28.0,26.0,32.0,Regular Gasoline
+47783,Honda,HR-V FWD,2025,28.0,26.0,32.0,Regular Gasoline
+41648,Honda,Insight,2020,52.0,55.0,49.0,Regular Gasoline
+42542,Honda,Insight,2021,52.0,55.0,49.0,Regular Gasoline
+43948,Honda,Insight,2022,52.0,55.0,49.0,Regular Gasoline
+41649,Honda,Insight Touring,2020,48.0,51.0,45.0,Regular Gasoline
+42537,Honda,Insight Touring,2021,48.0,51.0,45.0,Regular Gasoline
+43947,Honda,Insight Touring,2022,48.0,51.0,45.0,Regular Gasoline
+41895,Honda,Odyssey,2020,22.0,19.0,28.0,Regular Gasoline
+42848,Honda,Odyssey,2021,22.0,19.0,28.0,Regular Gasoline
+43697,Honda,Odyssey,2022,22.0,19.0,28.0,Regular Gasoline
+45203,Honda,Odyssey,2023,22.0,19.0,28.0,Regular Gasoline
+46860,Honda,Odyssey,2024,22.0,19.0,28.0,Regular Gasoline
+48254,Honda,Odyssey,2025,22.0,19.0,28.0,Regular Gasoline
+42259,Honda,Passport AWD,2020,21.0,19.0,24.0,Regular Gasoline
+43161,Honda,Passport AWD,2021,21.0,19.0,24.0,Regular Gasoline
+44903,Honda,Passport AWD,2022,21.0,19.0,24.0,Regular Gasoline
+45978,Honda,Passport AWD,2023,21.0,19.0,24.0,Regular Gasoline
+47377,Honda,Passport AWD,2024,21.0,19.0,24.0,Regular Gasoline
+48092,Honda,Passport AWD,2025,21.0,19.0,24.0,Regular Gasoline
+42254,Honda,Passport FWD,2020,22.0,20.0,25.0,Regular Gasoline
+43158,Honda,Passport FWD,2021,22.0,20.0,25.0,Regular Gasoline
+44901,Honda,Passport FWD,2022,22.0,20.0,25.0,Regular Gasoline
+41762,Honda,Pilot AWD,2020,21.0,18.0,26.0,Regular Gasoline
+41761,Honda,Pilot AWD,2020,22.0,19.0,26.0,Regular Gasoline
+42576,Honda,Pilot AWD,2021,22.0,19.0,26.0,Regular Gasoline
+44319,Honda,Pilot AWD,2022,22.0,19.0,26.0,Regular Gasoline
+46422,Honda,Pilot AWD,2023,21.0,19.0,25.0,Regular Gasoline
+47182,Honda,Pilot AWD,2024,21.0,19.0,25.0,Regular Gasoline
+47753,Honda,Pilot AWD,2025,21.0,19.0,25.0,Regular Gasoline
+46423,Honda,Pilot AWD Touring/Elite/Black,2023,21.0,19.0,25.0,Regular Gasoline
+47183,Honda,Pilot AWD Touring/Elite/Black,2024,21.0,19.0,25.0,Regular Gasoline
+47754,Honda,Pilot AWD Touring/Elite/Black,2025,21.0,19.0,25.0,Regular Gasoline
+44712,Honda,Pilot AWD TrailSport,2022,21.0,19.0,25.0,Regular Gasoline
+46424,Honda,Pilot AWD TrailSport,2023,20.0,18.0,23.0,Regular Gasoline
+47184,Honda,Pilot AWD TrailSport,2024,20.0,18.0,23.0,Regular Gasoline
+47755,Honda,Pilot AWD TrailSport,2025,20.0,18.0,23.0,Regular Gasoline
+41754,Honda,Pilot FWD,2020,23.0,20.0,27.0,Regular Gasoline
+41755,Honda,Pilot FWD,2020,22.0,19.0,27.0,Regular Gasoline
+42575,Honda,Pilot FWD,2021,23.0,20.0,27.0,Regular Gasoline
+44308,Honda,Pilot FWD,2022,23.0,20.0,27.0,Regular Gasoline
+46374,Honda,Pilot FWD,2023,22.0,19.0,27.0,Regular Gasoline
+47135,Honda,Pilot FWD,2024,22.0,19.0,27.0,Regular Gasoline
+47728,Honda,Pilot FWD,2025,22.0,19.0,27.0,Regular Gasoline
+42400,Honda,Ridgeline AWD,2020,21.0,19.0,24.0,Regular Gasoline
+43723,Honda,Ridgeline AWD,2021,21.0,18.0,24.0,Regular Gasoline
+44431,Honda,Ridgeline AWD,2022,21.0,18.0,24.0,Regular Gasoline
+45739,Honda,Ridgeline AWD,2023,21.0,18.0,24.0,Regular Gasoline
+47618,Honda,Ridgeline AWD,2024,21.0,18.0,24.0,Regular Gasoline
+48246,Honda,Ridgeline AWD,2025,21.0,18.0,24.0,Regular Gasoline
+47619,Honda,Ridgeline AWD TrailSport,2024,20.0,18.0,23.0,Regular Gasoline
+48247,Honda,Ridgeline AWD TrailSport,2025,20.0,18.0,23.0,Regular Gasoline
+42397,Honda,Ridgeline FWD,2020,22.0,19.0,26.0,Regular Gasoline
+43079,Lexus,ES 250 AWD,2021,28.0,25.0,34.0,Regular Gasoline
+44456,Lexus,ES 250 AWD,2022,28.0,25.0,34.0,Regular Gasoline
+45861,Lexus,ES 250 AWD,2023,28.0,25.0,34.0,Regular Gasoline
+46794,Lexus,ES 250 AWD,2024,28.0,25.0,34.0,Regular Gasoline
+48183,Lexus,ES 250 AWD,2025,28.0,24.0,33.0,Regular Gasoline
+41913,Lexus,ES 300h,2020,44.0,43.0,44.0,Regular Gasoline
+43078,Lexus,ES 300h,2021,44.0,43.0,44.0,Regular Gasoline
+44457,Lexus,ES 300h,2022,44.0,43.0,44.0,Regular Gasoline
+45862,Lexus,ES 300h,2023,44.0,43.0,44.0,Regular Gasoline
+46795,Lexus,ES 300h,2024,44.0,43.0,44.0,Regular Gasoline
+48184,Lexus,ES 300h,2025,44.0,43.0,44.0,Regular Gasoline
+41911,Lexus,ES 350,2020,26.0,22.0,32.0,Regular Gasoline
+43076,Lexus,ES 350,2021,26.0,22.0,32.0,Regular Gasoline
+44454,Lexus,ES 350,2022,26.0,22.0,32.0,Regular Gasoline
+45935,Lexus,ES 350,2023,26.0,22.0,32.0,Regular Gasoline
+46792,Lexus,ES 350,2024,26.0,22.0,32.0,Regular Gasoline
+48181,Lexus,ES 350,2025,25.0,22.0,32.0,Regular Gasoline
+41912,Lexus,ES 350 F Sport,2020,25.0,22.0,31.0,Regular Gasoline
+43077,Lexus,ES 350 F Sport,2021,25.0,22.0,31.0,Regular Gasoline
+44455,Lexus,ES 350 F Sport,2022,25.0,22.0,31.0,Regular Gasoline
+45936,Lexus,ES 350 F Sport,2023,25.0,22.0,31.0,Regular Gasoline
+46793,Lexus,ES 350 F Sport,2024,25.0,22.0,31.0,Regular Gasoline
+48182,Lexus,ES 350 F Sport,2025,25.0,22.0,31.0,Regular Gasoline
+42128,Lexus,GS 350,2020,23.0,20.0,28.0,Premium Gasoline
+42129,Lexus,GS 350 AWD,2020,21.0,19.0,26.0,Premium Gasoline
+42130,Lexus,GS 350 F Sport,2020,22.0,19.0,27.0,Premium Gasoline
+42120,Lexus,GS F,2020,19.0,16.0,24.0,Premium Gasoline
+42106,Lexus,GX 460,2020,16.0,15.0,19.0,Premium Gasoline
+42978,Lexus,GX 460,2021,16.0,15.0,19.0,Premium Gasoline
+44439,Lexus,GX 460,2022,16.0,15.0,19.0,Premium Gasoline
+45852,Lexus,GX 460,2023,16.0,15.0,19.0,Premium Gasoline
+47686,Lexus,GX 550,2024,17.0,15.0,21.0,Premium Gasoline
+48964,Lexus,GX 550,2025,17.0,15.0,21.0,Premium Gasoline
+42121,Lexus,IS 300,2020,24.0,21.0,30.0,Premium Gasoline
+43346,Lexus,IS 300,2021,25.0,21.0,31.0,Premium Gasoline
+44537,Lexus,IS 300,2022,25.0,21.0,31.0,Premium Gasoline
+45928,Lexus,IS 300,2023,25.0,21.0,31.0,Premium Gasoline
+47329,Lexus,IS 300,2024,25.0,21.0,31.0,Premium Gasoline
+48847,Lexus,IS 300,2025,25.0,21.0,31.0,Premium Gasoline
+42117,Lexus,IS 300 AWD,2020,21.0,18.0,24.0,Premium Gasoline
+43343,Lexus,IS 300 AWD,2021,22.0,19.0,26.0,Premium Gasoline
+44534,Lexus,IS 300 AWD,2022,22.0,19.0,26.0,Premium Gasoline
+45924,Lexus,IS 300 AWD,2023,22.0,19.0,26.0,Premium Gasoline
+47325,Lexus,IS 300 AWD,2024,22.0,19.0,26.0,Premium Gasoline
+48843,Lexus,IS 300 AWD,2025,22.0,19.0,26.0,Premium Gasoline
+42118,Lexus,IS 350,2020,23.0,20.0,28.0,Premium Gasoline
+43344,Lexus,IS 350,2021,23.0,20.0,28.0,Premium Gasoline
+44535,Lexus,IS 350,2022,23.0,20.0,28.0,Premium Gasoline
+45925,Lexus,IS 350,2023,23.0,20.0,28.0,Premium Gasoline
+47326,Lexus,IS 350,2024,23.0,20.0,28.0,Premium Gasoline
+48844,Lexus,IS 350,2025,23.0,20.0,28.0,Premium Gasoline
+42119,Lexus,IS 350 AWD,2020,21.0,19.0,26.0,Premium Gasoline
+43345,Lexus,IS 350 AWD,2021,22.0,19.0,26.0,Premium Gasoline
+44536,Lexus,IS 350 AWD,2022,22.0,19.0,26.0,Premium Gasoline
+45926,Lexus,IS 350 AWD,2023,22.0,19.0,26.0,Premium Gasoline
+47327,Lexus,IS 350 AWD,2024,22.0,19.0,26.0,Premium Gasoline
+48845,Lexus,IS 350 AWD,2025,22.0,19.0,26.0,Premium Gasoline
+44538,Lexus,IS 500,2022,20.0,17.0,25.0,Premium Gasoline
+45927,Lexus,IS 500,2023,20.0,17.0,25.0,Premium Gasoline
+47328,Lexus,IS 500,2024,20.0,17.0,25.0,Premium Gasoline
+48846,Lexus,IS 500,2025,20.0,17.0,25.0,Premium Gasoline
+41551,Lexus,LC 500,2020,19.0,16.0,25.0,Premium Gasoline
+42592,Lexus,LC 500,2021,19.0,16.0,25.0,Premium Gasoline
+44692,Lexus,LC 500,2022,19.0,16.0,25.0,Premium Gasoline
+46044,Lexus,LC 500,2023,19.0,16.0,25.0,Premium Gasoline
+46651,Lexus,LC 500,2024,18.0,16.0,24.0,Premium Gasoline
+48829,Lexus,LC 500,2025,18.0,16.0,24.0,Premium Gasoline
+42795,Lexus,LC 500 Convertible,2021,18.0,15.0,25.0,Premium Gasoline
+44691,Lexus,LC 500 Convertible,2022,18.0,15.0,25.0,Premium Gasoline
+46039,Lexus,LC 500 Convertible,2023,18.0,15.0,25.0,Premium Gasoline
+46637,Lexus,LC 500 Convertible,2024,18.0,15.0,25.0,Premium Gasoline
+48817,Lexus,LC 500 Convertible,2025,18.0,15.0,25.0,Premium Gasoline
+41552,Lexus,LC 500h,2020,30.0,27.0,35.0,Premium Gasoline
+42591,Lexus,LC 500h,2021,29.0,26.0,34.0,Premium Gasoline
+44693,Lexus,LC 500h,2022,29.0,26.0,34.0,Premium Gasoline
+46122,Lexus,LC 500h,2023,29.0,26.0,33.0,Premium Gasoline
+46650,Lexus,LC 500h,2024,29.0,26.0,33.0,Premium Gasoline
+48830,Lexus,LC 500h,2025,29.0,26.0,33.0,Premium Gasoline
+42133,Lexus,LS 500,2020,23.0,19.0,30.0,Premium Gasoline
+43489,Lexus,LS 500,2021,22.0,18.0,29.0,Premium Gasoline
+44863,Lexus,LS 500,2022,22.0,18.0,29.0,Premium Gasoline
+46135,Lexus,LS 500,2023,22.0,18.0,29.0,Premium Gasoline
+47352,Lexus,LS 500,2024,22.0,18.0,29.0,Premium Gasoline
+48854,Lexus,LS 500,2025,22.0,18.0,29.0,Premium Gasoline
+42134,Lexus,LS 500 AWD,2020,21.0,18.0,27.0,Premium Gasoline
+43490,Lexus,LS 500 AWD,2021,21.0,17.0,27.0,Premium Gasoline
+44864,Lexus,LS 500 AWD,2022,21.0,17.0,27.0,Premium Gasoline
+46136,Lexus,LS 500 AWD,2023,21.0,17.0,27.0,Premium Gasoline
+47353,Lexus,LS 500 AWD,2024,21.0,17.0,27.0,Premium Gasoline
+48855,Lexus,LS 500 AWD,2025,21.0,17.0,27.0,Premium Gasoline
+42131,Lexus,LS 500h,2020,28.0,25.0,33.0,Premium Gasoline
+43742,Lexus,LS 500h,2021,28.0,25.0,33.0,Premium Gasoline
+46507,Lexus,LS 500h,2023,25.0,22.0,29.0,Premium Gasoline
+42132,Lexus,LS 500h AWD,2020,26.0,23.0,31.0,Premium Gasoline
+43743,Lexus,LS 500h AWD,2021,26.0,23.0,29.0,Premium Gasoline
+44862,Lexus,LS 500h AWD,2022,25.0,22.0,29.0,Premium Gasoline
+46134,Lexus,LS 500h AWD,2023,25.0,22.0,29.0,Premium Gasoline
+46508,Lexus,LS 500h AWD,2023,25.0,22.0,29.0,Premium Gasoline
+47351,Lexus,LS 500h AWD,2024,25.0,22.0,29.0,Premium Gasoline
+47577,Lexus,LS 500h AWD,2024,25.0,22.0,29.0,Premium Gasoline
+49141,Lexus,LS 500h AWD,2025,25.0,22.0,29.0,Premium Gasoline
+48853,Lexus,LS 500h AWD,2025,25.0,22.0,29.0,Premium Gasoline
+41976,Lexus,LX 570,2020,14.0,12.0,16.0,Premium Gasoline
+43031,Lexus,LX 570,2021,14.0,12.0,16.0,Premium Gasoline
+45010,Lexus,LX 600,2022,19.0,17.0,22.0,Premium Gasoline
+46243,Lexus,LX 600,2023,19.0,17.0,22.0,Premium Gasoline
+47435,Lexus,LX 600,2024,19.0,17.0,22.0,Premium Gasoline
+48965,Lexus,LX 600,2025,19.0,17.0,22.0,Premium Gasoline
+48966,Lexus,LX 700h,2025,20.0,19.0,22.0,Premium Gasoline
+44648,Lexus,NX 250,2022,28.0,26.0,33.0,Regular Gasoline
+46143,Lexus,NX 250,2023,28.0,26.0,33.0,Regular Gasoline
+46533,Lexus,NX 250,2024,28.0,26.0,33.0,Regular Gasoline
+47790,Lexus,NX 250,2025,28.0,26.0,33.0,Regular Gasoline
+44653,Lexus,NX 250 AWD,2022,28.0,25.0,32.0,Regular Gasoline
+46148,Lexus,NX 250 AWD,2023,28.0,25.0,32.0,Regular Gasoline
+46536,Lexus,NX 250 AWD,2024,28.0,25.0,32.0,Regular Gasoline
+47794,Lexus,NX 250 AWD,2025,28.0,25.0,32.0,Regular Gasoline
+41477,Lexus,NX 300,2020,25.0,22.0,28.0,Premium Gasoline
+42851,Lexus,NX 300,2021,25.0,22.0,28.0,Premium Gasoline
+41482,Lexus,NX 300 AWD,2020,24.0,22.0,28.0,Premium Gasoline
+42855,Lexus,NX 300 AWD,2021,24.0,22.0,28.0,Premium Gasoline
+41483,Lexus,NX 300 AWD F Sport,2020,24.0,22.0,27.0,Premium Gasoline
+42856,Lexus,NX 300 AWD F Sport,2021,24.0,22.0,27.0,Premium Gasoline
+41481,Lexus,NX 300h AWD,2020,31.0,33.0,30.0,Regular Gasoline
+42854,Lexus,NX 300h AWD,2021,31.0,33.0,30.0,Regular Gasoline
+44752,Lexus,NX 350 AWD,2022,25.0,22.0,29.0,Premium Gasoline
+44753,Lexus,NX 350 AWD,2022,25.0,22.0,28.0,Premium Gasoline
+46150,Lexus,NX 350 AWD,2023,25.0,22.0,29.0,Premium Gasoline
+46151,Lexus,NX 350 AWD,2023,25.0,22.0,28.0,Premium Gasoline
+46538,Lexus,NX 350 AWD,2024,24.0,21.0,28.0,Premium Gasoline
+47797,Lexus,NX 350 AWD,2025,24.0,21.0,28.0,Premium Gasoline
+46539,Lexus,NX 350 AWD F Sport,2024,24.0,21.0,28.0,Premium Gasoline
+47798,Lexus,NX 350 AWD F Sport,2025,24.0,21.0,28.0,Premium Gasoline
+44654,Lexus,NX 350h AWD,2022,39.0,41.0,37.0,Premium Gasoline
+46149,Lexus,NX 350h AWD,2023,39.0,41.0,37.0,Premium Gasoline
+46537,Lexus,NX 350h AWD,2024,39.0,41.0,37.0,Premium Gasoline
+47795,Lexus,NX 350h AWD,2025,39.0,41.0,37.0,Premium Gasoline
+42317,Lexus,RC 300,2020,24.0,21.0,30.0,Premium Gasoline
+43233,Lexus,RC 300,2021,25.0,21.0,31.0,Premium Gasoline
+44533,Lexus,RC 300,2022,25.0,21.0,31.0,Premium Gasoline
+46043,Lexus,RC 300,2023,25.0,21.0,31.0,Premium Gasoline
+47321,Lexus,RC 300,2024,25.0,21.0,31.0,Premium Gasoline
+48834,Lexus,RC 300,2025,25.0,21.0,31.0,Premium Gasoline
+42314,Lexus,RC 300 AWD,2020,21.0,18.0,24.0,Premium Gasoline
+43230,Lexus,RC 300 AWD,2021,22.0,19.0,26.0,Premium Gasoline
+44530,Lexus,RC 300 AWD,2022,22.0,19.0,26.0,Premium Gasoline
+46040,Lexus,RC 300 AWD,2023,22.0,19.0,26.0,Premium Gasoline
+47318,Lexus,RC 300 AWD,2024,22.0,19.0,26.0,Premium Gasoline
+48831,Lexus,RC 300 AWD,2025,22.0,19.0,26.0,Premium Gasoline
+42315,Lexus,RC 350,2020,23.0,20.0,28.0,Premium Gasoline
+43231,Lexus,RC 350,2021,23.0,20.0,28.0,Premium Gasoline
+44531,Lexus,RC 350,2022,23.0,20.0,28.0,Premium Gasoline
+46041,Lexus,RC 350,2023,23.0,20.0,28.0,Premium Gasoline
+47319,Lexus,RC 350,2024,23.0,20.0,28.0,Premium Gasoline
+48832,Lexus,RC 350,2025,23.0,20.0,28.0,Premium Gasoline
+42316,Lexus,RC 350 AWD,2020,21.0,19.0,26.0,Premium Gasoline
+43232,Lexus,RC 350 AWD,2021,22.0,19.0,26.0,Premium Gasoline
+44532,Lexus,RC 350 AWD,2022,22.0,19.0,26.0,Premium Gasoline
+46042,Lexus,RC 350 AWD,2023,22.0,19.0,26.0,Premium Gasoline
+47320,Lexus,RC 350 AWD,2024,22.0,19.0,26.0,Premium Gasoline
+48833,Lexus,RC 350 AWD,2025,22.0,19.0,26.0,Premium Gasoline
+41453,Lexus,RC F,2020,19.0,16.0,24.0,Premium Gasoline
+43234,Lexus,RC F,2021,19.0,16.0,24.0,Premium Gasoline
+44529,Lexus,RC F,2022,19.0,16.0,24.0,Premium Gasoline
+46350,Lexus,RC F,2023,19.0,16.0,24.0,Premium Gasoline
+47322,Lexus,RC F,2024,19.0,16.0,24.0,Premium Gasoline
+48835,Lexus,RC F,2025,19.0,16.0,24.0,Premium Gasoline
+41966,Lexus,RX 350,2020,23.0,20.0,27.0,Regular Gasoline
+43124,Lexus,RX 350,2021,23.0,20.0,27.0,Regular Gasoline
+44433,Lexus,RX 350,2022,23.0,20.0,27.0,Regular Gasoline
+46230,Lexus,RX 350,2023,25.0,22.0,29.0,Premium Gasoline
+47137,Lexus,RX 350,2024,25.0,22.0,29.0,Premium Gasoline
+48906,Lexus,RX 350,2025,25.0,22.0,29.0,Premium Gasoline
+41969,Lexus,RX 350 AWD,2020,22.0,19.0,26.0,Regular Gasoline
+43132,Lexus,RX 350 AWD,2021,22.0,19.0,26.0,Regular Gasoline
+44436,Lexus,RX 350 AWD,2022,22.0,19.0,26.0,Regular Gasoline
+46233,Lexus,RX 350 AWD,2023,24.0,21.0,28.0,Premium Gasoline
+47150,Lexus,RX 350 AWD,2024,24.0,21.0,28.0,Premium Gasoline
+48921,Lexus,RX 350 AWD,2025,24.0,21.0,28.0,Premium Gasoline
+41965,Lexus,RX 350 L,2020,22.0,19.0,26.0,Regular Gasoline
+42958,Lexus,RX 350 L,2021,22.0,19.0,26.0,Regular Gasoline
+44257,Lexus,RX 350 L,2022,22.0,19.0,26.0,Regular Gasoline
+41970,Lexus,RX 350 L AWD,2020,21.0,18.0,25.0,Regular Gasoline
+42967,Lexus,RX 350 L AWD,2021,21.0,18.0,25.0,Regular Gasoline
+44262,Lexus,RX 350 L AWD,2022,21.0,18.0,25.0,Regular Gasoline
+46392,Lexus,RX 350h AWD,2023,36.0,37.0,34.0,Premium Gasoline
+47149,Lexus,RX 350h AWD,2024,36.0,37.0,34.0,Premium Gasoline
+48920,Lexus,RX 350h AWD,2025,36.0,37.0,34.0,Premium Gasoline
+41974,Lexus,RX 450h AWD,2020,30.0,31.0,28.0,Premium Gasoline
+43140,Lexus,RX 450h AWD,2021,30.0,31.0,28.0,Premium Gasoline
+44438,Lexus,RX 450h AWD,2022,30.0,31.0,28.0,Premium Gasoline
+41975,Lexus,RX 450h L AWD,2020,29.0,29.0,28.0,Premium Gasoline
+42979,Lexus,RX 450h L AWD,2021,29.0,29.0,28.0,Premium Gasoline
+44263,Lexus,RX 450h L AWD,2022,29.0,29.0,28.0,Premium Gasoline
+46391,Lexus,RX 500h AWD,2023,27.0,27.0,28.0,Premium Gasoline
+47151,Lexus,RX 500h AWD,2024,27.0,27.0,28.0,Premium Gasoline
+48922,Lexus,RX 500h AWD,2025,27.0,27.0,28.0,Premium Gasoline
+47263,Lexus,TX 350,2024,23.0,21.0,27.0,Premium Gasoline
+48946,Lexus,TX 350,2025,23.0,21.0,27.0,Premium Gasoline
+47273,Lexus,TX 350 AWD,2024,23.0,20.0,26.0,Premium Gasoline
+48963,Lexus,TX 350 AWD,2025,23.0,20.0,26.0,Premium Gasoline
+47272,Lexus,TX 500h AWD,2024,27.0,27.0,28.0,Premium Gasoline
+48962,Lexus,TX 500h AWD,2025,27.0,27.0,28.0,Premium Gasoline
+42239,Lexus,UX 200,2020,33.0,29.0,37.0,Regular Gasoline
+43389,Lexus,UX 200,2021,32.0,29.0,37.0,Regular Gasoline
+44472,Lexus,UX 200,2022,32.0,29.0,37.0,Regular Gasoline
+42222,Lexus,UX 250h,2020,42.0,43.0,41.0,Regular Gasoline
+43387,Lexus,UX 250h,2021,42.0,43.0,41.0,Regular Gasoline
+44466,Lexus,UX 250h,2022,42.0,43.0,41.0,Regular Gasoline
+45605,Lexus,UX 250h,2023,42.0,43.0,41.0,Regular Gasoline
+46568,Lexus,UX 250h,2024,42.0,43.0,41.0,Regular Gasoline
+42223,Lexus,UX 250h AWD,2020,39.0,41.0,38.0,Regular Gasoline
+43388,Lexus,UX 250h AWD,2021,39.0,41.0,38.0,Regular Gasoline
+44467,Lexus,UX 250h AWD,2022,39.0,41.0,38.0,Regular Gasoline
+45606,Lexus,UX 250h AWD,2023,39.0,41.0,38.0,Regular Gasoline
+46569,Lexus,UX 250h AWD,2024,39.0,41.0,38.0,Regular Gasoline
+47708,Lexus,UX 300h,2025,43.0,45.0,41.0,Regular Gasoline
+47710,Lexus,UX 300h,2025,43.0,45.0,41.0,Regular Gasoline
+47711,Lexus,UX 300h AWD,2025,42.0,44.0,40.0,Regular Gasoline
+47709,Lexus,UX 300h AWD,2025,42.0,44.0,40.0,Regular Gasoline
+42116,Mercedes-Benz,A220,2020,28.0,24.0,35.0,Premium Gasoline
+43037,Mercedes-Benz,A220,2021,29.0,25.0,36.0,Premium Gasoline
+44465,Mercedes-Benz,A220,2022,28.0,24.0,35.0,Premium Gasoline
+42115,Mercedes-Benz,A220 4matic,2020,28.0,24.0,34.0,Premium Gasoline
+43036,Mercedes-Benz,A220 4matic,2021,28.0,25.0,34.0,Premium Gasoline
+44464,Mercedes-Benz,A220 4matic,2022,28.0,25.0,35.0,Premium Gasoline
+42460,Mercedes-Benz,AMG A35 4matic,2020,27.0,24.0,31.0,Premium Gasoline
+43148,Mercedes-Benz,AMG A35 4matic,2021,25.0,22.0,29.0,Premium Gasoline
+44616,Mercedes-Benz,AMG A35 4matic,2022,25.0,22.0,30.0,Premium Gasoline
+42226,Mercedes-Benz,AMG C43 4matic,2020,22.0,19.0,27.0,Premium Gasoline
+43535,Mercedes-Benz,AMG C43 4matic,2021,21.0,18.0,27.0,Premium Gasoline
+46555,Mercedes-Benz,AMG C43 4matic,2023,22.0,19.0,26.0,Premium Gasoline
+47569,Mercedes-Benz,AMG C43 4matic,2024,23.0,20.0,28.0,Premium Gasoline
+48171,Mercedes-Benz,AMG C43 4matic,2025,22.0,19.0,27.0,Premium Gasoline
+42219,Mercedes-Benz,AMG C43 4matic Convertible,2020,21.0,18.0,25.0,Premium Gasoline
+43528,Mercedes-Benz,AMG C43 4matic Convertible,2021,22.0,19.0,27.0,Premium Gasoline
+44861,Mercedes-Benz,AMG C43 4matic Convertible,2022,22.0,19.0,28.0,Premium Gasoline
+46217,Mercedes-Benz,AMG C43 4matic Convertible,2023,22.0,18.0,28.0,Premium Gasoline
+42218,Mercedes-Benz,AMG C43 4matic Coupe,2020,22.0,19.0,27.0,Premium Gasoline
+43527,Mercedes-Benz,AMG C43 4matic Coupe,2021,22.0,19.0,27.0,Premium Gasoline
+44860,Mercedes-Benz,AMG C43 4matic Coupe,2022,22.0,19.0,28.0,Premium Gasoline
+46123,Mercedes-Benz,AMG C43 4matic Coupe,2023,21.0,18.0,27.0,Premium Gasoline
+42224,Mercedes-Benz,AMG C63,2020,21.0,18.0,27.0,Premium Gasoline
+43531,Mercedes-Benz,AMG C63,2021,21.0,17.0,26.0,Premium Gasoline
+42215,Mercedes-Benz,AMG C63 Convertible,2020,20.0,17.0,24.0,Premium Gasoline
+43524,Mercedes-Benz,AMG C63 Convertible,2021,20.0,17.0,25.0,Premium Gasoline
+42217,Mercedes-Benz,AMG C63 Coupe,2020,20.0,17.0,26.0,Premium Gasoline
+43526,Mercedes-Benz,AMG C63 Coupe,2021,20.0,17.0,26.0,Premium Gasoline
+42225,Mercedes-Benz,AMG C63 S,2020,21.0,18.0,27.0,Premium Gasoline
+43532,Mercedes-Benz,AMG C63 S,2021,21.0,17.0,26.0,Premium Gasoline
+42214,Mercedes-Benz,AMG C63 S Convertible,2020,20.0,17.0,24.0,Premium Gasoline
+43523,Mercedes-Benz,AMG C63 S Convertible,2021,20.0,17.0,25.0,Premium Gasoline
+46431,Mercedes-Benz,AMG C63 S Convertible,2023,19.0,16.0,24.0,Premium Gasoline
+42216,Mercedes-Benz,AMG C63 S Coupe,2020,20.0,17.0,26.0,Premium Gasoline
+43525,Mercedes-Benz,AMG C63 S Coupe,2021,20.0,17.0,26.0,Premium Gasoline
+46432,Mercedes-Benz,AMG C63 S Coupe,2023,19.0,16.0,24.0,Premium Gasoline
+42417,Mercedes-Benz,AMG CLA35 4matic,2020,25.0,23.0,29.0,Premium Gasoline
+42929,Mercedes-Benz,AMG CLA35 4matic,2021,25.0,22.0,29.0,Premium Gasoline
+44755,Mercedes-Benz,AMG CLA35 4matic,2022,24.0,21.0,29.0,Premium Gasoline
+46263,Mercedes-Benz,AMG CLA35 4matic,2023,24.0,21.0,29.0,Premium Gasoline
+47334,Mercedes-Benz,AMG CLA35 4matic,2024,25.0,22.0,29.0,Premium Gasoline
+47927,Mercedes-Benz,AMG CLA35 4matic,2025,25.0,22.0,29.0,Premium Gasoline
+42651,Mercedes-Benz,AMG CLA45 4matic,2020,23.0,20.0,29.0,Premium Gasoline
+43564,Mercedes-Benz,AMG CLA45 4matic,2021,23.0,20.0,29.0,Premium Gasoline
+45064,Mercedes-Benz,AMG CLA45 4matic,2022,23.0,20.0,28.0,Premium Gasoline
+46219,Mercedes-Benz,AMG CLA45 4matic,2023,23.0,20.0,28.0,Premium Gasoline
+47335,Mercedes-Benz,AMG CLA45 S 4matic,2024,23.0,20.0,28.0,Premium Gasoline
+47994,Mercedes-Benz,AMG CLA45 S 4matic,2025,23.0,20.0,28.0,Premium Gasoline
+48486,Mercedes-Benz,AMG CLE53 4matic Plus (convertible),2025,22.0,19.0,26.0,Premium Gasoline
+48454,Mercedes-Benz,AMG CLE53 4matic Plus (coupe),2024,23.0,20.0,27.0,Premium Gasoline
+48487,Mercedes-Benz,AMG CLE53 4matic Plus (coupe),2025,23.0,20.0,27.0,Premium Gasoline
+41712,Mercedes-Benz,AMG CLS53 4matic Plus,2020,23.0,21.0,27.0,Premium Gasoline
+43349,Mercedes-Benz,AMG CLS53 4matic Plus,2021,23.0,21.0,26.0,Premium Gasoline
+41735,Mercedes-Benz,AMG E53 4matic Plus,2020,24.0,21.0,28.0,Premium Gasoline
+43360,Mercedes-Benz,AMG E53 4matic Plus,2021,25.0,22.0,29.0,Premium Gasoline
+44802,Mercedes-Benz,AMG E53 4matic Plus,2022,24.0,21.0,29.0,Premium Gasoline
+46222,Mercedes-Benz,AMG E53 4matic Plus,2023,24.0,21.0,29.0,Premium Gasoline
+41704,Mercedes-Benz,AMG E53 4matic Plus Convertible,2020,23.0,20.0,26.0,Premium Gasoline
+43339,Mercedes-Benz,AMG E53 4matic Plus Convertible,2021,23.0,21.0,27.0,Premium Gasoline
+44800,Mercedes-Benz,AMG E53 4matic Plus Convertible,2022,22.0,20.0,27.0,Premium Gasoline
+46215,Mercedes-Benz,AMG E53 4matic Plus Convertible,2023,23.0,20.0,27.0,Premium Gasoline
+41703,Mercedes-Benz,AMG E53 4matic Plus Coupe,2020,23.0,21.0,28.0,Premium Gasoline
+43336,Mercedes-Benz,AMG E53 4matic Plus Coupe,2021,24.0,21.0,28.0,Premium Gasoline
+44799,Mercedes-Benz,AMG E53 4matic Plus Coupe,2022,23.0,20.0,28.0,Premium Gasoline
+46214,Mercedes-Benz,AMG E53 4matic Plus Coupe,2023,23.0,20.0,28.0,Premium Gasoline
+42240,Mercedes-Benz,AMG E63 S 4matic Plus,2020,18.0,15.0,23.0,Premium Gasoline
+43537,Mercedes-Benz,AMG E63 S 4matic Plus,2021,18.0,16.0,23.0,Premium Gasoline
+46320,Mercedes-Benz,AMG E63 S 4matic Plus,2023,19.0,16.0,24.0,Premium Gasoline
+43541,Mercedes-Benz,AMG E63 S 4matic Plus (SW),2021,18.0,16.0,23.0,Premium Gasoline
+46323,Mercedes-Benz,AMG E63 S 4matic Plus (SW),2023,19.0,16.0,24.0,Premium Gasoline
+42252,Mercedes-Benz,AMG E63 S 4matic Plus (wagon),2020,19.0,16.0,23.0,Premium Gasoline
+46443,Mercedes-Benz,AMG G 63 4x4 Squared,2023,11.0,10.0,12.0,Premium Gasoline
+42190,Mercedes-Benz,AMG G63,2020,14.0,13.0,15.0,Premium Gasoline
+43556,Mercedes-Benz,AMG G63,2021,14.0,13.0,16.0,Premium Gasoline
+45599,Mercedes-Benz,AMG G63,2022,14.0,13.0,16.0,Premium Gasoline
+46442,Mercedes-Benz,AMG G63,2023,14.0,13.0,16.0,Premium Gasoline
+47688,Mercedes-Benz,AMG G63,2024,14.0,13.0,16.0,Premium Gasoline
+48570,Mercedes-Benz,AMG G63,2025,15.0,14.0,16.0,Premium Gasoline
+47689,Mercedes-Benz,AMG G63 4x4 Squared,2024,11.0,10.0,12.0,Premium Gasoline
+43059,Mercedes-Benz,AMG GLA35 4matic,2021,25.0,23.0,29.0,Premium Gasoline
+44626,Mercedes-Benz,AMG GLA35 4matic,2022,25.0,22.0,30.0,Premium Gasoline
+46286,Mercedes-Benz,AMG GLA35 4matic,2023,25.0,22.0,29.0,Premium Gasoline
+47360,Mercedes-Benz,AMG GLA35 4matic,2024,24.0,22.0,28.0,Premium Gasoline
+47944,Mercedes-Benz,AMG GLA35 4matic,2025,24.0,22.0,28.0,Premium Gasoline
+43572,Mercedes-Benz,AMG GLA45 4matic,2021,23.0,20.0,27.0,Premium Gasoline
+45086,Mercedes-Benz,AMG GLA45 4matic,2022,22.0,19.0,25.0,Premium Gasoline
+46223,Mercedes-Benz,AMG GLA45 4matic,2023,22.0,20.0,25.0,Premium Gasoline
+43573,Mercedes-Benz,AMG GLB35 4matic,2021,23.0,21.0,26.0,Premium Gasoline
+44848,Mercedes-Benz,AMG GLB35 4matic,2022,22.0,20.0,27.0,Premium Gasoline
+46287,Mercedes-Benz,AMG GLB35 4matic,2023,23.0,21.0,27.0,Premium Gasoline
+47361,Mercedes-Benz,AMG GLB35 4matic,2024,23.0,21.0,26.0,Premium Gasoline
+47945,Mercedes-Benz,AMG GLB35 4matic,2025,23.0,21.0,26.0,Premium Gasoline
+42263,Mercedes-Benz,AMG GLC43 4matic,2020,21.0,18.0,24.0,Premium Gasoline
+43547,Mercedes-Benz,AMG GLC43 4matic,2021,20.0,18.0,24.0,Premium Gasoline
+44918,Mercedes-Benz,AMG GLC43 4matic,2022,21.0,18.0,25.0,Premium Gasoline
+47663,Mercedes-Benz,AMG GLC43 4matic,2024,21.0,19.0,25.0,Premium Gasoline
+48196,Mercedes-Benz,AMG GLC43 4matic,2025,21.0,19.0,25.0,Premium Gasoline
+42264,Mercedes-Benz,AMG GLC43 4matic Coupe,2020,21.0,18.0,24.0,Premium Gasoline
+43548,Mercedes-Benz,AMG GLC43 4matic Coupe,2021,20.0,17.0,24.0,Premium Gasoline
+44957,Mercedes-Benz,AMG GLC43 4matic Coupe,2022,19.0,16.0,24.0,Premium Gasoline
+46152,Mercedes-Benz,AMG GLC43 4matic Coupe,2023,20.0,17.0,24.0,Premium Gasoline
+47664,Mercedes-Benz,AMG GLC43 4matic Coupe,2024,21.0,18.0,24.0,Premium Gasoline
+48197,Mercedes-Benz,AMG GLC43 4matic Coupe,2025,21.0,18.0,24.0,Premium Gasoline
+42206,Mercedes-Benz,AMG GLC63 4matic Plus,2020,18.0,16.0,22.0,Premium Gasoline
+43549,Mercedes-Benz,AMG GLC63 4matic Plus,2021,17.0,15.0,22.0,Premium Gasoline
+42207,Mercedes-Benz,AMG GLC63 4matic Plus Coupe,2020,18.0,16.0,22.0,Premium Gasoline
+43550,Mercedes-Benz,AMG GLC63 4matic Plus Coupe,2021,17.0,15.0,22.0,Premium Gasoline
+42208,Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,2020,18.0,16.0,22.0,Premium Gasoline
+43551,Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,2021,17.0,15.0,22.0,Premium Gasoline
+42693,Mercedes-Benz,AMG GLE53 4matic Plus,2021,19.0,18.0,22.0,Premium Gasoline
+44675,Mercedes-Benz,AMG GLE53 4matic Plus,2022,19.0,18.0,22.0,Premium Gasoline
+45893,Mercedes-Benz,AMG GLE53 4matic Plus,2023,19.0,18.0,22.0,Premium Gasoline
+46610,Mercedes-Benz,AMG GLE53 4matic Plus,2024,20.0,18.0,23.0,Premium Gasoline
+48143,Mercedes-Benz,AMG GLE53 4matic Plus,2025,20.0,18.0,23.0,Premium Gasoline
+42694,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2021,20.0,18.0,23.0,Premium Gasoline
+44834,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2022,19.0,17.0,21.0,Premium Gasoline
+45894,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2023,19.0,17.0,21.0,Premium Gasoline
+46611,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2024,20.0,18.0,22.0,Premium Gasoline
+48144,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,2025,20.0,18.0,22.0,Premium Gasoline
+42873,Mercedes-Benz,AMG GLE63 S 4matic Plus,2021,16.0,15.0,19.0,Premium Gasoline
+45593,Mercedes-Benz,AMG GLE63 S 4matic Plus,2022,16.0,15.0,19.0,Premium Gasoline
+46298,Mercedes-Benz,AMG GLE63 S 4matic Plus,2023,17.0,15.0,20.0,Premium Gasoline
+46752,Mercedes-Benz,AMG GLE63 S 4matic Plus,2024,16.0,15.0,19.0,Premium Gasoline
+48135,Mercedes-Benz,AMG GLE63 S 4matic Plus,2025,16.0,14.0,19.0,Premium Gasoline
+43552,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2021,17.0,15.0,19.0,Premium Gasoline
+45592,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2022,16.0,15.0,19.0,Premium Gasoline
+46297,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2023,17.0,15.0,19.0,Premium Gasoline
+46751,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2024,16.0,15.0,19.0,Premium Gasoline
+48134,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,2025,16.0,14.0,19.0,Premium Gasoline
+42980,Mercedes-Benz,AMG GLS63 4matic Plus,2021,16.0,14.0,18.0,Premium Gasoline
+45594,Mercedes-Benz,AMG GLS63 4matic Plus,2022,15.0,14.0,18.0,Premium Gasoline
+46299,Mercedes-Benz,AMG GLS63 4matic Plus,2023,16.0,14.0,19.0,Premium Gasoline
+46900,Mercedes-Benz,AMG GLS63 4matic Plus,2024,16.0,14.0,18.0,Premium Gasoline
+48136,Mercedes-Benz,AMG GLS63 4matic Plus,2025,15.0,14.0,18.0,Premium Gasoline
+48488,Mercedes-Benz,AMG GT 43 (coupe),2025,22.0,19.0,27.0,Premium Gasoline
+43350,Mercedes-Benz,AMG GT 43 4matic Plus,2021,22.0,20.0,25.0,Premium Gasoline
+44831,Mercedes-Benz,AMG GT 43 4matic Plus,2022,21.0,19.0,25.0,Premium Gasoline
+46220,Mercedes-Benz,AMG GT 43 4matic Plus,2023,21.0,19.0,24.0,Premium Gasoline
+47051,Mercedes-Benz,AMG GT 43 4matic Plus,2024,21.0,19.0,24.0,Premium Gasoline
+48867,Mercedes-Benz,AMG GT 43 4matic Plus,2025,21.0,19.0,24.0,Premium Gasoline
+41715,Mercedes-Benz,AMG GT 53 4matic Plus,2020,21.0,19.0,24.0,Premium Gasoline
+43351,Mercedes-Benz,AMG GT 53 4matic Plus,2021,22.0,20.0,25.0,Premium Gasoline
+44801,Mercedes-Benz,AMG GT 53 4matic Plus,2022,21.0,19.0,25.0,Premium Gasoline
+46221,Mercedes-Benz,AMG GT 53 4matic Plus,2023,21.0,19.0,24.0,Premium Gasoline
+47052,Mercedes-Benz,AMG GT 53 4matic Plus,2024,21.0,19.0,24.0,Premium Gasoline
+48868,Mercedes-Benz,AMG GT 53 4matic Plus,2025,21.0,19.0,24.0,Premium Gasoline
+47564,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),2024,16.0,13.0,20.0,Premium Gasoline
+48582,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),2025,14.0,12.0,19.0,Premium Gasoline
+42122,Mercedes-Benz,AMG GT 63 4matic Plus,2020,17.0,15.0,20.0,Premium Gasoline
+43565,Mercedes-Benz,AMG GT 63 4matic Plus,2021,18.0,16.0,21.0,Premium Gasoline
+46318,Mercedes-Benz,AMG GT 63 4matic Plus,2023,17.0,15.0,21.0,Premium Gasoline
+47338,Mercedes-Benz,AMG GT 63 4matic Plus,2024,17.0,15.0,21.0,Premium Gasoline
+48848,Mercedes-Benz,AMG GT 63 4matic Plus,2025,17.0,15.0,21.0,Premium Gasoline
+47565,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),2024,16.0,13.0,20.0,Premium Gasoline
+48583,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),2025,14.0,12.0,19.0,Premium Gasoline
+48804,Mercedes-Benz,AMG GT 63 PRO 4matic Plus (coupe),2025,14.0,12.0,19.0,Premium Gasoline
+42123,Mercedes-Benz,AMG GT 63 S 4matic Plus,2020,17.0,15.0,20.0,Premium Gasoline
+43536,Mercedes-Benz,AMG GT 63 S 4matic Plus,2021,18.0,16.0,21.0,Premium Gasoline
+46319,Mercedes-Benz,AMG GT 63 S 4matic Plus,2023,17.0,15.0,21.0,Premium Gasoline
+43741,Mercedes-Benz,AMG GT Black Series,2021,17.0,15.0,20.0,Premium Gasoline
+41596,Mercedes-Benz,AMG GT C Coupe,2020,17.0,15.0,21.0,Premium Gasoline
+43519,Mercedes-Benz,AMG GT C Coupe,2021,17.0,15.0,19.0,Premium Gasoline
+42062,Mercedes-Benz,AMG GT C Roadster,2020,17.0,15.0,20.0,Premium Gasoline
+43522,Mercedes-Benz,AMG GT C Roadster,2021,17.0,15.0,20.0,Premium Gasoline
+41516,Mercedes-Benz,AMG GT Coupe,2020,18.0,16.0,22.0,Premium Gasoline
+43518,Mercedes-Benz,AMG GT Coupe,2021,17.0,15.0,20.0,Premium Gasoline
+42090,Mercedes-Benz,AMG GT R Coupe,2020,17.0,15.0,20.0,Premium Gasoline
+43520,Mercedes-Benz,AMG GT R Coupe,2021,16.0,14.0,20.0,Premium Gasoline
+42091,Mercedes-Benz,AMG GT R Roadster,2020,17.0,15.0,20.0,Premium Gasoline
+41517,Mercedes-Benz,AMG GT Roadster,2020,18.0,16.0,22.0,Premium Gasoline
+43521,Mercedes-Benz,AMG GT Roadster,2021,17.0,15.0,20.0,Premium Gasoline
+42198,Mercedes-Benz,AMG S63 4matic Plus,2020,20.0,17.0,26.0,Premium Gasoline
+42194,Mercedes-Benz,AMG S63 4matic Plus Convertible,2020,18.0,15.0,24.0,Premium Gasoline
+43530,Mercedes-Benz,AMG S63 4matic Plus Convertible,2021,17.0,14.0,24.0,Premium Gasoline
+42196,Mercedes-Benz,AMG S63 4matic Plus Coupe,2020,20.0,17.0,27.0,Premium Gasoline
+43534,Mercedes-Benz,AMG S63 4matic Plus Coupe,2021,19.0,16.0,26.0,Premium Gasoline
+42393,Mercedes-Benz,AMG S65,2020,16.0,13.0,22.0,Premium Gasoline
+47507,Mercedes-Benz,AMG SL43,2023,23.0,21.0,27.0,Premium Gasoline
+47551,Mercedes-Benz,AMG SL43,2024,22.0,20.0,27.0,Premium Gasoline
+48481,Mercedes-Benz,AMG SL43,2025,22.0,19.0,27.0,Premium Gasoline
+45397,Mercedes-Benz,AMG SL55 4matic Plus,2022,16.0,14.0,21.0,Premium Gasoline
+46430,Mercedes-Benz,AMG SL55 4matic Plus,2023,16.0,13.0,21.0,Premium Gasoline
+47553,Mercedes-Benz,AMG SL55 4matic Plus,2024,16.0,14.0,21.0,Premium Gasoline
+48483,Mercedes-Benz,AMG SL55 4matic Plus,2025,16.0,13.0,21.0,Premium Gasoline
+45396,Mercedes-Benz,AMG SL63 4matic Plus,2022,16.0,14.0,21.0,Premium Gasoline
+46429,Mercedes-Benz,AMG SL63 4matic Plus,2023,16.0,14.0,22.0,Premium Gasoline
+47552,Mercedes-Benz,AMG SL63 4matic Plus,2024,16.0,14.0,21.0,Premium Gasoline
+48482,Mercedes-Benz,AMG SL63 4matic Plus,2025,16.0,13.0,21.0,Premium Gasoline
+42211,Mercedes-Benz,AMG SLC43,2020,23.0,20.0,29.0,Premium Gasoline
+41888,Mercedes-Benz,C300,2020,28.0,24.0,35.0,Premium Gasoline
+43515,Mercedes-Benz,C300,2021,27.0,23.0,35.0,Premium Gasoline
+45315,Mercedes-Benz,C300,2022,29.0,25.0,35.0,Premium Gasoline
+46048,Mercedes-Benz,C300,2023,29.0,25.0,36.0,Premium Gasoline
+47235,Mercedes-Benz,C300,2024,30.0,26.0,36.0,Premium Gasoline
+47992,Mercedes-Benz,C300,2025,29.0,25.0,35.0,Premium Gasoline
+41887,Mercedes-Benz,C300 4matic,2020,26.0,23.0,33.0,Premium Gasoline
+43348,Mercedes-Benz,C300 4matic,2021,27.0,23.0,33.0,Premium Gasoline
+45322,Mercedes-Benz,C300 4matic,2022,27.0,23.0,33.0,Premium Gasoline
+46049,Mercedes-Benz,C300 4matic,2023,27.0,24.0,33.0,Premium Gasoline
+47333,Mercedes-Benz,C300 4matic,2024,27.0,23.0,33.0,Premium Gasoline
+47993,Mercedes-Benz,C300 4matic,2025,27.0,24.0,33.0,Premium Gasoline
+41909,Mercedes-Benz,C300 4matic Convertible,2020,24.0,21.0,29.0,Premium Gasoline
+43334,Mercedes-Benz,C300 4matic Convertible,2021,25.0,22.0,30.0,Premium Gasoline
+44845,Mercedes-Benz,C300 4matic Convertible,2022,24.0,21.0,30.0,Premium Gasoline
+45922,Mercedes-Benz,C300 4matic Convertible,2023,25.0,21.0,30.0,Premium Gasoline
+41908,Mercedes-Benz,C300 4matic Coupe,2020,25.0,21.0,30.0,Premium Gasoline
+43333,Mercedes-Benz,C300 4matic Coupe,2021,26.0,23.0,32.0,Premium Gasoline
+44844,Mercedes-Benz,C300 4matic Coupe,2022,25.0,22.0,31.0,Premium Gasoline
+45921,Mercedes-Benz,C300 4matic Coupe,2023,25.0,22.0,31.0,Premium Gasoline
+41910,Mercedes-Benz,C300 Convertible,2020,24.0,21.0,29.0,Premium Gasoline
+43335,Mercedes-Benz,C300 Convertible,2021,26.0,23.0,31.0,Premium Gasoline
+44859,Mercedes-Benz,C300 Convertible,2022,24.0,21.0,28.0,Premium Gasoline
+45923,Mercedes-Benz,C300 Convertible,2023,24.0,21.0,29.0,Premium Gasoline
+41907,Mercedes-Benz,C300 Coupe,2020,25.0,22.0,31.0,Premium Gasoline
+43332,Mercedes-Benz,C300 Coupe,2021,27.0,24.0,33.0,Premium Gasoline
+44887,Mercedes-Benz,C300 Coupe,2022,25.0,22.0,31.0,Premium Gasoline
+45920,Mercedes-Benz,C300 Coupe,2023,25.0,22.0,31.0,Premium Gasoline
+41997,Mercedes-Benz,CLA250,2020,28.0,25.0,35.0,Premium Gasoline
+42931,Mercedes-Benz,CLA250,2021,29.0,25.0,35.0,Premium Gasoline
+44469,Mercedes-Benz,CLA250,2022,29.0,25.0,36.0,Premium Gasoline
+45718,Mercedes-Benz,CLA250,2023,29.0,25.0,36.0,Premium Gasoline
+47337,Mercedes-Benz,CLA250,2024,30.0,26.0,36.0,Premium Gasoline
+47929,Mercedes-Benz,CLA250,2025,30.0,26.0,36.0,Premium Gasoline
+41996,Mercedes-Benz,CLA250 4matic,2020,27.0,23.0,33.0,Premium Gasoline
+42930,Mercedes-Benz,CLA250 4matic,2021,27.0,24.0,33.0,Premium Gasoline
+44468,Mercedes-Benz,CLA250 4matic,2022,27.0,24.0,33.0,Premium Gasoline
+45717,Mercedes-Benz,CLA250 4matic,2023,27.0,24.0,33.0,Premium Gasoline
+47336,Mercedes-Benz,CLA250 4matic,2024,28.0,25.0,35.0,Premium Gasoline
+47928,Mercedes-Benz,CLA250 4matic,2025,29.0,25.0,34.0,Premium Gasoline
+47561,Mercedes-Benz,CLE300 4matic (Convertible),2024,26.0,23.0,32.0,Premium Gasoline
+48156,Mercedes-Benz,CLE300 4matic (Convertible),2025,26.0,23.0,32.0,Premium Gasoline
+47760,Mercedes-Benz,CLE300 4matic (Coupe),2024,28.0,24.0,34.0,Premium Gasoline
+48157,Mercedes-Benz,CLE300 4matic (Coupe),2025,27.0,24.0,33.0,Premium Gasoline
+47562,Mercedes-Benz,CLE450 4matic (Convertible),2024,26.0,23.0,32.0,Premium Gasoline
+48158,Mercedes-Benz,CLE450 4matic (Convertible),2025,26.0,23.0,32.0,Premium Gasoline
+47563,Mercedes-Benz,CLE450 4matic (Coupe),2024,26.0,23.0,33.0,Premium Gasoline
+48159,Mercedes-Benz,CLE450 4matic (Coupe),2025,26.0,23.0,33.0,Premium Gasoline
+41713,Mercedes-Benz,CLS450,2020,26.0,24.0,31.0,Premium Gasoline
+43242,Mercedes-Benz,CLS450,2021,26.0,23.0,30.0,Premium Gasoline
+41714,Mercedes-Benz,CLS450 4matic,2020,26.0,23.0,30.0,Premium Gasoline
+43243,Mercedes-Benz,CLS450 4matic,2021,25.0,22.0,29.0,Premium Gasoline
+44623,Mercedes-Benz,CLS450 4matic,2022,25.0,22.0,30.0,Premium Gasoline
+46050,Mercedes-Benz,CLS450 4matic,2023,25.0,22.0,30.0,Premium Gasoline
+41962,Mercedes-Benz,E350,2020,26.0,23.0,32.0,Premium Gasoline
+43080,Mercedes-Benz,E350,2021,25.0,22.0,31.0,Premium Gasoline
+44758,Mercedes-Benz,E350,2022,26.0,23.0,31.0,Premium Gasoline
+45941,Mercedes-Benz,E350,2023,26.0,23.0,31.0,Premium Gasoline
+48498,Mercedes-Benz,E350,2025,28.0,25.0,33.0,Premium Gasoline
+42005,Mercedes-Benz,E350 4matic,2020,25.0,22.0,30.0,Premium Gasoline
+43081,Mercedes-Benz,E350 4matic,2021,25.0,22.0,30.0,Premium Gasoline
+44701,Mercedes-Benz,E350 4matic,2022,24.0,21.0,29.0,Premium Gasoline
+45942,Mercedes-Benz,E350 4matic,2023,24.0,21.0,30.0,Premium Gasoline
+47579,Mercedes-Benz,E350 4matic,2024,27.0,24.0,33.0,Premium Gasoline
+48499,Mercedes-Benz,E350 4matic,2025,27.0,24.0,33.0,Premium Gasoline
+41809,Mercedes-Benz,E450 4matic,2020,23.0,20.0,28.0,Premium Gasoline
+43181,Mercedes-Benz,E450 4matic,2021,26.0,23.0,30.0,Premium Gasoline
+44625,Mercedes-Benz,E450 4matic,2022,25.0,23.0,30.0,Premium Gasoline
+46055,Mercedes-Benz,E450 4matic,2023,26.0,23.0,31.0,Premium Gasoline
+47578,Mercedes-Benz,E450 4matic,2024,25.0,22.0,31.0,Premium Gasoline
+48185,Mercedes-Benz,E450 4matic,2025,25.0,22.0,31.0,Premium Gasoline
+41817,Mercedes-Benz,E450 4matic (station wagon),2020,22.0,19.0,26.0,Premium Gasoline
+43156,Mercedes-Benz,E450 4matic All-Terrain (wagon),2021,24.0,22.0,28.0,Premium Gasoline
+44627,Mercedes-Benz,E450 4matic All-Terrain (wagon),2022,24.0,21.0,28.0,Premium Gasoline
+46058,Mercedes-Benz,E450 4matic All-Terrain (wagon),2023,24.0,21.0,28.0,Premium Gasoline
+47586,Mercedes-Benz,E450 4matic All-Terrain (wagon),2024,25.0,22.0,31.0,Premium Gasoline
+48198,Mercedes-Benz,E450 4matic All-Terrain (wagon),2025,25.0,22.0,31.0,Premium Gasoline
+41795,Mercedes-Benz,E450 4matic Convertible,2020,22.0,19.0,26.0,Premium Gasoline
+43341,Mercedes-Benz,E450 4matic Convertible,2021,25.0,23.0,29.0,Premium Gasoline
+44697,Mercedes-Benz,E450 4matic Convertible,2022,24.0,22.0,29.0,Premium Gasoline
+46047,Mercedes-Benz,E450 4matic Convertible,2023,24.0,22.0,29.0,Premium Gasoline
+41793,Mercedes-Benz,E450 4matic Coupe,2020,22.0,19.0,26.0,Premium Gasoline
+43338,Mercedes-Benz,E450 4matic Coupe,2021,25.0,23.0,30.0,Premium Gasoline
+44695,Mercedes-Benz,E450 4matic Coupe,2022,24.0,21.0,30.0,Premium Gasoline
+46046,Mercedes-Benz,E450 4matic Coupe,2023,24.0,21.0,30.0,Premium Gasoline
+41794,Mercedes-Benz,E450 Convertible,2020,23.0,20.0,27.0,Premium Gasoline
+43340,Mercedes-Benz,E450 Convertible,2021,25.0,23.0,30.0,Premium Gasoline
+44696,Mercedes-Benz,E450 Convertible,2022,25.0,22.0,29.0,Premium Gasoline
+46216,Mercedes-Benz,E450 Convertible,2023,25.0,22.0,29.0,Premium Gasoline
+41792,Mercedes-Benz,E450 Coupe,2020,23.0,20.0,28.0,Premium Gasoline
+43337,Mercedes-Benz,E450 Coupe,2021,26.0,23.0,31.0,Premium Gasoline
+44694,Mercedes-Benz,E450 Coupe,2022,25.0,22.0,29.0,Premium Gasoline
+46045,Mercedes-Benz,E450 Coupe,2023,25.0,23.0,30.0,Premium Gasoline
+42272,Mercedes-Benz,G550,2020,14.0,13.0,17.0,Premium Gasoline
+43579,Mercedes-Benz,G550,2021,18.0,17.0,19.0,Premium Gasoline
+45598,Mercedes-Benz,G550,2022,16.0,14.0,17.0,Premium Gasoline
+46244,Mercedes-Benz,G550,2023,14.0,13.0,16.0,Premium Gasoline
+47436,Mercedes-Benz,G550,2024,14.0,13.0,16.0,Premium Gasoline
+48145,Mercedes-Benz,G550,2025,18.0,17.0,19.0,Premium Gasoline
+42039,Mercedes-Benz,GLA250,2020,28.0,24.0,34.0,Premium Gasoline
+42728,Mercedes-Benz,GLA250,2021,28.0,25.0,34.0,Premium Gasoline
+44641,Mercedes-Benz,GLA250,2022,28.0,24.0,34.0,Premium Gasoline
+45742,Mercedes-Benz,GLA250,2023,28.0,24.0,34.0,Premium Gasoline
+47372,Mercedes-Benz,GLA250,2024,28.0,25.0,34.0,Premium Gasoline
+47947,Mercedes-Benz,GLA250,2025,29.0,26.0,34.0,Premium Gasoline
+42046,Mercedes-Benz,GLA250 4matic,2020,25.0,22.0,30.0,Premium Gasoline
+42730,Mercedes-Benz,GLA250 4matic,2021,27.0,24.0,33.0,Premium Gasoline
+44655,Mercedes-Benz,GLA250 4matic,2022,26.0,23.0,32.0,Premium Gasoline
+45744,Mercedes-Benz,GLA250 4matic,2023,26.0,23.0,32.0,Premium Gasoline
+47385,Mercedes-Benz,GLA250 4matic,2024,27.0,24.0,32.0,Premium Gasoline
+47963,Mercedes-Benz,GLA250 4matic,2025,28.0,25.0,33.0,Premium Gasoline
+42180,Mercedes-Benz,GLB250,2020,26.0,23.0,30.0,Premium Gasoline
+42729,Mercedes-Benz,GLB250,2021,26.0,23.0,31.0,Premium Gasoline
+44852,Mercedes-Benz,GLB250,2022,27.0,24.0,32.0,Premium Gasoline
+45743,Mercedes-Benz,GLB250,2023,27.0,24.0,32.0,Premium Gasoline
+47373,Mercedes-Benz,GLB250,2024,28.0,25.0,33.0,Premium Gasoline
+47948,Mercedes-Benz,GLB250,2025,28.0,25.0,33.0,Premium Gasoline
+42184,Mercedes-Benz,GLB250 4matic,2020,26.0,23.0,31.0,Premium Gasoline
+43136,Mercedes-Benz,GLB250 4matic,2021,26.0,23.0,30.0,Premium Gasoline
+44855,Mercedes-Benz,GLB250 4matic,2022,25.0,22.0,30.0,Premium Gasoline
+45698,Mercedes-Benz,GLB250 4matic,2023,25.0,22.0,30.0,Premium Gasoline
+47386,Mercedes-Benz,GLB250 4matic,2024,27.0,24.0,32.0,Premium Gasoline
+47964,Mercedes-Benz,GLB250 4matic,2025,27.0,24.0,33.0,Premium Gasoline
+41872,Mercedes-Benz,GLC300,2020,24.0,22.0,29.0,Premium Gasoline
+43274,Mercedes-Benz,GLC300,2021,25.0,22.0,29.0,Premium Gasoline
+44707,Mercedes-Benz,GLC300,2022,24.0,22.0,27.0,Premium Gasoline
+47516,Mercedes-Benz,GLC300,2023,28.0,25.0,32.0,Premium Gasoline
+47256,Mercedes-Benz,GLC300,2024,29.0,26.0,33.0,Premium Gasoline
+49145,Mercedes-Benz,GLC300,2025,27.0,24.0,32.0,Premium Gasoline
+41877,Mercedes-Benz,GLC300 4matic,2020,24.0,21.0,28.0,Premium Gasoline
+43280,Mercedes-Benz,GLC300 4matic,2021,23.0,21.0,28.0,Premium Gasoline
+44718,Mercedes-Benz,GLC300 4matic,2022,24.0,21.0,28.0,Premium Gasoline
+47518,Mercedes-Benz,GLC300 4matic,2023,26.0,23.0,31.0,Premium Gasoline
+47261,Mercedes-Benz,GLC300 4matic,2024,27.0,24.0,32.0,Premium Gasoline
+48275,Mercedes-Benz,GLC300 4matic,2025,26.0,23.0,31.0,Premium Gasoline
+41896,Mercedes-Benz,GLC300 4matic Coupe,2020,24.0,21.0,28.0,Premium Gasoline
+43281,Mercedes-Benz,GLC300 4matic Coupe,2021,24.0,22.0,28.0,Premium Gasoline
+44719,Mercedes-Benz,GLC300 4matic Coupe,2022,23.0,21.0,27.0,Premium Gasoline
+45979,Mercedes-Benz,GLC300 4matic Coupe,2023,22.0,20.0,26.0,Premium Gasoline
+47262,Mercedes-Benz,GLC300 4matic Coupe,2024,26.0,24.0,30.0,Premium Gasoline
+48276,Mercedes-Benz,GLC300 4matic Coupe,2025,26.0,23.0,31.0,Premium Gasoline
+41680,Mercedes-Benz,GLE350,2020,22.0,20.0,27.0,Premium Gasoline
+43021,Mercedes-Benz,GLE350,2021,22.0,19.0,26.0,Premium Gasoline
+44553,Mercedes-Benz,GLE350,2022,22.0,19.0,27.0,Premium Gasoline
+45957,Mercedes-Benz,GLE350,2023,22.0,20.0,25.0,Premium Gasoline
+46599,Mercedes-Benz,GLE350,2024,24.0,21.0,28.0,Premium Gasoline
+48614,Mercedes-Benz,GLE350,2025,23.0,21.0,28.0,Premium Gasoline
+41233,Mercedes-Benz,GLE350 4matic,2020,22.0,19.0,26.0,Premium Gasoline
+43022,Mercedes-Benz,GLE350 4matic,2021,22.0,19.0,26.0,Premium Gasoline
+44554,Mercedes-Benz,GLE350 4matic,2022,22.0,19.0,26.0,Premium Gasoline
+45958,Mercedes-Benz,GLE350 4matic,2023,21.0,20.0,24.0,Premium Gasoline
+46600,Mercedes-Benz,GLE350 4matic,2024,23.0,20.0,27.0,Premium Gasoline
+48106,Mercedes-Benz,GLE350 4matic,2025,22.0,19.0,26.0,Premium Gasoline
+41234,Mercedes-Benz,GLE450 4matic,2020,21.0,19.0,24.0,Premium Gasoline
+43169,Mercedes-Benz,GLE450 4matic,2021,23.0,21.0,26.0,Premium Gasoline
+44606,Mercedes-Benz,GLE450 4matic,2022,22.0,20.0,25.0,Premium Gasoline
+45220,Mercedes-Benz,GLE450 4matic,2022,22.0,20.0,26.0,Premium Gasoline
+45853,Mercedes-Benz,GLE450 4matic,2023,22.0,20.0,25.0,Premium Gasoline
+46609,Mercedes-Benz,GLE450 4matic,2024,22.0,19.0,26.0,Premium Gasoline
+48140,Mercedes-Benz,GLE450 4matic,2025,21.0,19.0,25.0,Premium Gasoline
+48141,Mercedes-Benz,GLE450 4matic (coupe),2025,21.0,19.0,25.0,Premium Gasoline
+42352,Mercedes-Benz,GLE580 4matic,2020,19.0,17.0,21.0,Premium Gasoline
+43554,Mercedes-Benz,GLE580 4matic,2021,19.0,17.0,22.0,Premium Gasoline
+45596,Mercedes-Benz,GLE580 4matic,2022,18.0,16.0,21.0,Premium Gasoline
+46301,Mercedes-Benz,GLE580 4matic,2023,18.0,16.0,21.0,Premium Gasoline
+46901,Mercedes-Benz,GLE580 4matic,2024,17.0,15.0,20.0,Premium Gasoline
+48138,Mercedes-Benz,GLE580 4matic,2025,17.0,15.0,20.0,Premium Gasoline
+41788,Mercedes-Benz,GLS450 4matic,2020,21.0,19.0,23.0,Premium Gasoline
+43170,Mercedes-Benz,GLS450 4matic,2021,21.0,20.0,24.0,Premium Gasoline
+44607,Mercedes-Benz,GLS450 4matic,2022,20.0,18.0,24.0,Premium Gasoline
+45892,Mercedes-Benz,GLS450 4matic,2023,20.0,18.0,23.0,Premium Gasoline
+46903,Mercedes-Benz,GLS450 4matic,2024,21.0,19.0,24.0,Premium Gasoline
+48142,Mercedes-Benz,GLS450 4matic,2025,21.0,19.0,24.0,Premium Gasoline
+42353,Mercedes-Benz,GLS580 4matic,2020,18.0,16.0,21.0,Premium Gasoline
+43555,Mercedes-Benz,GLS580 4matic,2021,18.0,16.0,21.0,Premium Gasoline
+45597,Mercedes-Benz,GLS580 4matic,2022,18.0,16.0,21.0,Premium Gasoline
+46302,Mercedes-Benz,GLS580 4matic,2023,18.0,16.0,21.0,Premium Gasoline
+46902,Mercedes-Benz,GLS580 4matic,2024,16.0,14.0,20.0,Premium Gasoline
+48139,Mercedes-Benz,GLS580 4matic,2025,16.0,14.0,19.0,Premium Gasoline
+43553,Mercedes-Benz,GLS600 4matic Maybach,2021,16.0,15.0,19.0,Premium Gasoline
+45595,Mercedes-Benz,GLS600 4matic Maybach,2022,17.0,14.0,20.0,Premium Gasoline
+46300,Mercedes-Benz,GLS600 4matic Maybach,2023,17.0,15.0,20.0,Premium Gasoline
+47208,Mercedes-Benz,GLS600 4matic Maybach,2024,16.0,14.0,19.0,Premium Gasoline
+48137,Mercedes-Benz,GLS600 4matic Maybach,2025,15.0,13.0,18.0,Premium Gasoline
+42392,Mercedes-Benz,Maybach S650,2020,16.0,13.0,21.0,Premium Gasoline
+45591,Mercedes-Benz,Maybach S680 4matic,2022,15.0,12.0,21.0,Premium Gasoline
+46458,Mercedes-Benz,Maybach S680 4matic,2023,14.0,12.0,20.0,Premium Gasoline
+47585,Mercedes-Benz,Maybach S680 4matic,2024,15.0,12.0,20.0,Premium Gasoline
+48506,Mercedes-Benz,Maybach S680 4matic,2025,15.0,12.0,20.0,Premium Gasoline
+41934,Mercedes-Benz,Metris (Cargo Van),2020,22.0,20.0,24.0,Premium Gasoline
+41931,Mercedes-Benz,Metris (Cargo Van),2020,22.0,21.0,24.0,Premium Gasoline
+43620,Mercedes-Benz,Metris (Cargo Van),2021,21.0,19.0,23.0,Premium Gasoline
+44952,Mercedes-Benz,Metris (Cargo Van),2022,21.0,19.0,23.0,Premium Gasoline
+46060,Mercedes-Benz,Metris (Cargo Van),2023,20.0,19.0,23.0,Premium Gasoline
+41935,Mercedes-Benz,"Metris (Cargo Van, LWB)",2020,22.0,20.0,24.0,Premium Gasoline
+41932,Mercedes-Benz,"Metris (Cargo Van, LWB)",2020,22.0,21.0,24.0,Premium Gasoline
+43621,Mercedes-Benz,"Metris (Cargo Van, LWB)",2021,21.0,19.0,23.0,Premium Gasoline
+44953,Mercedes-Benz,"Metris (Cargo Van, LWB)",2022,21.0,19.0,23.0,Premium Gasoline
+46061,Mercedes-Benz,"Metris (Cargo Van, LWB)",2023,20.0,19.0,23.0,Premium Gasoline
+41933,Mercedes-Benz,Metris (Passenger Van),2020,21.0,19.0,23.0,Premium Gasoline
+41930,Mercedes-Benz,Metris (Passenger Van),2020,21.0,20.0,24.0,Premium Gasoline
+43619,Mercedes-Benz,Metris (Passenger Van),2021,19.0,18.0,22.0,Premium Gasoline
+44951,Mercedes-Benz,Metris (Passenger Van),2022,19.0,18.0,22.0,Premium Gasoline
+46059,Mercedes-Benz,Metris (Passenger Van),2023,19.0,18.0,22.0,Premium Gasoline
+44954,Mercedes-Benz,Metris (US Postal Long),2022,22.0,20.0,25.0,Premium Gasoline
+45976,Mercedes-Benz,Metris (US Postal Long),2023,21.0,19.0,25.0,Premium Gasoline
+44955,Mercedes-Benz,Metris (US Postal),2022,22.0,20.0,25.0,Premium Gasoline
+45977,Mercedes-Benz,Metris (US Postal),2023,21.0,19.0,25.0,Premium Gasoline
+41815,Mercedes-Benz,S450,2020,22.0,19.0,28.0,Premium Gasoline
+41816,Mercedes-Benz,S450 4matic,2020,22.0,18.0,28.0,Premium Gasoline
+44090,Mercedes-Benz,S500 4matic,2021,24.0,20.0,29.0,Premium Gasoline
+44761,Mercedes-Benz,S500 4matic,2022,24.0,21.0,30.0,Premium Gasoline
+45904,Mercedes-Benz,S500 4matic,2023,23.0,20.0,28.0,Premium Gasoline
+47584,Mercedes-Benz,S500 4matic,2024,24.0,21.0,31.0,Premium Gasoline
+48193,Mercedes-Benz,S500 4matic,2025,24.0,21.0,31.0,Premium Gasoline
+42197,Mercedes-Benz,S560,2020,21.0,17.0,27.0,Premium Gasoline
+42199,Mercedes-Benz,S560 4matic,2020,21.0,17.0,27.0,Premium Gasoline
+42195,Mercedes-Benz,S560 4matic Coupe,2020,20.0,17.0,26.0,Premium Gasoline
+43533,Mercedes-Benz,S560 4matic Coupe,2021,20.0,16.0,26.0,Premium Gasoline
+42200,Mercedes-Benz,S560 4matic Maybach,2020,19.0,16.0,25.0,Premium Gasoline
+42193,Mercedes-Benz,S560 Convertible,2020,20.0,17.0,26.0,Premium Gasoline
+43529,Mercedes-Benz,S560 Convertible,2021,20.0,16.0,26.0,Premium Gasoline
+44163,Mercedes-Benz,S580 4matic,2021,20.0,17.0,25.0,Premium Gasoline
+44893,Mercedes-Benz,S580 4matic,2022,19.0,16.0,25.0,Premium Gasoline
+46057,Mercedes-Benz,S580 4matic,2023,19.0,16.0,25.0,Premium Gasoline
+47248,Mercedes-Benz,S580 4matic,2024,21.0,18.0,27.0,Premium Gasoline
+48600,Mercedes-Benz,S580 4matic,2025,20.0,17.0,25.0,Premium Gasoline
+44162,Mercedes-Benz,S580 4matic Maybach,2021,19.0,16.0,24.0,Premium Gasoline
+44892,Mercedes-Benz,S580 4matic Maybach,2022,18.0,15.0,24.0,Premium Gasoline
+46056,Mercedes-Benz,S580 4matic Maybach,2023,18.0,15.0,25.0,Premium Gasoline
+47247,Mercedes-Benz,S580 4matic Maybach,2024,21.0,18.0,26.0,Premium Gasoline
+48599,Mercedes-Benz,S580 4matic Maybach,2025,20.0,16.0,27.0,Premium Gasoline
+41790,Mercedes-Benz,SL450,2020,22.0,20.0,28.0,Premium Gasoline
+41789,Mercedes-Benz,SL550,2020,20.0,17.0,25.0,Premium Gasoline
+42385,Mercedes-Benz,SLC300,2020,27.0,23.0,32.0,Premium Gasoline
+43217,Porsche,718 Boxster,2021,24.0,21.0,27.0,Premium Gasoline
+43216,Porsche,718 Boxster,2021,22.0,20.0,26.0,Premium Gasoline
+44504,Porsche,718 Boxster,2022,24.0,21.0,27.0,Premium Gasoline
+44503,Porsche,718 Boxster,2022,22.0,20.0,26.0,Premium Gasoline
+45966,Porsche,718 Boxster,2023,22.0,20.0,25.0,Premium Gasoline
+45910,Porsche,718 Boxster,2023,24.0,21.0,27.0,Premium Gasoline
+47020,Porsche,718 Boxster,2024,24.0,21.0,27.0,Premium Gasoline
+47019,Porsche,718 Boxster,2024,22.0,20.0,25.0,Premium Gasoline
+48808,Porsche,718 Boxster,2025,22.0,20.0,25.0,Premium Gasoline
+48809,Porsche,718 Boxster,2025,24.0,21.0,27.0,Premium Gasoline
+43581,Porsche,718 Boxster GTS,2021,21.0,19.0,24.0,Premium Gasoline
+43580,Porsche,718 Boxster GTS,2021,19.0,17.0,24.0,Premium Gasoline
+44509,Porsche,718 Boxster GTS,2022,19.0,17.0,24.0,Premium Gasoline
+44510,Porsche,718 Boxster GTS,2022,21.0,19.0,24.0,Premium Gasoline
+45968,Porsche,718 Boxster GTS,2023,21.0,19.0,24.0,Premium Gasoline
+45967,Porsche,718 Boxster GTS,2023,19.0,17.0,24.0,Premium Gasoline
+47025,Porsche,718 Boxster GTS,2024,19.0,17.0,24.0,Premium Gasoline
+47026,Porsche,718 Boxster GTS,2024,21.0,19.0,24.0,Premium Gasoline
+48585,Porsche,718 Boxster GTS,2025,21.0,19.0,24.0,Premium Gasoline
+48584,Porsche,718 Boxster GTS,2025,19.0,17.0,24.0,Premium Gasoline
+43221,Porsche,718 Boxster S,2021,22.0,19.0,25.0,Premium Gasoline
+43220,Porsche,718 Boxster S,2021,21.0,19.0,24.0,Premium Gasoline
+44508,Porsche,718 Boxster S,2022,22.0,19.0,25.0,Premium Gasoline
+44507,Porsche,718 Boxster S,2022,21.0,19.0,24.0,Premium Gasoline
+45912,Porsche,718 Boxster S,2023,21.0,19.0,24.0,Premium Gasoline
+45913,Porsche,718 Boxster S,2023,22.0,19.0,25.0,Premium Gasoline
+47024,Porsche,718 Boxster S,2024,22.0,19.0,25.0,Premium Gasoline
+47023,Porsche,718 Boxster S,2024,21.0,19.0,24.0,Premium Gasoline
+48812,Porsche,718 Boxster S,2025,21.0,19.0,24.0,Premium Gasoline
+48813,Porsche,718 Boxster S,2025,22.0,19.0,25.0,Premium Gasoline
+43225,Porsche,718 Boxster T,2021,23.0,21.0,27.0,Premium Gasoline
+43224,Porsche,718 Boxster T,2021,22.0,20.0,26.0,Premium Gasoline
+44517,Porsche,718 Boxster T,2022,22.0,20.0,26.0,Premium Gasoline
+44518,Porsche,718 Boxster T,2022,23.0,21.0,27.0,Premium Gasoline
+45917,Porsche,718 Boxster T,2023,23.0,21.0,27.0,Premium Gasoline
+45916,Porsche,718 Boxster T,2023,22.0,20.0,26.0,Premium Gasoline
+43218,Porsche,718 Cayman,2021,22.0,20.0,26.0,Premium Gasoline
+43219,Porsche,718 Cayman,2021,24.0,21.0,27.0,Premium Gasoline
+44505,Porsche,718 Cayman,2022,22.0,20.0,26.0,Premium Gasoline
+44506,Porsche,718 Cayman,2022,24.0,21.0,27.0,Premium Gasoline
+46087,Porsche,718 Cayman,2023,22.0,20.0,25.0,Premium Gasoline
+45911,Porsche,718 Cayman,2023,24.0,21.0,27.0,Premium Gasoline
+47021,Porsche,718 Cayman,2024,22.0,20.0,25.0,Premium Gasoline
+47022,Porsche,718 Cayman,2024,24.0,21.0,27.0,Premium Gasoline
+48811,Porsche,718 Cayman,2025,24.0,21.0,27.0,Premium Gasoline
+48810,Porsche,718 Cayman,2025,22.0,20.0,25.0,Premium Gasoline
+42578,Porsche,718 Cayman GT4,2020,19.0,16.0,23.0,Premium Gasoline
+43587,Porsche,718 Cayman GT4,2021,20.0,18.0,24.0,Premium Gasoline
+43586,Porsche,718 Cayman GT4,2021,19.0,17.0,23.0,Premium Gasoline
+44520,Porsche,718 Cayman GT4,2022,20.0,18.0,24.0,Premium Gasoline
+44519,Porsche,718 Cayman GT4,2022,19.0,17.0,23.0,Premium Gasoline
+45974,Porsche,718 Cayman GT4,2023,20.0,18.0,24.0,Premium Gasoline
+45973,Porsche,718 Cayman GT4,2023,19.0,17.0,23.0,Premium Gasoline
+43585,Porsche,718 Cayman GTS,2021,21.0,19.0,24.0,Premium Gasoline
+43584,Porsche,718 Cayman GTS,2021,19.0,17.0,24.0,Premium Gasoline
+44514,Porsche,718 Cayman GTS,2022,21.0,19.0,24.0,Premium Gasoline
+44513,Porsche,718 Cayman GTS,2022,19.0,17.0,24.0,Premium Gasoline
+45972,Porsche,718 Cayman GTS,2023,21.0,19.0,24.0,Premium Gasoline
+45971,Porsche,718 Cayman GTS,2023,19.0,17.0,24.0,Premium Gasoline
+47027,Porsche,718 Cayman GTS,2024,19.0,17.0,24.0,Premium Gasoline
+47028,Porsche,718 Cayman GTS,2024,21.0,19.0,24.0,Premium Gasoline
+48587,Porsche,718 Cayman GTS,2025,21.0,19.0,24.0,Premium Gasoline
+48586,Porsche,718 Cayman GTS,2025,19.0,17.0,24.0,Premium Gasoline
+43222,Porsche,718 Cayman S,2021,21.0,19.0,24.0,Premium Gasoline
+43223,Porsche,718 Cayman S,2021,22.0,19.0,25.0,Premium Gasoline
+44516,Porsche,718 Cayman S,2022,22.0,19.0,25.0,Premium Gasoline
+44515,Porsche,718 Cayman S,2022,21.0,19.0,24.0,Premium Gasoline
+45914,Porsche,718 Cayman S,2023,21.0,19.0,24.0,Premium Gasoline
+45915,Porsche,718 Cayman S,2023,22.0,19.0,25.0,Premium Gasoline
+47030,Porsche,718 Cayman S,2024,22.0,19.0,25.0,Premium Gasoline
+47029,Porsche,718 Cayman S,2024,21.0,19.0,24.0,Premium Gasoline
+48814,Porsche,718 Cayman S,2025,21.0,19.0,24.0,Premium Gasoline
+48815,Porsche,718 Cayman S,2025,22.0,19.0,25.0,Premium Gasoline
+43227,Porsche,718 Cayman T,2021,23.0,21.0,27.0,Premium Gasoline
+43226,Porsche,718 Cayman T,2021,22.0,20.0,26.0,Premium Gasoline
+44522,Porsche,718 Cayman T,2022,23.0,21.0,27.0,Premium Gasoline
+44521,Porsche,718 Cayman T,2022,22.0,20.0,26.0,Premium Gasoline
+45918,Porsche,718 Cayman T,2023,22.0,20.0,26.0,Premium Gasoline
+45919,Porsche,718 Cayman T,2023,23.0,21.0,27.0,Premium Gasoline
+45858,Porsche,718 GT4 RS,2023,16.0,15.0,19.0,Premium Gasoline
+47031,Porsche,718 GT4 RS,2024,16.0,15.0,19.0,Premium Gasoline
+48816,Porsche,718 GT4 RS,2025,16.0,15.0,19.0,Premium Gasoline
+42577,Porsche,718 Spyder,2020,19.0,16.0,23.0,Premium Gasoline
+43582,Porsche,718 Spyder,2021,19.0,17.0,23.0,Premium Gasoline
+43583,Porsche,718 Spyder,2021,20.0,18.0,24.0,Premium Gasoline
+44512,Porsche,718 Spyder,2022,20.0,18.0,24.0,Premium Gasoline
+44511,Porsche,718 Spyder,2022,19.0,17.0,23.0,Premium Gasoline
+45970,Porsche,718 Spyder,2023,20.0,18.0,24.0,Premium Gasoline
+45969,Porsche,718 Spyder,2023,19.0,17.0,23.0,Premium Gasoline
+47759,Porsche,718 Spyder RS,2024,16.0,14.0,19.0,Premium Gasoline
+49032,Porsche,718 Spyder RS,2025,16.0,14.0,19.0,Premium Gasoline
+42408,Porsche,911 Carrera,2020,20.0,18.0,24.0,Premium Gasoline
+43500,Porsche,911 Carrera,2021,20.0,18.0,24.0,Premium Gasoline
+44415,Porsche,911 Carrera,2022,20.0,18.0,24.0,Premium Gasoline
+46090,Porsche,911 Carrera,2023,20.0,18.0,24.0,Premium Gasoline
+47290,Porsche,911 Carrera,2024,20.0,18.0,24.0,Premium Gasoline
+48589,Porsche,911 Carrera,2025,21.0,18.0,25.0,Premium Gasoline
+42412,Porsche,911 Carrera 4,2020,20.0,18.0,24.0,Premium Gasoline
+43506,Porsche,911 Carrera 4,2021,20.0,18.0,24.0,Premium Gasoline
+44425,Porsche,911 Carrera 4,2022,20.0,18.0,24.0,Premium Gasoline
+46100,Porsche,911 Carrera 4,2023,20.0,18.0,24.0,Premium Gasoline
+47300,Porsche,911 Carrera 4,2024,20.0,18.0,24.0,Premium Gasoline
+42413,Porsche,911 Carrera 4 Cabriolet,2020,20.0,18.0,24.0,Premium Gasoline
+43507,Porsche,911 Carrera 4 Cabriolet,2021,20.0,18.0,24.0,Premium Gasoline
+44426,Porsche,911 Carrera 4 Cabriolet,2022,20.0,18.0,24.0,Premium Gasoline
+46101,Porsche,911 Carrera 4 Cabriolet,2023,20.0,18.0,24.0,Premium Gasoline
+47301,Porsche,911 Carrera 4 Cabriolet,2024,20.0,18.0,24.0,Premium Gasoline
+45121,Porsche,911 Carrera 4 GTS,2022,19.0,17.0,23.0,Premium Gasoline
+45122,Porsche,911 Carrera 4 GTS,2022,19.0,17.0,23.0,Premium Gasoline
+46109,Porsche,911 Carrera 4 GTS,2023,19.0,17.0,23.0,Premium Gasoline
+46110,Porsche,911 Carrera 4 GTS,2023,19.0,17.0,23.0,Premium Gasoline
+47310,Porsche,911 Carrera 4 GTS,2024,19.0,17.0,23.0,Premium Gasoline
+47311,Porsche,911 Carrera 4 GTS,2024,19.0,17.0,23.0,Premium Gasoline
+49037,Porsche,911 Carrera 4 GTS,2025,19.0,17.0,23.0,Premium Gasoline
+45123,Porsche,911 Carrera 4 GTS Cabriolet,2022,19.0,17.0,22.0,Premium Gasoline
+45124,Porsche,911 Carrera 4 GTS Cabriolet,2022,19.0,16.0,23.0,Premium Gasoline
+46112,Porsche,911 Carrera 4 GTS Cabriolet,2023,19.0,16.0,23.0,Premium Gasoline
+46111,Porsche,911 Carrera 4 GTS Cabriolet,2023,19.0,17.0,22.0,Premium Gasoline
+47313,Porsche,911 Carrera 4 GTS Cabriolet,2024,19.0,16.0,23.0,Premium Gasoline
+47312,Porsche,911 Carrera 4 GTS Cabriolet,2024,19.0,17.0,22.0,Premium Gasoline
+49038,Porsche,911 Carrera 4 GTS Cabriolet,2025,19.0,17.0,23.0,Premium Gasoline
+42414,Porsche,911 Carrera 4S,2020,20.0,17.0,24.0,Premium Gasoline
+41983,Porsche,911 Carrera 4S,2020,20.0,18.0,23.0,Premium Gasoline
+43508,Porsche,911 Carrera 4S,2021,20.0,17.0,25.0,Premium Gasoline
+43509,Porsche,911 Carrera 4S,2021,20.0,18.0,23.0,Premium Gasoline
+44422,Porsche,911 Carrera 4S,2022,20.0,18.0,23.0,Premium Gasoline
+44421,Porsche,911 Carrera 4S,2022,20.0,17.0,25.0,Premium Gasoline
+46097,Porsche,911 Carrera 4S,2023,20.0,18.0,23.0,Premium Gasoline
+46096,Porsche,911 Carrera 4S,2023,20.0,17.0,25.0,Premium Gasoline
+47296,Porsche,911 Carrera 4S,2024,20.0,17.0,25.0,Premium Gasoline
+47297,Porsche,911 Carrera 4S,2024,20.0,18.0,23.0,Premium Gasoline
+42415,Porsche,911 Carrera 4S Cabriolet,2020,20.0,17.0,24.0,Premium Gasoline
+42063,Porsche,911 Carrera 4S Cabriolet,2020,20.0,18.0,23.0,Premium Gasoline
+43510,Porsche,911 Carrera 4S Cabriolet,2021,20.0,17.0,24.0,Premium Gasoline
+43511,Porsche,911 Carrera 4S Cabriolet,2021,20.0,18.0,23.0,Premium Gasoline
+44423,Porsche,911 Carrera 4S Cabriolet,2022,20.0,17.0,24.0,Premium Gasoline
+44424,Porsche,911 Carrera 4S Cabriolet,2022,20.0,18.0,23.0,Premium Gasoline
+46098,Porsche,911 Carrera 4S Cabriolet,2023,20.0,17.0,24.0,Premium Gasoline
+46099,Porsche,911 Carrera 4S Cabriolet,2023,20.0,18.0,23.0,Premium Gasoline
+47299,Porsche,911 Carrera 4S Cabriolet,2024,20.0,18.0,23.0,Premium Gasoline
+47298,Porsche,911 Carrera 4S Cabriolet,2024,20.0,17.0,24.0,Premium Gasoline
+42409,Porsche,911 Carrera Cabriolet,2020,20.0,17.0,24.0,Premium Gasoline
+43501,Porsche,911 Carrera Cabriolet,2021,20.0,18.0,24.0,Premium Gasoline
+44416,Porsche,911 Carrera Cabriolet,2022,20.0,18.0,24.0,Premium Gasoline
+46091,Porsche,911 Carrera Cabriolet,2023,20.0,18.0,24.0,Premium Gasoline
+47291,Porsche,911 Carrera Cabriolet,2024,20.0,18.0,24.0,Premium Gasoline
+48590,Porsche,911 Carrera Cabriolet,2025,21.0,18.0,25.0,Premium Gasoline
+45190,Porsche,911 Carrera GTS,2022,19.0,17.0,23.0,Premium Gasoline
+45120,Porsche,911 Carrera GTS,2022,20.0,17.0,24.0,Premium Gasoline
+46106,Porsche,911 Carrera GTS,2023,20.0,17.0,24.0,Premium Gasoline
+46105,Porsche,911 Carrera GTS,2023,19.0,17.0,23.0,Premium Gasoline
+47307,Porsche,911 Carrera GTS,2024,20.0,17.0,24.0,Premium Gasoline
+47306,Porsche,911 Carrera GTS,2024,19.0,17.0,23.0,Premium Gasoline
+49135,Porsche,911 Carrera GTS,2025,20.0,17.0,24.0,Premium Gasoline
+45191,Porsche,911 Carrera GTS Cabriolet,2022,19.0,17.0,23.0,Premium Gasoline
+45192,Porsche,911 Carrera GTS Cabriolet,2022,20.0,17.0,24.0,Premium Gasoline
+46107,Porsche,911 Carrera GTS Cabriolet,2023,19.0,17.0,23.0,Premium Gasoline
+46108,Porsche,911 Carrera GTS Cabriolet,2023,20.0,17.0,24.0,Premium Gasoline
+47309,Porsche,911 Carrera GTS Cabriolet,2024,20.0,17.0,24.0,Premium Gasoline
+47308,Porsche,911 Carrera GTS Cabriolet,2024,19.0,17.0,23.0,Premium Gasoline
+49035,Porsche,911 Carrera GTS Cabriolet,2025,19.0,17.0,23.0,Premium Gasoline
+41981,Porsche,911 Carrera S,2020,20.0,18.0,24.0,Premium Gasoline
+42410,Porsche,911 Carrera S,2020,20.0,17.0,25.0,Premium Gasoline
+43502,Porsche,911 Carrera S,2021,21.0,18.0,25.0,Premium Gasoline
+43503,Porsche,911 Carrera S,2021,20.0,18.0,23.0,Premium Gasoline
+44417,Porsche,911 Carrera S,2022,21.0,18.0,25.0,Premium Gasoline
+44418,Porsche,911 Carrera S,2022,20.0,18.0,23.0,Premium Gasoline
+46093,Porsche,911 Carrera S,2023,20.0,18.0,23.0,Premium Gasoline
+46092,Porsche,911 Carrera S,2023,21.0,18.0,25.0,Premium Gasoline
+47293,Porsche,911 Carrera S,2024,20.0,18.0,23.0,Premium Gasoline
+47292,Porsche,911 Carrera S,2024,21.0,18.0,25.0,Premium Gasoline
+49133,Porsche,911 Carrera S,2025,20.0,17.0,24.0,Premium Gasoline
+41982,Porsche,911 Carrera S Cabriolet,2020,20.0,18.0,23.0,Premium Gasoline
+42411,Porsche,911 Carrera S Cabriolet,2020,20.0,17.0,25.0,Premium Gasoline
+43504,Porsche,911 Carrera S Cabriolet,2021,20.0,17.0,25.0,Premium Gasoline
+43505,Porsche,911 Carrera S Cabriolet,2021,20.0,18.0,23.0,Premium Gasoline
+44419,Porsche,911 Carrera S Cabriolet,2022,20.0,17.0,25.0,Premium Gasoline
+44420,Porsche,911 Carrera S Cabriolet,2022,20.0,18.0,23.0,Premium Gasoline
+46095,Porsche,911 Carrera S Cabriolet,2023,20.0,18.0,23.0,Premium Gasoline
+46094,Porsche,911 Carrera S Cabriolet,2023,20.0,17.0,25.0,Premium Gasoline
+47294,Porsche,911 Carrera S Cabriolet,2024,20.0,17.0,25.0,Premium Gasoline
+47295,Porsche,911 Carrera S Cabriolet,2024,20.0,18.0,23.0,Premium Gasoline
+49134,Porsche,911 Carrera S Cabriolet,2025,20.0,17.0,24.0,Premium Gasoline
+46554,Porsche,911 Carrera T,2023,20.0,18.0,24.0,Premium Gasoline
+46553,Porsche,911 Carrera T,2023,20.0,17.0,25.0,Premium Gasoline
+46763,Porsche,911 Carrera T,2024,20.0,17.0,25.0,Premium Gasoline
+46764,Porsche,911 Carrera T,2024,20.0,18.0,24.0,Premium Gasoline
+49033,Porsche,911 Carrera T,2025,20.0,17.0,25.0,Premium Gasoline
+49034,Porsche,911 Carrera T Cabriolet,2025,19.0,17.0,25.0,Premium Gasoline
+47509,Porsche,911 Dakar,2023,19.0,16.0,24.0,Premium Gasoline
+47302,Porsche,911 Dakar,2024,19.0,16.0,24.0,Premium Gasoline
+44501,Porsche,911 GT3,2022,16.0,15.0,18.0,Premium Gasoline
+44502,Porsche,911 GT3,2022,16.0,14.0,18.0,Premium Gasoline
+46083,Porsche,911 GT3,2023,16.0,15.0,18.0,Premium Gasoline
+46084,Porsche,911 GT3,2023,16.0,14.0,18.0,Premium Gasoline
+47015,Porsche,911 GT3,2024,15.0,13.0,19.0,Premium Gasoline
+47014,Porsche,911 GT3,2024,16.0,14.0,18.0,Premium Gasoline
+46457,Porsche,911 GT3 RS,2023,16.0,14.0,18.0,Premium Gasoline
+47018,Porsche,911 GT3 RS,2024,16.0,14.0,18.0,Premium Gasoline
+44613,Porsche,911 GT3 Touring,2022,16.0,14.0,18.0,Premium Gasoline
+44612,Porsche,911 GT3 Touring,2022,16.0,15.0,18.0,Premium Gasoline
+46086,Porsche,911 GT3 Touring,2023,16.0,14.0,18.0,Premium Gasoline
+46085,Porsche,911 GT3 Touring,2023,16.0,15.0,18.0,Premium Gasoline
+47017,Porsche,911 GT3 Touring,2024,15.0,13.0,19.0,Premium Gasoline
+47016,Porsche,911 GT3 Touring,2024,16.0,14.0,18.0,Premium Gasoline
+47758,Porsche,911 S/T,2024,15.0,13.0,19.0,Premium Gasoline
+46116,Porsche,911 Sport Classic,2023,17.0,15.0,21.0,Premium Gasoline
+43512,Porsche,911 Targa 4,2021,20.0,18.0,24.0,Premium Gasoline
+44429,Porsche,911 Targa 4,2022,20.0,18.0,24.0,Premium Gasoline
+46104,Porsche,911 Targa 4,2023,20.0,18.0,24.0,Premium Gasoline
+47305,Porsche,911 Targa 4,2024,20.0,18.0,24.0,Premium Gasoline
+45126,Porsche,911 Targa 4 GTS,2022,19.0,16.0,23.0,Premium Gasoline
+45125,Porsche,911 Targa 4 GTS,2022,19.0,17.0,22.0,Premium Gasoline
+46114,Porsche,911 Targa 4 GTS,2023,19.0,16.0,23.0,Premium Gasoline
+46113,Porsche,911 Targa 4 GTS,2023,19.0,17.0,22.0,Premium Gasoline
+47314,Porsche,911 Targa 4 GTS,2024,19.0,17.0,22.0,Premium Gasoline
+47315,Porsche,911 Targa 4 GTS,2024,19.0,16.0,23.0,Premium Gasoline
+49039,Porsche,911 Targa 4 GTS,2025,19.0,17.0,23.0,Premium Gasoline
+43513,Porsche,911 Targa 4S,2021,20.0,17.0,24.0,Premium Gasoline
+43514,Porsche,911 Targa 4S,2021,20.0,18.0,23.0,Premium Gasoline
+44428,Porsche,911 Targa 4S,2022,20.0,17.0,24.0,Premium Gasoline
+44427,Porsche,911 Targa 4S,2022,20.0,18.0,23.0,Premium Gasoline
+46103,Porsche,911 Targa 4S,2023,20.0,17.0,24.0,Premium Gasoline
+46102,Porsche,911 Targa 4S,2023,20.0,18.0,23.0,Premium Gasoline
+47304,Porsche,911 Targa 4S,2024,20.0,17.0,24.0,Premium Gasoline
+47303,Porsche,911 Targa 4S,2024,20.0,18.0,23.0,Premium Gasoline
+43428,Porsche,911 Turbo,2021,17.0,15.0,20.0,Premium Gasoline
+44375,Porsche,911 Turbo,2022,17.0,15.0,20.0,Premium Gasoline
+46115,Porsche,911 Turbo,2023,17.0,15.0,20.0,Premium Gasoline
+47032,Porsche,911 Turbo,2024,17.0,14.0,21.0,Premium Gasoline
+48591,Porsche,911 Turbo,2025,17.0,14.0,21.0,Premium Gasoline
+43429,Porsche,911 Turbo Cabriolet,2021,17.0,15.0,20.0,Premium Gasoline
+44376,Porsche,911 Turbo Cabriolet,2022,17.0,15.0,20.0,Premium Gasoline
+46117,Porsche,911 Turbo Cabriolet,2023,17.0,15.0,20.0,Premium Gasoline
+47033,Porsche,911 Turbo Cabriolet,2024,16.0,14.0,20.0,Premium Gasoline
+48592,Porsche,911 Turbo Cabriolet,2025,16.0,14.0,20.0,Premium Gasoline
+43430,Porsche,911 Turbo S,2021,17.0,15.0,20.0,Premium Gasoline
+44377,Porsche,911 Turbo S,2022,17.0,15.0,20.0,Premium Gasoline
+46118,Porsche,911 Turbo S,2023,17.0,15.0,20.0,Premium Gasoline
+47034,Porsche,911 Turbo S,2024,16.0,14.0,20.0,Premium Gasoline
+48593,Porsche,911 Turbo S,2025,16.0,14.0,20.0,Premium Gasoline
+43431,Porsche,911 Turbo S Cabriolet,2021,17.0,15.0,20.0,Premium Gasoline
+44378,Porsche,911 Turbo S Cabriolet,2022,17.0,15.0,20.0,Premium Gasoline
+46119,Porsche,911 Turbo S Cabriolet,2023,17.0,15.0,20.0,Premium Gasoline
+47035,Porsche,911 Turbo S Cabriolet,2024,16.0,14.0,20.0,Premium Gasoline
+48594,Porsche,911 Turbo S Cabriolet,2025,16.0,14.0,20.0,Premium Gasoline
+42732,Porsche,Boxster,2020,24.0,21.0,27.0,Premium Gasoline
+42731,Porsche,Boxster,2020,22.0,20.0,26.0,Premium Gasoline
+42735,Porsche,Boxster S,2020,21.0,19.0,24.0,Premium Gasoline
+42736,Porsche,Boxster S,2020,22.0,19.0,25.0,Premium Gasoline
+42739,Porsche,Boxster T,2020,22.0,20.0,26.0,Premium Gasoline
+42740,Porsche,Boxster T,2020,23.0,21.0,27.0,Premium Gasoline
+41684,Porsche,Cayenne,2020,20.0,19.0,23.0,Premium Gasoline
+43379,Porsche,Cayenne,2021,20.0,19.0,23.0,Premium Gasoline
+45130,Porsche,Cayenne,2022,19.0,17.0,22.0,Premium Gasoline
+45707,Porsche,Cayenne,2023,19.0,17.0,22.0,Premium Gasoline
+46904,Porsche,Cayenne,2024,19.0,17.0,23.0,Premium Gasoline
+48571,Porsche,Cayenne,2025,19.0,17.0,23.0,Premium Gasoline
+44676,Porsche,Cayenne / Cayenne Coupe,2022,19.0,17.0,22.0,Premium Gasoline
+42490,Porsche,Cayenne Coupe,2020,20.0,19.0,23.0,Premium Gasoline
+43380,Porsche,Cayenne Coupe,2021,20.0,19.0,23.0,Premium Gasoline
+47694,Porsche,Cayenne Coupe,2023,19.0,17.0,22.0,Premium Gasoline
+46905,Porsche,Cayenne Coupe,2024,19.0,17.0,23.0,Premium Gasoline
+48572,Porsche,Cayenne Coupe,2025,19.0,17.0,23.0,Premium Gasoline
+43382,Porsche,Cayenne GTS,2021,17.0,15.0,19.0,Premium Gasoline
+44682,Porsche,Cayenne GTS,2022,17.0,15.0,19.0,Premium Gasoline
+45713,Porsche,Cayenne GTS,2023,17.0,15.0,19.0,Premium Gasoline
+48650,Porsche,Cayenne GTS,2025,18.0,15.0,22.0,Premium Gasoline
+43384,Porsche,Cayenne GTS Coupe,2021,17.0,15.0,19.0,Premium Gasoline
+44683,Porsche,Cayenne GTS Coupe,2022,17.0,15.0,19.0,Premium Gasoline
+45714,Porsche,Cayenne GTS Coupe,2023,17.0,15.0,19.0,Premium Gasoline
+48651,Porsche,Cayenne GTS Coupe,2025,18.0,16.0,22.0,Premium Gasoline
+41685,Porsche,Cayenne S,2020,20.0,18.0,22.0,Premium Gasoline
+43381,Porsche,Cayenne S,2021,20.0,18.0,22.0,Premium Gasoline
+44677,Porsche,Cayenne S,2022,18.0,16.0,22.0,Premium Gasoline
+45708,Porsche,Cayenne S,2023,18.0,16.0,22.0,Premium Gasoline
+46906,Porsche,Cayenne S,2024,17.0,15.0,21.0,Premium Gasoline
+48970,Porsche,Cayenne S,2025,18.0,16.0,21.0,Premium Gasoline
+42491,Porsche,Cayenne S Coupe,2020,19.0,18.0,22.0,Premium Gasoline
+43383,Porsche,Cayenne S Coupe,2021,19.0,18.0,22.0,Premium Gasoline
+44678,Porsche,Cayenne S Coupe,2022,18.0,16.0,21.0,Premium Gasoline
+45709,Porsche,Cayenne S Coupe,2023,18.0,16.0,21.0,Premium Gasoline
+46907,Porsche,Cayenne S Coupe,2024,17.0,15.0,21.0,Premium Gasoline
+48971,Porsche,Cayenne S Coupe,2025,18.0,16.0,21.0,Premium Gasoline
+41607,Porsche,Cayenne Turbo,2020,17.0,15.0,19.0,Premium Gasoline
+43385,Porsche,Cayenne Turbo,2021,17.0,15.0,19.0,Premium Gasoline
+44679,Porsche,Cayenne Turbo,2022,16.0,14.0,19.0,Premium Gasoline
+45710,Porsche,Cayenne Turbo,2023,16.0,14.0,19.0,Premium Gasoline
+42492,Porsche,Cayenne Turbo Coupe,2020,17.0,15.0,19.0,Premium Gasoline
+43386,Porsche,Cayenne Turbo Coupe,2021,17.0,15.0,19.0,Premium Gasoline
+44681,Porsche,Cayenne Turbo Coupe,2022,17.0,15.0,20.0,Premium Gasoline
+45712,Porsche,Cayenne Turbo Coupe,2023,17.0,15.0,20.0,Premium Gasoline
+45711,Porsche,Cayenne Turbo GT,2023,16.0,14.0,19.0,Premium Gasoline
+48649,Porsche,Cayenne Turbo GT,2025,17.0,15.0,20.0,Premium Gasoline
+44680,Porsche,Cayenne Turbo GT Coupe,2022,16.0,14.0,19.0,Premium Gasoline
+42734,Porsche,Cayman,2020,24.0,21.0,27.0,Premium Gasoline
+42733,Porsche,Cayman,2020,22.0,20.0,26.0,Premium Gasoline
+42738,Porsche,Cayman S,2020,22.0,19.0,25.0,Premium Gasoline
+42737,Porsche,Cayman S,2020,21.0,19.0,24.0,Premium Gasoline
+42741,Porsche,Cayman T,2020,22.0,20.0,26.0,Premium Gasoline
+42742,Porsche,Cayman T,2020,23.0,21.0,27.0,Premium Gasoline
+41682,Porsche,Macan,2020,21.0,19.0,23.0,Premium Gasoline
+43623,Porsche,Macan,2021,21.0,19.0,23.0,Premium Gasoline
+44770,Porsche,Macan,2022,21.0,19.0,25.0,Premium Gasoline
+45834,Porsche,Macan,2023,21.0,19.0,25.0,Premium Gasoline
+46895,Porsche,Macan,2024,21.0,19.0,25.0,Premium Gasoline
+48617,Porsche,Macan,2025,21.0,19.0,25.0,Premium Gasoline
+42503,Porsche,Macan GTS,2020,19.0,17.0,22.0,Premium Gasoline
+43377,Porsche,Macan GTS,2021,19.0,17.0,22.0,Premium Gasoline
+44772,Porsche,Macan GTS,2022,19.0,17.0,22.0,Premium Gasoline
+45837,Porsche,Macan GTS,2023,19.0,17.0,22.0,Premium Gasoline
+47160,Porsche,Macan GTS,2024,19.0,17.0,22.0,Premium Gasoline
+49059,Porsche,Macan GTS,2025,19.0,17.0,22.0,Premium Gasoline
+41683,Porsche,Macan S,2020,20.0,18.0,23.0,Premium Gasoline
+43479,Porsche,Macan S,2021,20.0,18.0,24.0,Premium Gasoline
+44771,Porsche,Macan S,2022,19.0,17.0,23.0,Premium Gasoline
+45835,Porsche,Macan S,2023,19.0,17.0,23.0,Premium Gasoline
+47158,Porsche,Macan S,2024,19.0,17.0,23.0,Premium Gasoline
+48618,Porsche,Macan S,2025,19.0,17.0,23.0,Premium Gasoline
+45836,Porsche,Macan T,2023,21.0,19.0,25.0,Premium Gasoline
+47159,Porsche,Macan T,2024,21.0,19.0,25.0,Premium Gasoline
+48619,Porsche,Macan T,2025,21.0,19.0,25.0,Premium Gasoline
+42504,Porsche,Macan Turbo,2020,19.0,17.0,22.0,Premium Gasoline
+43378,Porsche,Macan Turbo,2021,19.0,17.0,21.0,Premium Gasoline
+41918,Porsche,Panamera,2020,22.0,19.0,27.0,Premium Gasoline
+43727,Porsche,Panamera,2021,20.0,18.0,24.0,Premium Gasoline
+44570,Porsche,Panamera,2022,20.0,18.0,24.0,Premium Gasoline
+45728,Porsche,Panamera,2023,20.0,18.0,24.0,Premium Gasoline
+48457,Porsche,Panamera,2024,21.0,18.0,25.0,Premium Gasoline
+48194,Porsche,Panamera,2025,21.0,18.0,25.0,Premium Gasoline
+41919,Porsche,Panamera 4,2020,22.0,19.0,26.0,Premium Gasoline
+43728,Porsche,Panamera 4,2021,20.0,18.0,24.0,Premium Gasoline
+44574,Porsche,Panamera 4,2022,20.0,18.0,24.0,Premium Gasoline
+45732,Porsche,Panamera 4,2023,20.0,18.0,24.0,Premium Gasoline
+47761,Porsche,Panamera 4,2024,21.0,18.0,25.0,Premium Gasoline
+48195,Porsche,Panamera 4,2025,21.0,18.0,25.0,Premium Gasoline
+41920,Porsche,Panamera 4 Executive,2020,22.0,19.0,26.0,Premium Gasoline
+43729,Porsche,Panamera 4 Executive,2021,19.0,17.0,23.0,Premium Gasoline
+44575,Porsche,Panamera 4 Executive,2022,19.0,17.0,23.0,Premium Gasoline
+45733,Porsche,Panamera 4 Executive,2023,19.0,17.0,23.0,Premium Gasoline
+41921,Porsche,Panamera 4 ST,2020,22.0,19.0,26.0,Premium Gasoline
+43730,Porsche,Panamera 4 ST,2021,20.0,18.0,23.0,Premium Gasoline
+44576,Porsche,Panamera 4 ST,2022,20.0,18.0,23.0,Premium Gasoline
+45734,Porsche,Panamera 4 ST,2023,20.0,18.0,23.0,Premium Gasoline
+41922,Porsche,Panamera 4S,2020,21.0,18.0,26.0,Premium Gasoline
+43731,Porsche,Panamera 4S,2021,20.0,18.0,24.0,Premium Gasoline
+44571,Porsche,Panamera 4S,2022,20.0,18.0,24.0,Premium Gasoline
+45729,Porsche,Panamera 4S,2023,20.0,18.0,24.0,Premium Gasoline
+41923,Porsche,Panamera 4S Executive,2020,21.0,18.0,26.0,Premium Gasoline
+43767,Porsche,Panamera 4S Executive,2021,19.0,17.0,23.0,Premium Gasoline
+44572,Porsche,Panamera 4S Executive,2022,19.0,17.0,23.0,Premium Gasoline
+45730,Porsche,Panamera 4S Executive,2023,19.0,17.0,23.0,Premium Gasoline
+41924,Porsche,Panamera 4S ST,2020,20.0,18.0,24.0,Premium Gasoline
+43768,Porsche,Panamera 4S ST,2021,19.0,17.0,23.0,Premium Gasoline
+44573,Porsche,Panamera 4S ST,2022,19.0,17.0,23.0,Premium Gasoline
+45731,Porsche,Panamera 4S ST,2023,19.0,17.0,23.0,Premium Gasoline
+41925,Porsche,Panamera GTS,2020,19.0,16.0,23.0,Premium Gasoline
+43732,Porsche,Panamera GTS,2021,17.0,15.0,21.0,Premium Gasoline
+44578,Porsche,Panamera GTS,2022,17.0,15.0,21.0,Premium Gasoline
+45736,Porsche,Panamera GTS,2023,17.0,15.0,21.0,Premium Gasoline
+49043,Porsche,Panamera GTS,2025,18.0,16.0,24.0,Premium Gasoline
+41926,Porsche,Panamera GTS ST,2020,18.0,15.0,22.0,Premium Gasoline
+43733,Porsche,Panamera GTS ST,2021,17.0,15.0,20.0,Premium Gasoline
+44579,Porsche,Panamera GTS ST,2022,17.0,15.0,20.0,Premium Gasoline
+45737,Porsche,Panamera GTS ST,2023,17.0,15.0,20.0,Premium Gasoline
+41927,Porsche,Panamera Turbo,2020,21.0,18.0,25.0,Premium Gasoline
+41928,Porsche,Panamera Turbo Exec,2020,21.0,18.0,25.0,Premium Gasoline
+43769,Porsche,Panamera Turbo S,2021,17.0,15.0,21.0,Premium Gasoline
+45735,Porsche,Panamera Turbo S,2023,17.0,15.0,21.0,Premium Gasoline
+43734,Porsche,Panamera Turbo S Executive,2021,17.0,15.0,21.0,Premium Gasoline
+47692,Porsche,Panamera Turbo S Executive,2023,17.0,15.0,21.0,Premium Gasoline
+43735,Porsche,Panamera Turbo S ST,2021,17.0,15.0,21.0,Premium Gasoline
+47693,Porsche,Panamera Turbo S ST,2023,17.0,15.0,21.0,Premium Gasoline
+44577,Porsche,Panamera Turbo S/Exec/ST,2022,17.0,15.0,21.0,Premium Gasoline
+41929,Porsche,Panamera Turbo ST,2020,20.0,18.0,23.0,Premium Gasoline
+41938,Toyota,4Runner 2WD,2020,17.0,16.0,19.0,Regular Gasoline
+42974,Toyota,4Runner 2WD,2021,17.0,16.0,19.0,Regular Gasoline
+44437,Toyota,4Runner 2WD,2022,17.0,16.0,19.0,Regular Gasoline
+45842,Toyota,4Runner 2WD,2023,17.0,16.0,19.0,Regular Gasoline
+47411,Toyota,4Runner 2WD,2024,17.0,16.0,19.0,Regular Gasoline
+48952,Toyota,4Runner 2WD,2025,22.0,20.0,24.0,Regular Gasoline
+48951,Toyota,4Runner 2WD,2025,22.0,20.0,26.0,Regular Gasoline
+41940,Toyota,4Runner 4WD,2020,17.0,16.0,19.0,Regular Gasoline
+41942,Toyota,4Runner 4WD,2020,17.0,16.0,19.0,Regular Gasoline
+42981,Toyota,4Runner 4WD,2021,17.0,16.0,19.0,Regular Gasoline
+42982,Toyota,4Runner 4WD,2021,17.0,16.0,19.0,Regular Gasoline
+44441,Toyota,4Runner 4WD,2022,17.0,16.0,19.0,Regular Gasoline
+44440,Toyota,4Runner 4WD,2022,17.0,16.0,19.0,Regular Gasoline
+45857,Toyota,4Runner 4WD,2023,17.0,16.0,19.0,Regular Gasoline
+45856,Toyota,4Runner 4WD,2023,17.0,16.0,19.0,Regular Gasoline
+47439,Toyota,4Runner 4WD,2024,17.0,16.0,19.0,Regular Gasoline
+47438,Toyota,4Runner 4WD,2024,17.0,16.0,19.0,Regular Gasoline
+48976,Toyota,4Runner 4WD,2025,21.0,19.0,25.0,Regular Gasoline
+49062,Toyota,4Runner 4WD,2025,23.0,23.0,24.0,Regular Gasoline
+48982,Toyota,4Runner 4WD,2025,21.0,20.0,24.0,Regular Gasoline
+49063,Toyota,4Runner 4WD,2025,23.0,23.0,24.0,Regular Gasoline
+41949,Toyota,86,2020,27.0,24.0,32.0,Premium Gasoline
+41950,Toyota,86,2020,24.0,21.0,28.0,Premium Gasoline
+41812,Toyota,Avalon,2020,25.0,22.0,31.0,Regular Gasoline
+42943,Toyota,Avalon,2021,25.0,22.0,31.0,Regular Gasoline
+44380,Toyota,Avalon,2022,25.0,22.0,31.0,Regular Gasoline
+42946,Toyota,Avalon AWD,2021,28.0,25.0,34.0,Regular Gasoline
+41813,Toyota,Avalon Hybrid,2020,43.0,43.0,43.0,Regular Gasoline
+42944,Toyota,Avalon Hybrid,2021,43.0,43.0,43.0,Regular Gasoline
+44381,Toyota,Avalon Hybrid,2022,43.0,43.0,43.0,Regular Gasoline
+41814,Toyota,Avalon Hybrid XLE,2020,44.0,43.0,44.0,Regular Gasoline
+42945,Toyota,Avalon Hybrid XLE,2021,44.0,43.0,44.0,Regular Gasoline
+44382,Toyota,Avalon Hybrid XLE,2022,44.0,43.0,44.0,Regular Gasoline
+42947,Toyota,Avalon TRD,2021,25.0,21.0,30.0,Regular Gasoline
+41811,Toyota,Avalon XLE,2020,26.0,22.0,32.0,Regular Gasoline
+42942,Toyota,Avalon XLE,2021,26.0,22.0,32.0,Regular Gasoline
+44379,Toyota,Avalon XLE,2022,26.0,22.0,32.0,Regular Gasoline
+42145,Toyota,C-HR,2020,29.0,27.0,31.0,Regular Gasoline
+42998,Toyota,C-HR,2021,29.0,27.0,31.0,Regular Gasoline
+44985,Toyota,C-HR,2022,29.0,27.0,31.0,Regular Gasoline
+42011,Toyota,Camry,2020,26.0,22.0,33.0,Regular Gasoline
+42015,Toyota,Camry,2020,34.0,29.0,41.0,Regular Gasoline
+43302,Toyota,Camry,2021,26.0,22.0,33.0,Regular Gasoline
+44343,Toyota,Camry,2022,26.0,22.0,33.0,Regular Gasoline
+45719,Toyota,Camry,2023,26.0,22.0,33.0,Regular Gasoline
+47085,Toyota,Camry,2024,26.0,22.0,33.0,Regular Gasoline
+42510,Toyota,Camry AWD LE/SE,2020,29.0,25.0,34.0,Regular Gasoline
+43309,Toyota,Camry AWD LE/SE,2021,29.0,25.0,34.0,Regular Gasoline
+44346,Toyota,Camry AWD LE/SE,2022,29.0,25.0,34.0,Regular Gasoline
+45722,Toyota,Camry AWD LE/SE,2023,29.0,25.0,34.0,Regular Gasoline
+47088,Toyota,Camry AWD LE/SE,2024,29.0,25.0,34.0,Regular Gasoline
+42511,Toyota,Camry AWD XLE/XSE,2020,28.0,25.0,34.0,Regular Gasoline
+43310,Toyota,Camry AWD XLE/XSE,2021,28.0,25.0,34.0,Regular Gasoline
+44347,Toyota,Camry AWD XLE/XSE,2022,28.0,25.0,34.0,Regular Gasoline
+45723,Toyota,Camry AWD XLE/XSE,2023,28.0,25.0,34.0,Regular Gasoline
+47089,Toyota,Camry AWD XLE/XSE,2024,28.0,25.0,34.0,Regular Gasoline
+48034,Toyota,Camry HEV AWD LE,2025,50.0,51.0,49.0,Regular Gasoline
+48030,Toyota,Camry HEV AWD SE/XLE,2025,46.0,46.0,46.0,Regular Gasoline
+48031,Toyota,Camry HEV AWD XSE,2025,44.0,44.0,43.0,Regular Gasoline
+48032,Toyota,Camry HEV FF LE,2025,51.0,53.0,50.0,Regular Gasoline
+48033,Toyota,Camry HEV FF SE/XLE/XSE,2025,47.0,48.0,47.0,Regular Gasoline
+42016,Toyota,Camry Hybrid LE,2020,52.0,51.0,53.0,Regular Gasoline
+43307,Toyota,Camry Hybrid LE,2021,52.0,51.0,53.0,Regular Gasoline
+44350,Toyota,Camry Hybrid LE,2022,52.0,51.0,53.0,Regular Gasoline
+45726,Toyota,Camry Hybrid LE,2023,52.0,51.0,53.0,Regular Gasoline
+47092,Toyota,Camry Hybrid LE,2024,52.0,51.0,53.0,Regular Gasoline
+43308,Toyota,Camry Hybrid SE/XLE/XSE,2021,46.0,44.0,47.0,Regular Gasoline
+44351,Toyota,Camry Hybrid SE/XLE/XSE,2022,46.0,44.0,47.0,Regular Gasoline
+45727,Toyota,Camry Hybrid SE/XLE/XSE,2023,46.0,44.0,47.0,Regular Gasoline
+47093,Toyota,Camry Hybrid SE/XLE/XSE,2024,46.0,44.0,47.0,Regular Gasoline
+42017,Toyota,Camry Hybrid XLE/SE,2020,46.0,44.0,47.0,Regular Gasoline
+42013,Toyota,Camry LE/SE,2020,32.0,28.0,39.0,Regular Gasoline
+43305,Toyota,Camry LE/SE,2021,32.0,28.0,39.0,Regular Gasoline
+44348,Toyota,Camry LE/SE,2022,32.0,28.0,39.0,Regular Gasoline
+47513,Toyota,Camry LE/SE,2023,32.0,28.0,39.0,Regular Gasoline
+45724,Toyota,Camry LE/SE,2023,32.0,28.0,39.0,Regular Gasoline
+47090,Toyota,Camry LE/SE,2024,32.0,28.0,39.0,Regular Gasoline
+42018,Toyota,Camry TRD,2020,25.0,22.0,31.0,Regular Gasoline
+43303,Toyota,Camry TRD,2021,25.0,22.0,31.0,Regular Gasoline
+44344,Toyota,Camry TRD,2022,25.0,22.0,31.0,Regular Gasoline
+45720,Toyota,Camry TRD,2023,25.0,22.0,31.0,Regular Gasoline
+47086,Toyota,Camry TRD,2024,25.0,22.0,31.0,Regular Gasoline
+42014,Toyota,Camry XLE/XSE,2020,31.0,27.0,38.0,Regular Gasoline
+43306,Toyota,Camry XLE/XSE,2021,31.0,27.0,38.0,Regular Gasoline
+44349,Toyota,Camry XLE/XSE,2022,31.0,27.0,38.0,Regular Gasoline
+45725,Toyota,Camry XLE/XSE,2023,31.0,27.0,38.0,Regular Gasoline
+47091,Toyota,Camry XLE/XSE,2024,31.0,27.0,38.0,Regular Gasoline
+42012,Toyota,Camry XSE,2020,26.0,22.0,32.0,Regular Gasoline
+43304,Toyota,Camry XSE,2021,26.0,22.0,32.0,Regular Gasoline
+44345,Toyota,Camry XSE,2022,26.0,22.0,32.0,Regular Gasoline
+45721,Toyota,Camry XSE,2023,26.0,22.0,32.0,Regular Gasoline
+47087,Toyota,Camry XSE,2024,26.0,22.0,32.0,Regular Gasoline
+41213,Toyota,Corolla,2020,34.0,31.0,40.0,Regular Gasoline
+41215,Toyota,Corolla,2020,32.0,29.0,36.0,Regular Gasoline
+41218,Toyota,Corolla,2020,33.0,29.0,39.0,Regular Gasoline
+41217,Toyota,Corolla,2020,33.0,30.0,38.0,Regular Gasoline
+42582,Toyota,Corolla,2021,33.0,30.0,38.0,Regular Gasoline
+42587,Toyota,Corolla,2021,34.0,31.0,40.0,Regular Gasoline
+42583,Toyota,Corolla,2021,33.0,29.0,39.0,Regular Gasoline
+42588,Toyota,Corolla,2021,32.0,29.0,36.0,Regular Gasoline
+44071,Toyota,Corolla,2022,33.0,29.0,39.0,Regular Gasoline
+44074,Toyota,Corolla,2022,34.0,31.0,40.0,Regular Gasoline
+44070,Toyota,Corolla,2022,33.0,30.0,38.0,Regular Gasoline
+44075,Toyota,Corolla,2022,32.0,29.0,36.0,Regular Gasoline
+45931,Toyota,Corolla,2023,35.0,32.0,41.0,Regular Gasoline
+45932,Toyota,Corolla,2023,34.0,31.0,40.0,Regular Gasoline
+47344,Toyota,Corolla,2024,34.0,31.0,40.0,Regular Gasoline
+47343,Toyota,Corolla,2024,35.0,32.0,41.0,Regular Gasoline
+48493,Toyota,Corolla,2025,35.0,32.0,41.0,Regular Gasoline
+48495,Toyota,Corolla,2025,34.0,31.0,38.0,Regular Gasoline
+48494,Toyota,Corolla,2025,34.0,31.0,40.0,Regular Gasoline
+43299,Toyota,Corolla APEX,2021,31.0,28.0,36.0,Regular Gasoline
+43298,Toyota,Corolla APEX,2021,34.0,31.0,38.0,Regular Gasoline
+44078,Toyota,Corolla APEX,2022,31.0,28.0,36.0,Regular Gasoline
+44077,Toyota,Corolla APEX,2022,34.0,31.0,38.0,Regular Gasoline
+44588,Toyota,Corolla Cross,2022,32.0,31.0,33.0,Regular Gasoline
+46293,Toyota,Corolla Cross,2023,32.0,31.0,33.0,Regular Gasoline
+47635,Toyota,Corolla Cross,2024,32.0,31.0,33.0,Regular Gasoline
+48911,Toyota,Corolla Cross,2025,32.0,31.0,33.0,Regular Gasoline
+44593,Toyota,Corolla Cross 4WD,2022,30.0,29.0,32.0,Regular Gasoline
+46296,Toyota,Corolla Cross 4WD,2023,30.0,29.0,32.0,Regular Gasoline
+47667,Toyota,Corolla Cross AWD,2024,30.0,29.0,31.0,Regular Gasoline
+48938,Toyota,Corolla Cross AWD,2025,30.0,29.0,31.0,Regular Gasoline
+47519,Toyota,Corolla Cross Hybrid AWD,2023,42.0,45.0,38.0,Regular Gasoline
+47668,Toyota,Corolla Cross Hybrid AWD,2024,42.0,45.0,38.0,Regular Gasoline
+48939,Toyota,Corolla Cross Hybrid AWD,2025,42.0,45.0,38.0,Regular Gasoline
+48496,Toyota,Corolla FX,2025,34.0,31.0,39.0,Regular Gasoline
+42092,Toyota,Corolla Hatchback,2020,31.0,28.0,37.0,Regular Gasoline
+42093,Toyota,Corolla Hatchback,2020,35.0,32.0,41.0,Regular Gasoline
+42745,Toyota,Corolla Hatchback,2021,31.0,28.0,37.0,Regular Gasoline
+42746,Toyota,Corolla Hatchback,2021,35.0,32.0,41.0,Regular Gasoline
+44237,Toyota,Corolla Hatchback,2022,31.0,28.0,36.0,Regular Gasoline
+44238,Toyota,Corolla Hatchback,2022,35.0,32.0,41.0,Regular Gasoline
+45899,Toyota,Corolla Hatchback,2023,35.0,32.0,41.0,Regular Gasoline
+47345,Toyota,Corolla Hatchback,2024,35.0,32.0,41.0,Regular Gasoline
+47996,Toyota,Corolla Hatchback,2025,35.0,32.0,41.0,Regular Gasoline
+42094,Toyota,Corolla Hatchback XSE,2020,33.0,30.0,38.0,Regular Gasoline
+42747,Toyota,Corolla Hatchback XSE,2021,33.0,30.0,38.0,Regular Gasoline
+44239,Toyota,Corolla Hatchback XSE,2022,33.0,30.0,38.0,Regular Gasoline
+45900,Toyota,Corolla Hatchback XSE,2023,33.0,30.0,38.0,Regular Gasoline
+47346,Toyota,Corolla Hatchback XSE,2024,33.0,30.0,38.0,Regular Gasoline
+47997,Toyota,Corolla Hatchback XSE,2025,33.0,30.0,38.0,Regular Gasoline
+41214,Toyota,Corolla Hybrid,2020,52.0,53.0,52.0,Regular Gasoline
+42585,Toyota,Corolla Hybrid,2021,52.0,53.0,52.0,Regular Gasoline
+44073,Toyota,Corolla Hybrid,2022,52.0,53.0,52.0,Regular Gasoline
+45929,Toyota,Corolla Hybrid,2023,47.0,50.0,43.0,Regular Gasoline
+46131,Toyota,Corolla Hybrid,2023,50.0,53.0,46.0,Regular Gasoline
+47339,Toyota,Corolla Hybrid (Normal/Eco Modes),2024,50.0,53.0,46.0,Regular Gasoline
+49139,Toyota,Corolla Hybrid (Normal/Eco Modes),2025,50.0,53.0,46.0,Regular Gasoline
+47340,Toyota,Corolla Hybrid (Sport/Normal/Eco Modes),2024,47.0,50.0,43.0,Regular Gasoline
+48490,Toyota,Corolla Hybrid (Sport/Normal/Eco Modes),2025,47.0,50.0,43.0,Regular Gasoline
+46132,Toyota,Corolla Hybrid AWD,2023,48.0,51.0,44.0,Regular Gasoline
+45930,Toyota,Corolla Hybrid AWD,2023,44.0,47.0,41.0,Regular Gasoline
+47341,Toyota,Corolla Hybrid AWD (Normal/Eco Modes),2024,48.0,51.0,44.0,Regular Gasoline
+49140,Toyota,Corolla Hybrid AWD (Normal/Eco Modes),2025,48.0,51.0,44.0,Regular Gasoline
+47342,Toyota,Corolla Hybrid AWD (Sport/Normal/Eco Modes),2024,44.0,47.0,41.0,Regular Gasoline
+48492,Toyota,Corolla Hybrid AWD (Sport/Normal/Eco Modes),2025,44.0,47.0,41.0,Regular Gasoline
+41219,Toyota,Corolla XLE,2020,32.0,29.0,37.0,Regular Gasoline
+42584,Toyota,Corolla XLE,2021,32.0,29.0,37.0,Regular Gasoline
+44072,Toyota,Corolla XLE,2022,32.0,29.0,37.0,Regular Gasoline
+41216,Toyota,Corolla XSE,2020,34.0,31.0,38.0,Regular Gasoline
+42589,Toyota,Corolla XSE,2021,34.0,31.0,38.0,Regular Gasoline
+44076,Toyota,Corolla XSE,2022,34.0,31.0,38.0,Regular Gasoline
+46321,Toyota,Crown AWD,2023,30.0,29.0,32.0,Regular Gasoline
+46322,Toyota,Crown AWD,2023,41.0,42.0,41.0,Regular Gasoline
+47355,Toyota,Crown AWD,2024,30.0,29.0,32.0,Regular Gasoline
+47354,Toyota,Crown AWD,2024,41.0,42.0,41.0,Regular Gasoline
+47937,Toyota,Crown AWD,2025,30.0,29.0,32.0,Regular Gasoline
+47936,Toyota,Crown AWD,2025,41.0,42.0,41.0,Regular Gasoline
+48049,Toyota,Crown Signia AWD,2025,38.0,39.0,37.0,Regular Gasoline
+44614,Toyota,GR 86,2022,25.0,21.0,31.0,Premium Gasoline
+44615,Toyota,GR 86,2022,22.0,20.0,27.0,Premium Gasoline
+45427,Toyota,GR 86,2023,22.0,20.0,27.0,Premium Gasoline
+45426,Toyota,GR 86,2023,25.0,21.0,31.0,Premium Gasoline
+47557,Toyota,GR 86,2024,24.0,21.0,30.0,Premium Gasoline
+47556,Toyota,GR 86,2024,22.0,20.0,26.0,Premium Gasoline
+48821,Toyota,GR 86,2025,22.0,20.0,26.0,Premium Gasoline
+48822,Toyota,GR 86,2025,24.0,21.0,30.0,Premium Gasoline
+46218,Toyota,GR Corolla,2023,24.0,21.0,28.0,Premium Gasoline
+47234,Toyota,GR Corolla,2024,24.0,21.0,28.0,Premium Gasoline
+48596,Toyota,GR Corolla,2025,24.0,21.0,28.0,Premium Gasoline
+48595,Toyota,GR Corolla,2025,22.0,19.0,27.0,Premium Gasoline
+41309,Toyota,GR Supra,2020,26.0,24.0,31.0,Premium Gasoline
+42989,Toyota,GR Supra,2021,28.0,25.0,32.0,Premium Gasoline
+42564,Toyota,GR Supra,2021,25.0,22.0,30.0,Premium Gasoline
+44170,Toyota,GR Supra,2022,25.0,22.0,30.0,Premium Gasoline
+44169,Toyota,GR Supra,2022,28.0,25.0,32.0,Premium Gasoline
+46089,Toyota,GR Supra,2023,21.0,19.0,27.0,Premium Gasoline
+45600,Toyota,GR Supra,2023,26.0,23.0,31.0,Premium Gasoline
+46088,Toyota,GR Supra,2023,27.0,25.0,31.0,Premium Gasoline
+46761,Toyota,GR Supra,2024,26.0,23.0,31.0,Premium Gasoline
+46762,Toyota,GR Supra,2024,21.0,19.0,27.0,Premium Gasoline
+46636,Toyota,GR Supra,2024,27.0,25.0,31.0,Premium Gasoline
+47966,Toyota,GR Supra,2025,27.0,25.0,31.0,Premium Gasoline
+47968,Toyota,GR Supra,2025,21.0,19.0,27.0,Premium Gasoline
+47967,Toyota,GR Supra,2025,26.0,23.0,31.0,Premium Gasoline
+46755,Toyota,Grand Highlander AWD LE/XLE,2024,23.0,21.0,27.0,Regular Gasoline
+48974,Toyota,Grand Highlander AWD LE/XLE,2025,23.0,21.0,27.0,Regular Gasoline
+46756,Toyota,Grand Highlander AWD Limited/Platinum,2024,22.0,20.0,26.0,Regular Gasoline
+48975,Toyota,Grand Highlander AWD Limited/Platinum,2025,22.0,20.0,26.0,Regular Gasoline
+46741,Toyota,Grand Highlander Hybrid,2024,36.0,37.0,34.0,Regular Gasoline
+48948,Toyota,Grand Highlander Hybrid,2025,36.0,37.0,34.0,Regular Gasoline
+46753,Toyota,Grand Highlander Hybrid AWD,2024,34.0,36.0,32.0,Regular Gasoline
+46754,Toyota,Grand Highlander Hybrid AWD,2024,27.0,26.0,27.0,Regular Gasoline
+48973,Toyota,Grand Highlander Hybrid AWD,2025,27.0,26.0,27.0,Regular Gasoline
+48972,Toyota,Grand Highlander Hybrid AWD,2025,34.0,36.0,32.0,Regular Gasoline
+46742,Toyota,Grand Highlander Hybrid Limited,2024,34.0,36.0,32.0,Regular Gasoline
+46743,Toyota,Grand Highlander LE/XLE,2024,24.0,21.0,28.0,Regular Gasoline
+48949,Toyota,Grand Highlander LE/XLE,2025,24.0,21.0,28.0,Regular Gasoline
+46744,Toyota,Grand Highlander Limited,2024,24.0,21.0,28.0,Regular Gasoline
+48950,Toyota,Grand Highlander Limited,2025,24.0,21.0,28.0,Regular Gasoline
+42379,Toyota,Highlander,2020,23.0,20.0,28.0,Regular Gasoline
+42380,Toyota,Highlander,2020,24.0,21.0,29.0,Regular Gasoline
+43128,Toyota,Highlander,2021,23.0,20.0,28.0,Regular Gasoline
+43129,Toyota,Highlander,2021,24.0,21.0,29.0,Regular Gasoline
+44649,Toyota,Highlander,2022,23.0,20.0,28.0,Regular Gasoline
+44650,Toyota,Highlander,2022,24.0,21.0,29.0,Regular Gasoline
+46146,Toyota,Highlander,2023,24.0,21.0,28.0,Regular Gasoline
+46147,Toyota,Highlander,2023,25.0,22.0,29.0,Regular Gasoline
+47638,Toyota,Highlander,2024,24.0,21.0,28.0,Regular Gasoline
+47637,Toyota,Highlander,2024,25.0,22.0,29.0,Regular Gasoline
+48913,Toyota,Highlander,2025,24.0,21.0,28.0,Regular Gasoline
+48912,Toyota,Highlander,2025,25.0,22.0,29.0,Regular Gasoline
+42381,Toyota,Highlander AWD,2020,23.0,20.0,27.0,Regular Gasoline
+43137,Toyota,Highlander AWD,2021,23.0,20.0,27.0,Regular Gasoline
+44656,Toyota,Highlander AWD,2022,23.0,20.0,27.0,Regular Gasoline
+46155,Toyota,Highlander AWD,2023,24.0,21.0,28.0,Regular Gasoline
+47669,Toyota,Highlander AWD,2024,24.0,21.0,28.0,Regular Gasoline
+48940,Toyota,Highlander AWD,2025,24.0,21.0,28.0,Regular Gasoline
+42477,Toyota,Highlander Hybrid,2020,36.0,36.0,35.0,Regular Gasoline
+43130,Toyota,Highlander Hybrid,2021,36.0,36.0,35.0,Regular Gasoline
+44651,Toyota,Highlander Hybrid,2022,36.0,36.0,35.0,Regular Gasoline
+46145,Toyota,Highlander Hybrid,2023,36.0,36.0,35.0,Regular Gasoline
+47636,Toyota,Highlander Hybrid,2024,36.0,36.0,35.0,Regular Gasoline
+42478,Toyota,Highlander Hybrid AWD,2020,35.0,35.0,35.0,Regular Gasoline
+43141,Toyota,Highlander Hybrid AWD,2021,35.0,35.0,35.0,Regular Gasoline
+44685,Toyota,Highlander Hybrid AWD,2022,35.0,35.0,35.0,Regular Gasoline
+46158,Toyota,Highlander Hybrid AWD,2023,35.0,35.0,35.0,Regular Gasoline
+47691,Toyota,Highlander Hybrid AWD,2024,35.0,35.0,35.0,Regular Gasoline
+48981,Toyota,Highlander Hybrid AWD,2025,35.0,35.0,35.0,Regular Gasoline
+42479,Toyota,Highlander Hybrid AWD LTD/PLAT,2020,35.0,35.0,34.0,Regular Gasoline
+43142,Toyota,Highlander Hybrid AWD LTD/PLAT,2021,35.0,35.0,34.0,Regular Gasoline
+44684,Toyota,Highlander Hybrid AWD LTD/PLAT,2022,35.0,35.0,34.0,Regular Gasoline
+46157,Toyota,Highlander Hybrid AWD LTD/PLAT,2023,35.0,35.0,34.0,Regular Gasoline
+47690,Toyota,Highlander Hybrid AWD LTD/PLAT,2024,35.0,35.0,34.0,Regular Gasoline
+48979,Toyota,Highlander Hybrid AWD LTD/PLAT,2025,35.0,35.0,34.0,Regular Gasoline
+47762,Toyota,Land Cruiser,2024,23.0,22.0,25.0,Premium Gasoline
+48977,Toyota,Land Cruiser,2025,23.0,22.0,25.0,Premium Gasoline
+41941,Toyota,Land Cruiser Wagon 4WD,2020,14.0,13.0,17.0,Regular Gasoline
+43032,Toyota,Land Cruiser Wagon 4WD,2021,14.0,13.0,17.0,Regular Gasoline
+41915,Toyota,Prius,2020,52.0,54.0,50.0,Regular Gasoline
+42808,Toyota,Prius,2021,52.0,54.0,50.0,Regular Gasoline
+44079,Toyota,Prius,2022,52.0,54.0,50.0,Regular Gasoline
+46359,Toyota,Prius,2023,57.0,57.0,56.0,Regular Gasoline
+47243,Toyota,Prius,2024,57.0,57.0,56.0,Regular Gasoline
+48861,Toyota,Prius,2025,57.0,57.0,56.0,Regular Gasoline
+41916,Toyota,Prius AWD,2020,50.0,52.0,48.0,Regular Gasoline
+42809,Toyota,Prius AWD,2021,49.0,51.0,47.0,Regular Gasoline
+44080,Toyota,Prius AWD,2022,49.0,51.0,47.0,Regular Gasoline
+46360,Toyota,Prius AWD,2023,54.0,53.0,54.0,Regular Gasoline
+47244,Toyota,Prius AWD,2024,54.0,53.0,54.0,Regular Gasoline
+48858,Toyota,Prius AWD,2025,54.0,53.0,54.0,Regular Gasoline
+46361,Toyota,Prius AWD XLE/LTD,2023,49.0,49.0,50.0,Regular Gasoline
+47245,Toyota,Prius AWD XLE/LTD,2024,49.0,49.0,50.0,Regular Gasoline
+48859,Toyota,Prius AWD XLE/LTD,2025,49.0,49.0,50.0,Regular Gasoline
+41917,Toyota,Prius Eco,2020,56.0,58.0,53.0,Regular Gasoline
+42810,Toyota,Prius Eco,2021,56.0,58.0,53.0,Regular Gasoline
+44081,Toyota,Prius Eco,2022,56.0,58.0,53.0,Regular Gasoline
+46362,Toyota,Prius XLE/LTD,2023,52.0,52.0,52.0,Regular Gasoline
+47246,Toyota,Prius XLE/LTD,2024,52.0,52.0,52.0,Regular Gasoline
+48860,Toyota,Prius XLE/LTD,2025,52.0,52.0,52.0,Regular Gasoline
+41716,Toyota,Prius c,2020,46.0,48.0,43.0,Regular Gasoline
+42181,Toyota,RAV4,2020,30.0,27.0,35.0,Regular Gasoline
+42182,Toyota,RAV4,2020,30.0,28.0,35.0,Regular Gasoline
+42959,Toyota,RAV4,2021,30.0,27.0,35.0,Regular Gasoline
+42960,Toyota,RAV4,2021,30.0,28.0,35.0,Regular Gasoline
+44991,Toyota,RAV4,2022,30.0,27.0,35.0,Regular Gasoline
+44992,Toyota,RAV4,2022,30.0,27.0,35.0,Regular Gasoline
+46068,Toyota,RAV4,2023,30.0,27.0,34.0,Regular Gasoline
+46067,Toyota,RAV4,2023,30.0,27.0,35.0,Regular Gasoline
+47374,Toyota,RAV4,2024,30.0,27.0,35.0,Regular Gasoline
+48910,Toyota,RAV4,2025,30.0,27.0,35.0,Regular Gasoline
+42185,Toyota,RAV4 AWD,2020,28.0,25.0,33.0,Regular Gasoline
+42186,Toyota,RAV4 AWD,2020,29.0,27.0,33.0,Regular Gasoline
+42968,Toyota,RAV4 AWD,2021,29.0,27.0,33.0,Regular Gasoline
+42969,Toyota,RAV4 AWD,2021,28.0,25.0,33.0,Regular Gasoline
+45006,Toyota,RAV4 AWD,2022,29.0,27.0,33.0,Regular Gasoline
+45005,Toyota,RAV4 AWD,2022,28.0,25.0,33.0,Regular Gasoline
+46075,Toyota,RAV4 AWD,2023,29.0,27.0,33.0,Regular Gasoline
+46074,Toyota,RAV4 AWD,2023,28.0,25.0,33.0,Regular Gasoline
+47388,Toyota,RAV4 AWD,2024,28.0,25.0,33.0,Regular Gasoline
+47387,Toyota,RAV4 AWD,2024,29.0,27.0,33.0,Regular Gasoline
+48934,Toyota,RAV4 AWD,2025,28.0,25.0,33.0,Regular Gasoline
+48933,Toyota,RAV4 AWD,2025,29.0,27.0,33.0,Regular Gasoline
+42189,Toyota,RAV4 AWD LE,2020,30.0,27.0,34.0,Regular Gasoline
+42971,Toyota,RAV4 AWD LE,2021,30.0,27.0,34.0,Regular Gasoline
+45008,Toyota,RAV4 AWD LE,2022,30.0,27.0,34.0,Regular Gasoline
+46077,Toyota,RAV4 AWD LE,2023,30.0,27.0,34.0,Regular Gasoline
+47390,Toyota,RAV4 AWD LE,2024,30.0,27.0,34.0,Regular Gasoline
+48935,Toyota,RAV4 AWD LE,2025,30.0,27.0,34.0,Regular Gasoline
+42188,Toyota,RAV4 AWD TRD OFFROAD,2020,27.0,25.0,32.0,Regular Gasoline
+42970,Toyota,RAV4 AWD TRD OFFROAD,2021,28.0,25.0,32.0,Regular Gasoline
+45007,Toyota,RAV4 AWD TRD OFFROAD,2022,28.0,25.0,32.0,Regular Gasoline
+46076,Toyota,RAV4 AWD TRD OFFROAD,2023,28.0,25.0,32.0,Regular Gasoline
+47389,Toyota,RAV4 AWD TRD OFFROAD,2024,28.0,25.0,32.0,Regular Gasoline
+42972,Toyota,RAV4 Hybrid  AWD,2021,40.0,41.0,38.0,Regular Gasoline
+42187,Toyota,RAV4 Hybrid AWD,2020,40.0,41.0,38.0,Regular Gasoline
+45009,Toyota,RAV4 Hybrid AWD,2022,40.0,41.0,38.0,Regular Gasoline
+46078,Toyota,RAV4 Hybrid AWD,2023,40.0,41.0,38.0,Regular Gasoline
+47392,Toyota,RAV4 Hybrid AWD,2024,39.0,41.0,38.0,Regular Gasoline
+48937,Toyota,RAV4 Hybrid AWD,2025,39.0,41.0,38.0,Regular Gasoline
+46080,Toyota,RAV4 Hybrid AWD Woodland Edition,2023,37.0,38.0,35.0,Regular Gasoline
+47391,Toyota,RAV4 Hybrid AWD Woodland Edition,2024,37.0,38.0,35.0,Regular Gasoline
+48936,Toyota,RAV4 Hybrid AWD Woodland Edition,2025,37.0,38.0,35.0,Regular Gasoline
+41880,Toyota,Sequoia 2WD,2020,15.0,13.0,17.0,Regular Gasoline
+43204,Toyota,Sequoia 2WD,2021,15.0,13.0,17.0,Regular Gasoline
+44358,Toyota,Sequoia 2WD,2022,15.0,13.0,17.0,Regular Gasoline
+45745,Toyota,Sequoia 2WD,2023,22.0,21.0,24.0,Regular Gasoline
+47173,Toyota,Sequoia 2WD,2024,22.0,21.0,24.0,Regular Gasoline
+48553,Toyota,Sequoia 2WD,2025,22.0,21.0,24.0,Regular Gasoline
+41882,Toyota,Sequoia 4WD,2020,14.0,13.0,17.0,Regular Gasoline
+43212,Toyota,Sequoia 4WD,2021,14.0,13.0,17.0,Regular Gasoline
+44359,Toyota,Sequoia 4WD,2022,14.0,13.0,17.0,Regular Gasoline
+45748,Toyota,Sequoia 4WD,2023,20.0,19.0,22.0,Regular Gasoline
+47212,Toyota,Sequoia 4WD,2024,20.0,19.0,22.0,Regular Gasoline
+48575,Toyota,Sequoia 4WD,2025,20.0,19.0,22.0,Regular Gasoline
+41386,Toyota,Sienna 2WD,2020,21.0,19.0,26.0,Regular Gasoline
+44551,Toyota,Sienna 2WD,2022,36.0,36.0,36.0,Regular Gasoline
+45948,Toyota,Sienna 2WD,2023,36.0,36.0,36.0,Regular Gasoline
+47252,Toyota,Sienna 2WD,2024,36.0,36.0,36.0,Regular Gasoline
+48904,Toyota,Sienna 2WD,2025,36.0,36.0,36.0,Regular Gasoline
+41387,Toyota,Sienna AWD,2020,20.0,18.0,24.0,Regular Gasoline
+44552,Toyota,Sienna AWD,2022,35.0,35.0,36.0,Regular Gasoline
+45949,Toyota,Sienna AWD,2023,35.0,35.0,36.0,Regular Gasoline
+47254,Toyota,Sienna AWD,2024,35.0,35.0,36.0,Regular Gasoline
+48905,Toyota,Sienna AWD,2025,35.0,34.0,36.0,Regular Gasoline
+43470,Toyota,Sienna Hybrid 2WD,2021,36.0,36.0,36.0,Regular Gasoline
+43471,Toyota,Sienna Hybrid AWD,2021,35.0,35.0,36.0,Regular Gasoline
+42031,Toyota,Tacoma 2WD,2020,21.0,20.0,23.0,Regular Gasoline
+42030,Toyota,Tacoma 2WD,2020,21.0,19.0,24.0,Regular Gasoline
+43082,Toyota,Tacoma 2WD,2021,21.0,19.0,24.0,Regular Gasoline
+43083,Toyota,Tacoma 2WD,2021,21.0,20.0,23.0,Regular Gasoline
+44475,Toyota,Tacoma 2WD,2022,21.0,20.0,23.0,Regular Gasoline
+44474,Toyota,Tacoma 2WD,2022,21.0,19.0,24.0,Regular Gasoline
+45864,Toyota,Tacoma 2WD,2023,21.0,19.0,24.0,Regular Gasoline
+45865,Toyota,Tacoma 2WD,2023,21.0,20.0,23.0,Regular Gasoline
+47590,Toyota,Tacoma 2WD,2024,23.0,20.0,26.0,Regular Gasoline
+48872,Toyota,Tacoma 2WD,2025,23.0,20.0,26.0,Regular Gasoline
+42032,Toyota,Tacoma 4WD,2020,20.0,18.0,22.0,Regular Gasoline
+42033,Toyota,Tacoma 4WD,2020,18.0,17.0,21.0,Regular Gasoline
+42034,Toyota,Tacoma 4WD,2020,20.0,19.0,22.0,Regular Gasoline
+43084,Toyota,Tacoma 4WD,2021,20.0,18.0,22.0,Regular Gasoline
+43085,Toyota,Tacoma 4WD,2021,18.0,17.0,21.0,Regular Gasoline
+43087,Toyota,Tacoma 4WD,2021,20.0,19.0,22.0,Regular Gasoline
+44480,Toyota,Tacoma 4WD,2022,20.0,19.0,22.0,Regular Gasoline
+44477,Toyota,Tacoma 4WD,2022,20.0,18.0,22.0,Regular Gasoline
+44478,Toyota,Tacoma 4WD,2022,18.0,17.0,21.0,Regular Gasoline
+45867,Toyota,Tacoma 4WD,2023,18.0,17.0,21.0,Regular Gasoline
+45869,Toyota,Tacoma 4WD,2023,20.0,19.0,22.0,Regular Gasoline
+45866,Toyota,Tacoma 4WD,2023,20.0,18.0,22.0,Regular Gasoline
+47602,Toyota,Tacoma 4WD,2024,21.0,19.0,24.0,Regular Gasoline
+48881,Toyota,Tacoma 4WD,2025,21.0,19.0,24.0,Regular Gasoline
+42035,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2020,18.0,17.0,20.0,Regular Gasoline
+43086,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2021,18.0,17.0,20.0,Regular Gasoline
+44479,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2022,18.0,17.0,20.0,Regular Gasoline
+45868,Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,2023,18.0,17.0,20.0,Regular Gasoline
+47598,Toyota,Tacoma 4WD MT,2024,20.0,18.0,23.0,Regular Gasoline
+48877,Toyota,Tacoma 4WD MT,2025,20.0,18.0,23.0,Regular Gasoline
+48460,Toyota,Tacoma Hybrid 4WD,2024,24.0,23.0,24.0,Regular Gasoline
+48461,Toyota,Tacoma Hybrid 4WD,2024,23.0,22.0,24.0,Regular Gasoline
+48902,Toyota,Tacoma Hybrid 4WD,2025,23.0,22.0,24.0,Regular Gasoline
+48903,Toyota,Tacoma Hybrid 4WD,2025,23.0,23.0,24.0,Regular Gasoline
+47601,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2024,21.0,19.0,24.0,Regular Gasoline
+47599,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2024,21.0,19.0,23.0,Regular Gasoline
+47600,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2024,21.0,20.0,23.0,Regular Gasoline
+48879,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2025,21.0,20.0,23.0,Regular Gasoline
+48878,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2025,21.0,19.0,23.0,Regular Gasoline
+48880,Toyota,Tacoma SR5/Sport/Off-Road/Limited 4WD,2025,21.0,19.0,24.0,Regular Gasoline
+47589,Toyota,Tacoma SR5/Sport/PreRunner 2WD,2024,23.0,21.0,26.0,Regular Gasoline
+47588,Toyota,Tacoma SR5/Sport/PreRunner 2WD,2024,22.0,20.0,24.0,Regular Gasoline
+48870,Toyota,Tacoma SR5/Sport/PreRunner 2WD,2025,22.0,20.0,24.0,Regular Gasoline
+48871,Toyota,Tacoma SR5/Sport/PreRunner 2WD,2025,23.0,21.0,26.0,Regular Gasoline
+41832,Toyota,Tundra 2WD,2020,15.0,13.0,18.0,Regular Gasoline
+43010,Toyota,Tundra 2WD,2021,15.0,13.0,17.0,Regular Gasoline
+44895,Toyota,Tundra 2WD,2022,20.0,18.0,24.0,Regular Gasoline
+45212,Toyota,Tundra 2WD,2022,22.0,20.0,24.0,Regular Gasoline
+44894,Toyota,Tundra 2WD,2022,20.0,18.0,23.0,Regular Gasoline
+45871,Toyota,Tundra 2WD,2023,20.0,18.0,24.0,Regular Gasoline
+45872,Toyota,Tundra 2WD,2023,20.0,18.0,23.0,Regular Gasoline
+45873,Toyota,Tundra 2WD,2023,22.0,20.0,24.0,Regular Gasoline
+47119,Toyota,Tundra 2WD,2024,22.0,20.0,24.0,Regular Gasoline
+47118,Toyota,Tundra 2WD,2024,20.0,18.0,23.0,Regular Gasoline
+47610,Toyota,Tundra 2WD,2024,22.0,20.0,24.0,Premium Gasoline
+47608,Toyota,Tundra 2WD,2024,20.0,18.0,23.0,Premium Gasoline
+47609,Toyota,Tundra 2WD,2024,20.0,18.0,23.0,Premium Gasoline
+47117,Toyota,Tundra 2WD,2024,20.0,18.0,23.0,Regular Gasoline
+48511,Toyota,Tundra 2WD,2025,20.0,18.0,23.0,Regular Gasoline
+48512,Toyota,Tundra 2WD,2025,22.0,20.0,24.0,Regular Gasoline
+48510,Toyota,Tundra 2WD,2025,20.0,18.0,23.0,Regular Gasoline
+41859,Toyota,Tundra 4WD,2020,14.0,13.0,17.0,Regular Gasoline
+43018,Toyota,Tundra 4WD,2021,14.0,13.0,17.0,Regular Gasoline
+45214,Toyota,Tundra 4WD,2022,20.0,19.0,22.0,Regular Gasoline
+44900,Toyota,Tundra 4WD,2022,19.0,17.0,23.0,Regular Gasoline
+44899,Toyota,Tundra 4WD,2022,19.0,17.0,22.0,Regular Gasoline
+45877,Toyota,Tundra 4WD,2023,19.0,17.0,22.0,Regular Gasoline
+45876,Toyota,Tundra 4WD,2023,19.0,17.0,23.0,Regular Gasoline
+45878,Toyota,Tundra 4WD,2023,20.0,19.0,22.0,Regular Gasoline
+47625,Toyota,Tundra 4WD,2024,20.0,19.0,22.0,Premium Gasoline
+47129,Toyota,Tundra 4WD,2024,19.0,17.0,23.0,Regular Gasoline
+47130,Toyota,Tundra 4WD,2024,19.0,17.0,22.0,Regular Gasoline
+47624,Toyota,Tundra 4WD,2024,19.0,17.0,23.0,Premium Gasoline
+47131,Toyota,Tundra 4WD,2024,20.0,19.0,22.0,Regular Gasoline
+48516,Toyota,Tundra 4WD,2025,19.0,17.0,22.0,Regular Gasoline
+48518,Toyota,Tundra 4WD,2025,20.0,19.0,22.0,Regular Gasoline
+48517,Toyota,Tundra 4WD,2025,19.0,17.0,22.0,Regular Gasoline
+45215,Toyota,Tundra 4WD PRO,2022,19.0,18.0,20.0,Regular Gasoline
+45879,Toyota,Tundra 4WD PRO,2023,19.0,18.0,20.0,Regular Gasoline
+47132,Toyota,Tundra 4WD PRO,2024,19.0,18.0,20.0,Regular Gasoline
+47626,Toyota,Tundra 4WD PRO,2024,19.0,18.0,20.0,Premium Gasoline
+48519,Toyota,Tundra 4WD PRO,2025,19.0,18.0,20.0,Regular Gasoline
+42912,Toyota,Venza AWD,2021,39.0,40.0,37.0,Regular Gasoline
+44884,Toyota,Venza AWD,2022,39.0,40.0,37.0,Regular Gasoline
+46079,Toyota,Venza AWD,2023,39.0,40.0,37.0,Regular Gasoline
+47393,Toyota,Venza AWD,2024,39.0,40.0,37.0,Regular Gasoline
+41999,Toyota,Yaris,2020,34.0,30.0,39.0,Regular Gasoline
+42000,Toyota,Yaris,2020,35.0,32.0,40.0,Regular Gasoline

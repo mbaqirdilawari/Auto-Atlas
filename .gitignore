@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS files
+.DS_Store
+
+# Raw downloaded datasets and API cache
+data/raw/
+
+# Local environment files
+.env

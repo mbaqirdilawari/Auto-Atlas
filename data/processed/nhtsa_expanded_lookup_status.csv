@@ -1,0 +1,373 @@
+make,model,year,records_returned,lookup_status,from_cache
+Audi,A3,2020,3,returned_records,true
+Audi,A3,2024,0,empty_or_unmatched,true
+Audi,A4,2020,3,returned_records,true
+Audi,A6 ALLROAD,2020,4,returned_records,true
+Audi,A6 ALLROAD,2021,8,returned_records,true
+Audi,A8L,2020,0,empty_or_unmatched,true
+Audi,A8L,2021,0,empty_or_unmatched,true
+Audi,Q3,2023,1,returned_records,true
+Audi,Q3,2025,1,returned_records,true
+Audi,Q5,2020,6,returned_records,true
+Audi,Q5,2021,8,returned_records,true
+Audi,Q5 SPORTBACK,2021,0,empty_or_unmatched,true
+Audi,Q7,2020,5,returned_records,true
+Audi,Q7,2021,9,returned_records,true
+Audi,Q7,2025,2,returned_records,true
+Audi,Q8,2020,3,returned_records,true
+Audi,Q8,2021,7,returned_records,true
+Audi,Q8,2023,2,returned_records,true
+Audi,RS 3,2020,0,empty_or_unmatched,true
+Audi,RS 3,2025,0,empty_or_unmatched,true
+Audi,RS 5,2021,0,empty_or_unmatched,true
+Audi,RS 5 SPORTBACK,2021,0,empty_or_unmatched,true
+Audi,RS 6 AVANT,2021,2,returned_records,true
+Audi,RS 6 AVANT,2024,1,returned_records,true
+Audi,RS 7,2021,2,returned_records,true
+Audi,RS Q8,2021,7,returned_records,true
+Audi,S3,2020,1,returned_records,true
+Audi,S3,2024,0,empty_or_unmatched,true
+Audi,S4,2020,3,returned_records,true
+Audi,S4,2021,4,returned_records,true
+Audi,S5,2020,4,returned_records,true
+Audi,S5,2021,5,returned_records,true
+Audi,S5 COUPE,2024,0,empty_or_unmatched,true
+Audi,S5 SPORTBACK,2020,0,empty_or_unmatched,true
+Audi,S5 SPORTBACK,2021,0,empty_or_unmatched,true
+Audi,S6,2020,6,returned_records,true
+Audi,S7,2020,6,returned_records,true
+Audi,S7,2021,10,returned_records,true
+Audi,S8,2021,8,returned_records,true
+Audi,SQ5,2020,4,returned_records,true
+Audi,SQ5,2021,5,returned_records,true
+Audi,SQ5,2024,0,empty_or_unmatched,true
+Audi,SQ5,2025,1,returned_records,true
+Audi,SQ5 SPORTBACK,2021,0,empty_or_unmatched,true
+Audi,SQ7,2020,1,returned_records,true
+Audi,SQ7,2021,6,returned_records,true
+Audi,SQ7,2024,2,returned_records,true
+Audi,SQ7,2025,2,returned_records,true
+Audi,SQ8,2020,1,returned_records,true
+Audi,SQ8,2021,6,returned_records,true
+Audi,SQ8,2024,2,returned_records,true
+BMW,M2 COUPE,2024,0,empty_or_unmatched,true
+BMW,M3,2021,3,returned_records,true
+BMW,M3 SEDAN,2023,0,empty_or_unmatched,true
+BMW,M340I,2020,10,returned_records,true
+BMW,M340I,2021,6,returned_records,true
+BMW,M4 COUPE,2024,0,empty_or_unmatched,true
+BMW,M5,2020,3,returned_records,true
+BMW,M5,2021,1,returned_records,true
+BMW,M5 SEDAN,2023,0,empty_or_unmatched,true
+BMW,M8 CONVERTIBLE,2020,0,empty_or_unmatched,true
+BMW,X3 M,2020,0,empty_or_unmatched,true
+BMW,X3 M,2021,0,empty_or_unmatched,true
+BMW,X3 M,2022,0,empty_or_unmatched,true
+BMW,X3 M,2023,0,empty_or_unmatched,true
+BMW,X3 M,2024,0,empty_or_unmatched,true
+BMW,X4 M,2020,0,empty_or_unmatched,true
+BMW,X4 M,2021,0,empty_or_unmatched,true
+BMW,X4 M,2022,0,empty_or_unmatched,true
+BMW,X4 M,2023,0,empty_or_unmatched,true
+BMW,X4 M,2024,0,empty_or_unmatched,true
+BMW,X5 M,2020,0,empty_or_unmatched,true
+BMW,X5 M,2021,0,empty_or_unmatched,true
+BMW,X5 M,2022,0,empty_or_unmatched,true
+BMW,X5 M,2023,0,empty_or_unmatched,true
+BMW,X6 M,2021,0,empty_or_unmatched,true
+BMW,X6 M,2022,0,empty_or_unmatched,true
+BMW,X6 M,2023,0,empty_or_unmatched,true
+Honda,ACCORD,2020,5,returned_records,true
+Honda,ACCORD,2021,4,returned_records,true
+Honda,ACCORD,2022,4,returned_records,true
+Honda,ACCORD HYBRID,2020,5,returned_records,true
+Honda,ACCORD HYBRID,2021,3,returned_records,true
+Honda,ACCORD HYBRID,2022,1,returned_records,true
+Honda,ACCORD HYBRID,2023,7,returned_records,true
+Honda,ACCORD HYBRID,2024,5,returned_records,true
+Honda,ACCORD HYBRID,2025,3,returned_records,true
+Honda,FIT,2020,4,returned_records,true
+Honda,INSIGHT,2020,6,returned_records,true
+Honda,INSIGHT,2021,3,returned_records,true
+Honda,INSIGHT,2022,3,returned_records,true
+Honda,ODYSSEY,2020,14,returned_records,true
+Honda,ODYSSEY,2021,8,returned_records,true
+Honda,ODYSSEY,2022,9,returned_records,true
+Honda,ODYSSEY,2023,5,returned_records,true
+Honda,ODYSSEY,2024,3,returned_records,true
+Honda,ODYSSEY,2025,2,returned_records,true
+Lexus,ES 300H,2020,0,empty_or_unmatched,true
+Lexus,ES 300H,2021,0,empty_or_unmatched,true
+Lexus,ES 300H,2022,0,empty_or_unmatched,true
+Lexus,ES 300H,2025,0,empty_or_unmatched,true
+Lexus,ES 350,2020,0,empty_or_unmatched,true
+Lexus,ES 350,2021,0,empty_or_unmatched,true
+Lexus,ES 350,2022,0,empty_or_unmatched,true
+Lexus,ES 350,2023,0,empty_or_unmatched,true
+Lexus,ES 350,2024,0,empty_or_unmatched,true
+Lexus,ES 350,2025,0,empty_or_unmatched,true
+Lexus,GX 460,2020,0,empty_or_unmatched,true
+Lexus,GX 460,2021,0,empty_or_unmatched,true
+Lexus,GX 460,2022,0,empty_or_unmatched,true
+Lexus,GX 460,2023,0,empty_or_unmatched,true
+Lexus,GX 550,2024,0,empty_or_unmatched,true
+Lexus,GX 550,2025,0,empty_or_unmatched,true
+Lexus,IS 300,2020,0,empty_or_unmatched,true
+Lexus,IS 300,2021,0,empty_or_unmatched,true
+Lexus,IS 300,2022,0,empty_or_unmatched,true
+Lexus,IS 300,2023,0,empty_or_unmatched,true
+Lexus,IS 300,2024,0,empty_or_unmatched,true
+Lexus,IS 300,2025,0,empty_or_unmatched,true
+Lexus,IS 350,2020,0,empty_or_unmatched,true
+Lexus,IS 350,2022,0,empty_or_unmatched,true
+Lexus,IS 350,2023,0,empty_or_unmatched,true
+Lexus,IS 350,2024,0,empty_or_unmatched,true
+Lexus,IS 350,2025,0,empty_or_unmatched,true
+Lexus,IS 500,2022,0,empty_or_unmatched,true
+Lexus,IS 500,2023,0,empty_or_unmatched,true
+Lexus,IS 500,2024,0,empty_or_unmatched,true
+Lexus,IS 500,2025,0,empty_or_unmatched,true
+Lexus,LC 500,2020,0,empty_or_unmatched,true
+Lexus,LC 500,2021,0,empty_or_unmatched,true
+Lexus,LC 500,2024,0,empty_or_unmatched,true
+Lexus,LC 500 CONVERTIBLE,2021,0,empty_or_unmatched,true
+Lexus,LC 500 CONVERTIBLE,2024,0,empty_or_unmatched,true
+Lexus,LS 500,2021,0,empty_or_unmatched,true
+Lexus,LS 500,2023,0,empty_or_unmatched,true
+Lexus,LS 500,2025,0,empty_or_unmatched,true
+Lexus,LX 570,2020,0,empty_or_unmatched,true
+Lexus,LX 600,2022,0,empty_or_unmatched,true
+Lexus,LX 600,2023,0,empty_or_unmatched,true
+Lexus,LX 600,2024,0,empty_or_unmatched,true
+Lexus,LX 600,2025,0,empty_or_unmatched,true
+Lexus,NX 250,2022,0,empty_or_unmatched,true
+Lexus,NX 250,2023,0,empty_or_unmatched,true
+Lexus,NX 250,2024,0,empty_or_unmatched,true
+Lexus,NX 250,2025,0,empty_or_unmatched,true
+Lexus,NX 300,2021,0,empty_or_unmatched,true
+Lexus,NX300,2020,0,empty_or_unmatched,true
+Lexus,RC 300,2022,0,empty_or_unmatched,true
+Lexus,RC 300,2025,0,empty_or_unmatched,true
+Lexus,RC 350,2020,0,empty_or_unmatched,true
+Lexus,RC 350,2022,0,empty_or_unmatched,true
+Lexus,RC 350,2025,0,empty_or_unmatched,true
+Lexus,RX 350,2020,0,empty_or_unmatched,true
+Lexus,RX 350,2021,0,empty_or_unmatched,true
+Lexus,RX 350,2022,0,empty_or_unmatched,true
+Lexus,RX 350,2023,0,empty_or_unmatched,true
+Lexus,RX 350,2024,0,empty_or_unmatched,true
+Lexus,RX 350,2025,0,empty_or_unmatched,true
+Lexus,RX 350L,2020,0,empty_or_unmatched,true
+Lexus,RX 350L,2021,0,empty_or_unmatched,true
+Lexus,RX 350L,2022,0,empty_or_unmatched,true
+Lexus,TX 350,2024,0,empty_or_unmatched,true
+Lexus,TX 350,2025,0,empty_or_unmatched,true
+Lexus,UX 200,2021,0,empty_or_unmatched,true
+Lexus,UX 200,2022,0,empty_or_unmatched,true
+Lexus,UX 250H,2020,0,empty_or_unmatched,true
+Lexus,UX 250H,2021,0,empty_or_unmatched,true
+Lexus,UX 250H,2022,0,empty_or_unmatched,true
+Lexus,UX 250H,2023,0,empty_or_unmatched,true
+Lexus,UX 250H,2024,0,empty_or_unmatched,true
+Lexus,UX 300H,2025,0,empty_or_unmatched,true
+Mercedes-Benz,A 220 4MATIC,2022,1,returned_records,true
+Mercedes-Benz,AMG C63 S,2021,4,returned_records,true
+Mercedes-Benz,AMG G63,2021,8,returned_records,true
+Mercedes-Benz,AMG G63,2025,2,returned_records,true
+Mercedes-Benz,AMG GLC43 4MATIC COUPE,2025,2,returned_records,true
+Mercedes-Benz,C 300,2025,2,returned_records,true
+Mercedes-Benz,CLA 250,2025,0,empty_or_unmatched,true
+Mercedes-Benz,CLA 250 4MATIC,2022,0,empty_or_unmatched,true
+Mercedes-Benz,E 350,2025,2,returned_records,true
+Mercedes-Benz,E 350 4MATIC,2025,2,returned_records,true
+Mercedes-Benz,E 450 4MATIC,2020,1,returned_records,true
+Mercedes-Benz,E 450 4MATIC,2025,2,returned_records,true
+Mercedes-Benz,GLA 250,2025,1,returned_records,true
+Mercedes-Benz,GLA 250 4MATIC,2022,1,returned_records,true
+Mercedes-Benz,GLB 250,2025,2,returned_records,true
+Mercedes-Benz,GLB 250 4MATIC,2022,1,returned_records,true
+Mercedes-Benz,GLB 250 4MATIC,2023,1,returned_records,true
+Mercedes-Benz,GLB 250 4MATIC,2024,1,returned_records,true
+Mercedes-Benz,GLB 250 4MATIC,2025,1,returned_records,true
+Mercedes-Benz,GLC 300,2025,3,returned_records,true
+Mercedes-Benz,GLC 300 4MATIC,2025,3,returned_records,true
+Mercedes-Benz,GLE 350 4MATIC,2021,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 350 4MATIC,2022,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 350 4MATIC,2023,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 350 4MATIC,2025,1,returned_records,true
+Mercedes-Benz,GLE 450 4MATIC,2022,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 450 4MATIC,2023,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 450 4MATIC,2024,0,empty_or_unmatched,true
+Mercedes-Benz,GLE 450 4MATIC,2025,1,returned_records,true
+Mercedes-Benz,GLE 580 4MATIC,2025,0,empty_or_unmatched,true
+Mercedes-Benz,GLS 450 4MATIC,2025,1,returned_records,true
+Mercedes-Benz,GLS 580 4MATIC,2025,0,empty_or_unmatched,true
+Mercedes-Benz,METRIS CARGO VAN,2023,0,empty_or_unmatched,true
+Mercedes-Benz,METRIS PASSENGER VAN,2023,0,empty_or_unmatched,true
+Mercedes-Benz,S 560 4MATIC,2020,1,returned_records,true
+Mercedes-Benz,S 580 4MATIC,2025,1,returned_records,true
+Porsche,718 BOXSTER,2023,0,empty_or_unmatched,true
+Porsche,718 CAYMAN,2023,0,empty_or_unmatched,true
+Porsche,718 CAYMAN T,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA,2020,5,returned_records,true
+Porsche,911 CARRERA,2021,1,returned_records,true
+Porsche,911 CARRERA,2022,1,returned_records,true
+Porsche,911 CARRERA,2023,1,returned_records,true
+Porsche,911 CARRERA 4,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4,2023,1,returned_records,true
+Porsche,911 CARRERA 4 CABRIOLET,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4 CABRIOLET,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4 CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4 CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4 GTS,2022,1,returned_records,true
+Porsche,911 CARRERA 4 GTS,2023,2,returned_records,true
+Porsche,911 CARRERA 4 GTS CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4 GTS CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S,2023,1,returned_records,true
+Porsche,911 CARRERA 4S CABRIOLET,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S CABRIOLET,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA 4S CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA CABRIOLET,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA CABRIOLET,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA GTS,2022,1,returned_records,true
+Porsche,911 CARRERA GTS,2023,2,returned_records,true
+Porsche,911 CARRERA GTS,2024,2,returned_records,true
+Porsche,911 CARRERA GTS CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA GTS CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA GTS CABRIOLET,2024,0,empty_or_unmatched,true
+Porsche,911 CARRERA S,2020,1,returned_records,true
+Porsche,911 CARRERA S,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA S,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA S,2023,1,returned_records,true
+Porsche,911 CARRERA S CABRIOLET,2020,0,empty_or_unmatched,true
+Porsche,911 CARRERA S CABRIOLET,2021,0,empty_or_unmatched,true
+Porsche,911 CARRERA S CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 CARRERA S CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 CARRERA T,2023,1,returned_records,true
+Porsche,911 DAKAR,2023,1,returned_records,true
+Porsche,911 GT3,2022,3,returned_records,true
+Porsche,911 GT3,2023,2,returned_records,true
+Porsche,911 GT3 RS,2023,1,returned_records,true
+Porsche,911 GT3 TOURING,2022,1,returned_records,true
+Porsche,911 S/T,2024,0,empty_or_unmatched,true
+Porsche,911 TARGA 4,2021,0,empty_or_unmatched,true
+Porsche,911 TARGA 4,2022,0,empty_or_unmatched,true
+Porsche,911 TARGA 4,2023,0,empty_or_unmatched,true
+Porsche,911 TARGA 4,2024,0,empty_or_unmatched,true
+Porsche,911 TARGA 4 GTS,2022,0,empty_or_unmatched,true
+Porsche,911 TARGA 4 GTS,2023,0,empty_or_unmatched,true
+Porsche,911 TARGA 4S,2021,0,empty_or_unmatched,true
+Porsche,911 TARGA 4S,2022,0,empty_or_unmatched,true
+Porsche,911 TARGA 4S,2023,1,returned_records,true
+Porsche,911 TARGA 4S,2024,0,empty_or_unmatched,true
+Porsche,911 TURBO,2022,1,returned_records,true
+Porsche,911 TURBO,2023,1,returned_records,true
+Porsche,911 TURBO CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 TURBO CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,911 TURBO S,2021,1,returned_records,true
+Porsche,911 TURBO S,2022,1,returned_records,true
+Porsche,911 TURBO S,2023,2,returned_records,true
+Porsche,911 TURBO S CABRIOLET,2021,0,empty_or_unmatched,true
+Porsche,911 TURBO S CABRIOLET,2022,0,empty_or_unmatched,true
+Porsche,911 TURBO S CABRIOLET,2023,0,empty_or_unmatched,true
+Porsche,CAYENNE,2020,4,returned_records,true
+Porsche,CAYENNE,2021,5,returned_records,true
+Porsche,CAYENNE,2022,2,returned_records,true
+Porsche,CAYENNE,2023,1,returned_records,true
+Porsche,CAYENNE,2024,4,returned_records,true
+Porsche,CAYENNE COUPE,2020,0,empty_or_unmatched,true
+Porsche,CAYENNE COUPE,2021,0,empty_or_unmatched,true
+Porsche,CAYENNE COUPE,2023,0,empty_or_unmatched,true
+Porsche,CAYENNE GTS,2021,2,returned_records,true
+Porsche,CAYENNE GTS COUPE,2021,0,empty_or_unmatched,true
+Porsche,CAYENNE S,2020,1,returned_records,true
+Porsche,CAYENNE S,2021,1,returned_records,true
+Porsche,CAYENNE S COUPE,2021,0,empty_or_unmatched,true
+Porsche,CAYENNE TURBO,2020,1,returned_records,true
+Porsche,CAYENNE TURBO,2021,0,empty_or_unmatched,true
+Porsche,CAYENNE TURBO,2022,0,empty_or_unmatched,true
+Porsche,CAYENNE TURBO COUPE,2021,0,empty_or_unmatched,true
+Porsche,CAYENNE TURBO COUPE,2022,0,empty_or_unmatched,true
+Porsche,MACAN,2020,2,returned_records,true
+Porsche,MACAN,2021,1,returned_records,true
+Porsche,MACAN,2022,0,empty_or_unmatched,true
+Porsche,MACAN,2023,0,empty_or_unmatched,true
+Porsche,MACAN,2024,0,empty_or_unmatched,true
+Porsche,MACAN GTS,2024,0,empty_or_unmatched,true
+Porsche,MACAN S,2020,1,returned_records,true
+Porsche,MACAN T,2023,0,empty_or_unmatched,true
+Porsche,PANAMERA,2020,1,returned_records,true
+Porsche,PANAMERA,2021,3,returned_records,true
+Porsche,PANAMERA,2022,0,empty_or_unmatched,true
+Porsche,PANAMERA,2023,0,empty_or_unmatched,true
+Porsche,PANAMERA,2024,2,returned_records,true
+Porsche,PANAMERA GTS,2021,3,returned_records,true
+Porsche,PANAMERA TURBO S,2021,3,returned_records,true
+Toyota,86,2020,0,empty_or_unmatched,true
+Toyota,AVALON,2020,3,returned_records,true
+Toyota,AVALON,2021,2,returned_records,true
+Toyota,AVALON,2022,0,empty_or_unmatched,true
+Toyota,AVALON HYBRID,2020,3,returned_records,true
+Toyota,AVALON HYBRID,2021,1,returned_records,true
+Toyota,C-HR,2020,1,returned_records,true
+Toyota,C-HR,2021,1,returned_records,true
+Toyota,C-HR,2022,0,empty_or_unmatched,true
+Toyota,CAMRY,2020,3,returned_records,true
+Toyota,CAMRY,2021,1,returned_records,true
+Toyota,CAMRY,2022,1,returned_records,true
+Toyota,CAMRY,2023,2,returned_records,true
+Toyota,CAMRY,2024,1,returned_records,true
+Toyota,COROLLA,2020,3,returned_records,true
+Toyota,COROLLA,2021,1,returned_records,true
+Toyota,COROLLA,2022,0,empty_or_unmatched,true
+Toyota,COROLLA,2023,3,returned_records,true
+Toyota,COROLLA,2024,2,returned_records,true
+Toyota,COROLLA,2025,0,empty_or_unmatched,true
+Toyota,COROLLA CROSS,2022,2,returned_records,true
+Toyota,COROLLA CROSS,2023,4,returned_records,true
+Toyota,COROLLA CROSS,2024,0,empty_or_unmatched,true
+Toyota,COROLLA CROSS,2025,0,empty_or_unmatched,true
+Toyota,COROLLA HATCHBACK,2022,0,empty_or_unmatched,true
+Toyota,COROLLA HATCHBACK,2025,0,empty_or_unmatched,true
+Toyota,COROLLA HYBRID,2020,2,returned_records,true
+Toyota,COROLLA HYBRID,2022,0,empty_or_unmatched,true
+Toyota,GR COROLLA,2023,2,returned_records,true
+Toyota,GR COROLLA,2024,2,returned_records,true
+Toyota,GR COROLLA,2025,1,returned_records,true
+Toyota,GR86,2022,1,returned_records,true
+Toyota,GR86,2023,1,returned_records,true
+Toyota,GR86,2024,1,returned_records,true
+Toyota,GR86,2025,0,empty_or_unmatched,true
+Toyota,GRAND HIGHLANDER HYBRID,2024,3,returned_records,true
+Toyota,HIGHLANDER,2020,4,returned_records,true
+Toyota,HIGHLANDER,2021,4,returned_records,true
+Toyota,HIGHLANDER,2022,5,returned_records,true
+Toyota,HIGHLANDER,2023,9,returned_records,true
+Toyota,HIGHLANDER,2024,7,returned_records,true
+Toyota,HIGHLANDER,2025,4,returned_records,true
+Toyota,HIGHLANDER HYBRID,2020,4,returned_records,true
+Toyota,HIGHLANDER HYBRID,2021,4,returned_records,true
+Toyota,HIGHLANDER HYBRID,2022,4,returned_records,true
+Toyota,HIGHLANDER HYBRID,2023,6,returned_records,true
+Toyota,LAND CRUISER,2025,0,empty_or_unmatched,true
+Toyota,PRIUS,2020,0,empty_or_unmatched,true
+Toyota,PRIUS,2021,0,empty_or_unmatched,true
+Toyota,PRIUS,2022,1,returned_records,true
+Toyota,PRIUS,2023,4,returned_records,true
+Toyota,PRIUS,2024,4,returned_records,true
+Toyota,PRIUS,2025,2,returned_records,true
+Toyota,RAV4,2020,6,returned_records,true
+Toyota,RAV4,2021,1,returned_records,true
+Toyota,RAV4,2022,1,returned_records,true
+Toyota,RAV4,2023,3,returned_records,true
+Toyota,RAV4,2024,3,returned_records,true
+Toyota,RAV4,2025,3,returned_records,true
+Toyota,YARIS,2020,1,returned_records,true
